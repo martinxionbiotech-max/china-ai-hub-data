@@ -2,19 +2,17 @@
 
 API platforms and endpoints for Chinese AI models.
 
-## Tracked APIs (6)
+## Entities
 
-| API platform | Vendor | Main site page |
-|--------------|--------|----------------|
-| Ark | ByteDance | [chinaaihub.com/api/ark](https://chinaaihub.com/api/ark) |
-| DeepSeek API | DeepSeek | [chinaaihub.com/api/deepseek](https://chinaaihub.com/api/deepseek) |
-| MiniMax Open Platform | MiniMax | [chinaaihub.com/api/minimax](https://chinaaihub.com/api/minimax) |
-| Model Studio | Alibaba Cloud | [chinaaihub.com/api/model-studio](https://chinaaihub.com/api/model-studio) |
-| Moonshot Platform | Moonshot AI | [chinaaihub.com/api/moonshot](https://chinaaihub.com/api/moonshot) |
-| Z.ai | Zhipu AI | [chinaaihub.com/api/zai](https://chinaaihub.com/api/zai) |
+| Entity | Main site (canonical) |
+|---|---|
+| [ark](ark.md) | [chinaaihub.com](https://chinaaihub.com/api/ark) |
+| [deepseek](deepseek.md) | [chinaaihub.com](https://chinaaihub.com/api/deepseek) |
+| [minimax](minimax.md) | [chinaaihub.com](https://chinaaihub.com/api/minimax) |
+| [model-studio](model-studio.md) | [chinaaihub.com](https://chinaaihub.com/api/model-studio) |
+| [moonshot](moonshot.md) | [chinaaihub.com](https://chinaaihub.com/api/moonshot) |
+| [zai](zai.md) | [chinaaihub.com](https://chinaaihub.com/api/zai) |
 
-## Planned reference fields
+## Data policy
 
-Endpoint base URLs, supported modalities, token/context limits, billing models, and compatibility notes.
-
-Status: skeleton — full entity pages pending.
+All fields follow the main site source policy: `FACT` / `VENDOR CLAIM` / `ANALYSIS` classification, official sources first, `unknown` where not publicly disclosed.

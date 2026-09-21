@@ -8,12 +8,12 @@ While the main site hosts editorial content, comparisons and original research, 
 
 | Section | Scope |
 |---------|-------|
-| [Models](/models/) | Chinese foundation and coding models: capabilities, context windows, training knowledge, release dates |
-| [Companies](/companies/) | The organizations building China's AI stack: ownership, funding, products |
-| [Agents](/agents/) | Consumer and developer agent products: features, platforms, defaults |
-| [APIs](/apis/) | API platforms and endpoints: access, modalities, token limits |
-| [Pricing](/pricing/) | Time-stamped pricing snapshots with effective dates |
-| [Benchmarks](/benchmarks/) | Benchmark methodologies and vendor-reported results |
+| [Models](models/index.md) | Chinese foundation and coding models: capabilities, context windows, training knowledge, release dates |
+| [Companies](companies/index.md) | The organizations building China's AI stack: ownership, funding, products |
+| [Agents](agents/index.md) | Consumer and developer agent products: features, platforms, defaults |
+| [APIs](apis/index.md) | API platforms and endpoints: access, modalities, token limits |
+| [Pricing](pricing/index.md) | Time-stamped pricing snapshots with effective dates |
+| [Benchmarks](benchmarks/index.md) | Benchmark methodologies and vendor-reported results |
 
 ## Relationship to the main site
 

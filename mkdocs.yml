@@ -1,27 +1,88 @@
 site_name: China AI Hub Data
-site_description: "Data layer for China AI Hub — structured reference for China's AI ecosystem: models, companies, agents, APIs, pricing and benchmarks."
+site_description: 'Data layer for China AI Hub — structured reference for China''s
+  AI ecosystem: models, companies, agents, APIs, pricing and benchmarks.'
 site_url: https://data.chinaaihub.com
 site_author: China AI Hub
 copyright: © 2026 China AI Hub
-
 theme:
   name: material
   palette:
     primary: indigo
     accent: indigo
   features:
-    - navigation.sections
-    - navigation.indexes
-    - navigation.top
-
+  - navigation.sections
+  - navigation.indexes
+  - navigation.top
 plugins:
-  - search
-
+- search
 nav:
-  - Home: index.md
-  - Models: models/index.md
-  - Companies: companies/index.md
-  - Agents: agents/index.md
-  - APIs: apis/index.md
-  - Pricing: pricing/index.md
-  - Benchmarks: benchmarks/index.md
+- Home: index.md
+- Models:
+  - Overview: models/index.md
+  - DeepSeek-V3.2: models/deepseek-v3-2.md
+  - DeepSeek-V4.1-Flash: models/deepseek-v4-1-flash.md
+  - DeepSeek-V4-Pro: models/deepseek-v4-pro.md
+  - Doubao Seed 2.1 Pro: models/doubao-seed-2-1-pro.md
+  - Doubao Seed 2.1 Turbo: models/doubao-seed-2-1-turbo.md
+  - Doubao Seed Evolving: models/doubao-seed-evolving.md
+  - GLM-5.2: models/glm-5.2.md
+  - GLM-5.3-Flash: models/glm-5.3-flash.md
+  - GLM-5.3: models/glm-5.3.md
+  - Kimi K2.6: models/kimi-k2.6.md
+  - Kimi K2.7 Code Highspeed: models/kimi-k2.7-code-highspeed.md
+  - Kimi K2.7 Code: models/kimi-k2.7-code.md
+  - Kimi K3: models/kimi-k3.md
+  - MiniMax-M2.7-Highspeed: models/minimax-m2.7-highspeed.md
+  - MiniMax-M2.7: models/minimax-m2.7.md
+  - MiniMax-M3: models/minimax-m3.md
+  - Qwen3.8-2.4T-A95B: models/qwen3.8-2.4t-a95b.md
+  - Qwen3.8-Flash: models/qwen3.8-flash.md
+  - Qwen3.8-Max: models/qwen3.8-max.md
+- Companies:
+  - Overview: companies/index.md
+  - Alibaba Cloud (Qwen): companies/alibaba-cloud.md
+  - ByteDance: companies/bytedance.md
+  - DeepSeek: companies/deepseek.md
+  - MiniMax: companies/minimax.md
+  - Moonshot AI: companies/moonshot-ai.md
+  - Zhipu AI: companies/zhipu-ai.md
+- Agents:
+  - Overview: agents/index.md
+  - AutoGLM: agents/autoglm.md
+  - DeepSeek Harness: agents/deepseek-harness.md
+  - Doubao: agents/doubao-app.md
+  - GLM Coding Plan: agents/glm-coding-plan.md
+  - Kimi Code: agents/kimi-code.md
+  - MiniMax Agent: agents/minimax-agent.md
+  - MiniMax Code: agents/minimax-code.md
+  - Qoder: agents/qoder.md
+  - Qwen-Agent: agents/qwen-agent.md
+  - Qwen Code: agents/qwen-code.md
+- APIs:
+  - Overview: apis/index.md
+  - ark: apis/ark.md
+  - deepseek: apis/deepseek.md
+  - minimax: apis/minimax.md
+  - model-studio: apis/model-studio.md
+  - moonshot: apis/moonshot.md
+  - zai: apis/zai.md
+- Pricing:
+  - Overview: pricing/index.md
+  - alibaba-cloud: pricing/alibaba-cloud.md
+  - bytedance: pricing/bytedance.md
+  - deepseek: pricing/deepseek.md
+  - minimax: pricing/minimax.md
+  - moonshot-ai: pricing/moonshot-ai.md
+  - zhipu-ai: pricing/zhipu-ai.md
+- Benchmarks:
+  - Overview: benchmarks/index.md
+  - AutomationBench: benchmarks/automationbench.md
+  - BrowseComp: benchmarks/browsecomp.md
+  - CyberGym: benchmarks/cybergym.md
+  - DeepSWE: benchmarks/deepswe.md
+  - GPQA Diamond: benchmarks/gpqa-diamond.md
+  - HLE: benchmarks/hle.md
+  - MMMU-Pro: benchmarks/mmmu-pro.md
+  - SWE-bench: benchmarks/swe-bench.md
+  - Terminal-Bench: benchmarks/terminal-bench.md
+  - Video-MME: benchmarks/video-mme.md
