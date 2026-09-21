@@ -18,12 +18,12 @@ Hangzhou, Zhejiang, China (derived from the official footer company name 杭州�
 
 ## Foundation Models
 
-- deepseek-v4-1-flash
-- deepseek-v4-pro
+- [deepseek-v4-1-flash](../models/deepseek-v4-1-flash.md)
+- [deepseek-v4-pro](../models/deepseek-v4-pro.md)
 
 ## Open Models
 
-- deepseek-v3-2
+- [deepseek-v3-2](../models/deepseek-v3-2.md)
 
 ## Major Releases
 

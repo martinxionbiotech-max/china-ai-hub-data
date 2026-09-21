@@ -4,7 +4,7 @@
 
 ## Provider
 
-minimax
+[minimax](../companies/minimax.md)
 
 ## Api Type
 
@@ -38,9 +38,9 @@ Yes
 
 | model | input_limit |
 |---|---|
-| minimax-m3 | 1048576 |
-| minimax-m2.7 | 204800 |
-| minimax-m2.7-highspeed | 204800 |
+| [minimax-m3](../models/minimax-m3.md) | 1048576 |
+| [minimax-m2.7](../models/minimax-m2.7.md) | 204800 |
+| [minimax-m2.7-highspeed](../models/minimax-m2.7-highspeed.md) | 204800 |
 
 ## Regions
 
@@ -53,7 +53,7 @@ Yes
 
 ## Pricing Ref
 
-minimax
+[minimax](../pricing/minimax.md)
 
 ## Documentation
 

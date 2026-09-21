@@ -26,13 +26,13 @@ Room 1704-1, No. 1699 Gubei Road, Minhang District, Shanghai, China
 
 ## Foundation Models
 
-- minimax-m3
-- minimax-m2.7
-- minimax-m2.7-highspeed
+- [minimax-m3](../models/minimax-m3.md)
+- [minimax-m2.7](../models/minimax-m2.7.md)
+- [minimax-m2.7-highspeed](../models/minimax-m2.7-highspeed.md)
 
 ## Open Models
 
-- minimax-m3
+- [minimax-m3](../models/minimax-m3.md)
 
 ## Major Releases
 

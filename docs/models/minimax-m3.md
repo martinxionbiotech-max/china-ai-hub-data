@@ -4,7 +4,7 @@
 
 ## Provider
 
-minimax
+[minimax](../companies/minimax.md)
 
 ## Model Family
 
@@ -80,10 +80,10 @@ Yes
 
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
-| BrowseComp | 83.5 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/models/text/m3 |
+| [BrowseComp](../benchmarks/browsecomp.md) | 83.5 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/models/text/m3 |
 | PostTrainBench | 37.1 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/models/text/m3 |
-| SWE-bench Pro | 59.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
-| Terminal-Bench 2.1 | 66.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
+| [SWE-bench Pro](../benchmarks/swe-bench.md) | 59.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
+| [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 66.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
 | MCP Atlas | 74.2 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
 
 ## Known Limitations

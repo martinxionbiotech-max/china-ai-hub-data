@@ -4,7 +4,7 @@
 
 ## Company
 
-moonshot-ai
+[moonshot-ai](../companies/moonshot-ai.md)
 
 ## Description
 

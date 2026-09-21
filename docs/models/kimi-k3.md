@@ -4,7 +4,7 @@
 
 ## Provider
 
-moonshot-ai
+[moonshot-ai](../companies/moonshot-ai.md)
 
 ## Model Family
 
@@ -80,12 +80,12 @@ Yes
 
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
-| GPQA Diamond | 93.5 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
-| HLE-Full | 43.5 (56.0 with tools) | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
-| DeepSWE | 67.5 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
-| Terminal-Bench 2.1 | 88.3 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
-| MMMU-Pro | 81.6 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
-| Video-MME (with subtitles) | 90.0 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| [GPQA Diamond](../benchmarks/gpqa-diamond.md) | 93.5 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| [HLE-Full](../benchmarks/hle.md) | 43.5 (56.0 with tools) | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| [DeepSWE](../benchmarks/deepswe.md) | 67.5 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 88.3 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| [MMMU-Pro](../benchmarks/mmmu-pro.md) | 81.6 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| [Video-MME (with subtitles)](../benchmarks/video-mme.md) | 90.0 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 
 ## Known Limitations
 

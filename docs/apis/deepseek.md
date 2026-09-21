@@ -4,7 +4,7 @@
 
 ## Provider
 
-deepseek
+[deepseek](../companies/deepseek.md)
 
 ## Api Type
 
@@ -42,8 +42,8 @@ Yes
 
 | model | input_limit | output_limit |
 |---|---|---|
-| deepseek-v4-1-flash | 1048576 | 393216 |
-| deepseek-v4-pro | 1048576 | 393216 |
+| [deepseek-v4-1-flash](../models/deepseek-v4-1-flash.md) | 1048576 | 393216 |
+| [deepseek-v4-pro](../models/deepseek-v4-pro.md) | 1048576 | 393216 |
 
 ## Rate Limits
 
@@ -55,7 +55,7 @@ Concurrency: deepseek-flash 2500; deepseek-v4-pro 500 (per official pricing page
 
 ## Pricing Ref
 
-deepseek
+[deepseek](../pricing/deepseek.md)
 
 ## Documentation
 

@@ -21,9 +21,9 @@ No. 1 Building, Dazhongsi Plaza, No. 18A North Third Ring Road West, Haidian Dis
 
 ## Foundation Models
 
-- doubao-seed-2-1-pro
-- doubao-seed-evolving
-- doubao-seed-2-1-turbo
+- [doubao-seed-2-1-pro](../models/doubao-seed-2-1-pro.md)
+- [doubao-seed-evolving](../models/doubao-seed-evolving.md)
+- [doubao-seed-2-1-turbo](../models/doubao-seed-2-1-turbo.md)
 
 ## Cloud Distribution
 

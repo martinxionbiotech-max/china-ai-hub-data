@@ -4,7 +4,7 @@
 
 ## Provider
 
-deepseek
+[deepseek](../companies/deepseek.md)
 
 ## Model Family
 
@@ -92,9 +92,9 @@ Yes
 
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
-| HLE | 42.7 (60.0 with tools) | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
-| Terminal-Bench 2.1 | 87.9 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
-| DeepSWE | 62.7 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [HLE](../benchmarks/hle.md) | 42.7 (60.0 with tools) | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 87.9 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [DeepSWE](../benchmarks/deepswe.md) | 62.7 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
 | Agents' Last Exam | 25.7 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
 
 ## Known Limitations

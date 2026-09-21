@@ -4,7 +4,7 @@
 
 ## Provider
 
-bytedance
+[bytedance](../companies/bytedance.md)
 
 ## Model Family
 

@@ -24,14 +24,14 @@ Spring 2023
 
 ## Foundation Models
 
-- kimi-k3
-- kimi-k2.7-code
-- kimi-k2.7-code-highspeed
-- kimi-k2.6
+- [kimi-k3](../models/kimi-k3.md)
+- [kimi-k2.7-code](../models/kimi-k2.7-code.md)
+- [kimi-k2.7-code-highspeed](../models/kimi-k2.7-code-highspeed.md)
+- [kimi-k2.6](../models/kimi-k2.6.md)
 
 ## Open Models
 
-- kimi-k3
+- [kimi-k3](../models/kimi-k3.md)
 
 ## Major Releases
 

@@ -24,13 +24,13 @@ China platform: Beijing Zhipu Huazhang Technology Co., Ltd. (北京智谱华章�
 
 ## Foundation Models
 
-- glm-5.3
-- glm-5.3-flash
-- glm-5.2
+- [glm-5.3](../models/glm-5.3.md)
+- [glm-5.3-flash](../models/glm-5.3-flash.md)
+- [glm-5.2](../models/glm-5.2.md)
 
 ## Open Models
 
-- glm-5.3
+- [glm-5.3](../models/glm-5.3.md)
 
 ## Major Releases
 

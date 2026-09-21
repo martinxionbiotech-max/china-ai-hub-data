@@ -4,7 +4,7 @@
 
 ## Provider
 
-deepseek
+[deepseek](../companies/deepseek.md)
 
 ## Model Family
 

@@ -10,10 +10,10 @@ Humanity's Last Exam - a frontier benchmark of expert-level questions across dis
 
 | benchmark | model | score | model_version | metric | date | source_type | source_url |
 |---|---|---|---|---|---|---|---|
-| HLE | deepseek-v4-1-flash | 36.8 | 39.1 on pure-text subset | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
-| HLE | deepseek-v4-pro | 42.7 (60.0 with tools) | — | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
-| HLE | qwen3.8-max | 43.6 (56.2 with tools) | — | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
-| HLE | kimi-k3 | 43.5 (56.0 with tools) | HLE-Full | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| HLE | [deepseek-v4-1-flash](../models/deepseek-v4-1-flash.md) | 36.8 | 39.1 on pure-text subset | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
+| HLE | [deepseek-v4-pro](../models/deepseek-v4-pro.md) | 42.7 (60.0 with tools) | — | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
+| HLE | [qwen3.8-max](../models/qwen3.8-max.md) | 43.6 (56.2 with tools) | — | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
+| HLE | [kimi-k3](../models/kimi-k3.md) | 43.5 (56.0 with tools) | HLE-Full | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 | HLE | kimi-k2.5 | 30.1 (50.2 with tools) | HLE-Full | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 | HLE | minimax-m2 | 12.5 without tools / 31.8 with tools | — | accuracy | 2025-10 | vendor_reported | https://github.com/MiniMax-AI/MiniMax-M2 |
 

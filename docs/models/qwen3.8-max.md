@@ -4,7 +4,7 @@
 
 ## Provider
 
-alibaba-cloud
+[alibaba-cloud](../companies/alibaba-cloud.md)
 
 ## Model Family
 
@@ -97,10 +97,10 @@ Yes
 
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
-| Terminal-Bench 2.1 | 86.6 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
-| SWE-bench Pro | 67.7 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
-| GPQA Diamond | 92.6 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
-| HLE | 43.6 (56.2 with tools) | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
+| [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 86.6 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
+| [SWE-bench Pro](../benchmarks/swe-bench.md) | 67.7 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
+| [GPQA Diamond](../benchmarks/gpqa-diamond.md) | 92.6 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
+| [HLE](../benchmarks/hle.md) | 43.6 (56.2 with tools) | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
 | MRCR v2 256K | 92.9 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B |
 
 ## Known Limitations

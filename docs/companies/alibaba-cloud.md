@@ -20,12 +20,12 @@
 
 ## Foundation Models
 
-- qwen3.8-max
-- qwen3.8-flash
+- [qwen3.8-max](../models/qwen3.8-max.md)
+- [qwen3.8-flash](../models/qwen3.8-flash.md)
 
 ## Open Models
 
-- qwen3.8-2.4t-a95b
+- [qwen3.8-2.4t-a95b](../models/qwen3.8-2.4t-a95b.md)
 
 ## Major Releases
 

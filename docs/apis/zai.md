@@ -4,7 +4,7 @@
 
 ## Provider
 
-zhipu-ai
+[zhipu-ai](../companies/zhipu-ai.md)
 
 ## Api Type
 
@@ -38,8 +38,8 @@ Yes
 
 | model | input_limit | output_limit |
 |---|---|---|
-| glm-5.3 | 1048576 | 131072 |
-| glm-5.3-flash | 1048576 | 131072 |
+| [glm-5.3](../models/glm-5.3.md) | 1048576 | 131072 |
+| [glm-5.3-flash](../models/glm-5.3-flash.md) | 1048576 | 131072 |
 
 ## Regions
 
@@ -53,7 +53,7 @@ Yes
 
 ## Pricing Ref
 
-zhipu-ai
+[zhipu-ai](../pricing/zhipu-ai.md)
 
 ## Documentation
 

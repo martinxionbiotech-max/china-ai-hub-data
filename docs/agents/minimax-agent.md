@@ -4,7 +4,7 @@
 
 ## Company
 
-minimax
+[minimax](../companies/minimax.md)
 
 ## Description
 

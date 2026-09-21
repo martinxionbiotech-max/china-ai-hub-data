@@ -4,7 +4,7 @@
 
 ## Company
 
-alibaba-cloud
+[alibaba-cloud](../companies/alibaba-cloud.md)
 
 ## Description
 

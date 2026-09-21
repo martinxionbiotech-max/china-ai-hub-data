@@ -18,9 +18,9 @@ pay_as_you_go
 
 | model | input_price_per_1m | output_price_per_1m | cached_input_price_per_1m | note | official_source |
 |---|---|---|---|---|---|
-| doubao-seed-2-1-pro | 6.0 | 30.0 | 1.2 | Standard tier. Low-priority tier ~50%: 3.00/15.00. Context cache storage 0.017 CNY per 1M tokens per hour. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
-| doubao-seed-evolving | 6.0 | 30.0 | 1.2 | Standard tier. Pricing row matches Doubao Seed 2.1 Pro. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
-| doubao-seed-2-1-turbo | 3.0 | 15.0 | 0.6 | Standard tier. Low-latency tier: 6.00/30.00. Low-priority tier: 1.50/7.50. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
+| [doubao-seed-2-1-pro](../models/doubao-seed-2-1-pro.md) | 6.0 | 30.0 | 1.2 | Standard tier. Low-priority tier ~50%: 3.00/15.00. Context cache storage 0.017 CNY per 1M tokens per hour. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
+| [doubao-seed-evolving](../models/doubao-seed-evolving.md) | 6.0 | 30.0 | 1.2 | Standard tier. Pricing row matches Doubao Seed 2.1 Pro. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
+| [doubao-seed-2-1-turbo](../models/doubao-seed-2-1-turbo.md) | 3.0 | 15.0 | 0.6 | Standard tier. Low-latency tier: 6.00/30.00. Low-priority tier: 1.50/7.50. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
 
 ## Last Verified
 

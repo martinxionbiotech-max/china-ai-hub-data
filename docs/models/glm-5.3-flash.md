@@ -4,7 +4,7 @@
 
 ## Provider
 
-zhipu-ai
+[zhipu-ai](../companies/zhipu-ai.md)
 
 ## Model Family
 
@@ -95,8 +95,8 @@ Yes
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
 | Artificial Analysis Intelligence Index v4.1.1 | 57 | index score | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash |
-| DeepSWE v1.1 | 63.4 | accuracy | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash |
-| AutomationBench | 48.8 | accuracy | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash |
+| [DeepSWE v1.1](../benchmarks/deepswe.md) | 63.4 | accuracy | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash |
+| [AutomationBench](../benchmarks/automationbench.md) | 48.8 | accuracy | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash |
 
 ## Known Limitations
 

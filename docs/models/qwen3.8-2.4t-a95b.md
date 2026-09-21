@@ -4,7 +4,7 @@
 
 ## Provider
 
-alibaba-cloud
+[alibaba-cloud](../companies/alibaba-cloud.md)
 
 ## Model Family
 

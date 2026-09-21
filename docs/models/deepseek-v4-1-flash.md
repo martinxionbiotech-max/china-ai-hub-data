@@ -4,7 +4,7 @@
 
 ## Provider
 
-deepseek
+[deepseek](../companies/deepseek.md)
 
 ## Model Family
 
@@ -83,11 +83,11 @@ Yes
 
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
-| GPQA Diamond | 90.9 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
-| HLE | 36.8 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [GPQA Diamond](../benchmarks/gpqa-diamond.md) | 90.9 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [HLE](../benchmarks/hle.md) | 36.8 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
 | Codeforces | 3471 | rating | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
-| Terminal-Bench 2.1 | 90.6 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
-| DeepSWE v1.1 | 74.2 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 90.6 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
+| [DeepSWE v1.1](../benchmarks/deepswe.md) | 74.2 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
 
 ## Known Limitations
 

@@ -4,7 +4,7 @@
 
 ## Company
 
-deepseek
+[deepseek](../companies/deepseek.md)
 
 ## Description
 

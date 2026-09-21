@@ -4,7 +4,7 @@
 
 ## Provider
 
-minimax
+[minimax](../companies/minimax.md)
 
 ## Model Family
 

@@ -4,7 +4,7 @@
 
 ## Provider
 
-zhipu-ai
+[zhipu-ai](../companies/zhipu-ai.md)
 
 ## Model Family
 

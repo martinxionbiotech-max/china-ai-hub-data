@@ -4,7 +4,7 @@
 
 ## Provider
 
-bytedance
+[bytedance](../companies/bytedance.md)
 
 ## Api Type
 
@@ -38,9 +38,9 @@ Yes
 
 | model | input_limit | output_limit |
 |---|---|---|
-| doubao-seed-2-1-pro | 1048576 | 262144 |
-| doubao-seed-evolving | 1048576 | 262144 |
-| doubao-seed-2-1-turbo | 262144 | 262144 |
+| [doubao-seed-2-1-pro](../models/doubao-seed-2-1-pro.md) | 1048576 | 262144 |
+| [doubao-seed-evolving](../models/doubao-seed-evolving.md) | 1048576 | 262144 |
+| [doubao-seed-2-1-turbo](../models/doubao-seed-2-1-turbo.md) | 262144 | 262144 |
 
 ## Rate Limits
 
@@ -56,7 +56,7 @@ Flagship Doubao models: 500 RPM / 1,000,000 TPM (as of 2026-09-20)
 
 ## Pricing Ref
 
-bytedance
+[bytedance](../pricing/bytedance.md)
 
 ## Documentation
 

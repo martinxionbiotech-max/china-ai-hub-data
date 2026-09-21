@@ -10,7 +10,7 @@ Multimodal, multi-discipline understanding benchmark with college-level question
 
 | benchmark | model | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|---|
-| MMMU-Pro | kimi-k3 | 81.6 (83.4 with tools) | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| MMMU-Pro | [kimi-k3](../models/kimi-k3.md) | 81.6 (83.4 with tools) | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 | MMMU-Pro | kimi-k2.5 | 78.5 | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 
 ## Limitations

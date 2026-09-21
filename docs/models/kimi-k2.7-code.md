@@ -4,7 +4,7 @@
 
 ## Provider
 
-moonshot-ai
+[moonshot-ai](../companies/moonshot-ai.md)
 
 ## Model Family
 

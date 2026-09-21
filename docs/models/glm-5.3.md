@@ -4,7 +4,7 @@
 
 ## Provider
 
-zhipu-ai
+[zhipu-ai](../companies/zhipu-ai.md)
 
 ## Model Family
 
@@ -83,10 +83,10 @@ Yes
 
 | benchmark | score | metric | date | source_type | source_url |
 |---|---|---|---|---|---|
-| Terminal-Bench 3.0 | 28.3 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
-| DeepSWE v1.1 | 66.9 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
+| [Terminal-Bench 3.0](../benchmarks/terminal-bench.md) | 28.3 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
+| [DeepSWE v1.1](../benchmarks/deepswe.md) | 66.9 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
 | Agents' Last Exam (CLI) | 28.5 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
-| CyberGym | 84.5 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
+| [CyberGym](../benchmarks/cybergym.md) | 84.5 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
 
 ## Known Limitations
 

@@ -10,7 +10,7 @@ Video understanding benchmark spanning various video durations and domains.
 
 | benchmark | model | score | model_version | metric | date | source_type | source_url |
 |---|---|---|---|---|---|---|---|
-| Video-MME | kimi-k3 | 90.0 | with subtitles | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
+| Video-MME | [kimi-k3](../models/kimi-k3.md) | 90.0 | with subtitles | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 | Video-MME | kimi-k2.5 | 87.4 | — | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 
 ## Limitations

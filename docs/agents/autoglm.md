@@ -4,7 +4,7 @@
 
 ## Company
 
-zhipu-ai
+[zhipu-ai](../companies/zhipu-ai.md)
 
 ## Description
 

@@ -4,7 +4,7 @@
 
 ## Company
 
-bytedance
+[bytedance](../companies/bytedance.md)
 
 ## Description
 

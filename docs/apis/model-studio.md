@@ -4,7 +4,7 @@
 
 ## Provider
 
-alibaba-cloud
+[alibaba-cloud](../companies/alibaba-cloud.md)
 
 ## Api Type
 
@@ -42,8 +42,8 @@ Yes
 
 | model | input_limit | output_limit |
 |---|---|---|
-| qwen3.8-max | 991808 | 131072 |
-| qwen3.8-flash | 991808 | 131072 |
+| [qwen3.8-max](../models/qwen3.8-max.md) | 991808 | 131072 |
+| [qwen3.8-flash](../models/qwen3.8-flash.md) | 991808 | 131072 |
 
 ## Rate Limits
 
@@ -64,7 +64,7 @@ Global regions (Frankfurt / US / Tokyo / Hong Kong): 30,000 RPM, 5,000,000 TPM f
 
 ## Pricing Ref
 
-alibaba-cloud
+[alibaba-cloud](../pricing/alibaba-cloud.md)
 
 ## Documentation
 

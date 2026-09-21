@@ -4,7 +4,7 @@
 
 ## Provider
 
-moonshot-ai
+[moonshot-ai](../companies/moonshot-ai.md)
 
 ## Api Type
 
@@ -42,10 +42,10 @@ Yes
 
 | model | input_limit | output_limit |
 |---|---|---|
-| kimi-k3 | 1048576 | 1048576 |
-| kimi-k2.7-code | 262144 | — |
-| kimi-k2.7-code-highspeed | 262144 | — |
-| kimi-k2.6 | 262144 | — |
+| [kimi-k3](../models/kimi-k3.md) | 1048576 | 1048576 |
+| [kimi-k2.7-code](../models/kimi-k2.7-code.md) | 262144 | — |
+| [kimi-k2.7-code-highspeed](../models/kimi-k2.7-code-highspeed.md) | 262144 | — |
+| [kimi-k2.6](../models/kimi-k2.6.md) | 262144 | — |
 
 ## Cloud Providers
 
@@ -53,7 +53,7 @@ Yes
 
 ## Pricing Ref
 
-moonshot-ai
+[moonshot-ai](../pricing/moonshot-ai.md)
 
 ## Documentation
 
