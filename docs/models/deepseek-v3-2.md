@@ -1,5 +1,49 @@
 # DeepSeek-V3.2
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/deepseek-v3-2",
+      "name": "DeepSeek-V3.2",
+      "url": "https://chinaaihub.com/models/deepseek-v3-2",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/deepseek-v3-2/",
+      "provider": {
+        "@type": "Organization",
+        "name": "DeepSeek",
+        "@id": "https://chinaaihub.com/companies/deepseek",
+        "url": "https://chinaaihub.com/companies/deepseek"
+      },
+      "datePublished": "2025-12-01"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSeek-V3.2",
+          "item": "https://data.chinaaihub.com/models/deepseek-v3-2/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/deepseek-v3-2](https://chinaaihub.com/models/deepseek-v3-2)
 
 ## Provider

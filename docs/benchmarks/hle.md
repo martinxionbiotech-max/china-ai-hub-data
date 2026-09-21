@@ -1,5 +1,44 @@
 # HLE
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/hle",
+      "name": "HLE",
+      "url": "https://chinaaihub.com/benchmarks/hle",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/hle/",
+      "description": "Humanity's Last Exam - a frontier benchmark of expert-level questions across disciplines, often reported with and without tool access.",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "HLE",
+          "item": "https://data.chinaaihub.com/benchmarks/hle/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/hle](https://chinaaihub.com/benchmarks/hle)
 
 ## Description

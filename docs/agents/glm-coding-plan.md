@@ -1,5 +1,49 @@
 # GLM Coding Plan
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/glm-coding-plan",
+      "name": "GLM Coding Plan",
+      "url": "https://chinaaihub.com/agents/glm-coding-plan",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/glm-coding-plan/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Zhipu AI",
+        "@id": "https://chinaaihub.com/companies/zhipu-ai",
+        "url": "https://chinaaihub.com/companies/zhipu-ai"
+      },
+      "description": "Zhipu AI's coding-agent subscription (bigmodel.cn/glm-coding): one plan that powers ZCode (Zhipu's own coding client), AutoClaw (office agent) and 20+ third-party coding tools including Claude Code, Codex, Cursor and OpenClaw. Runs on GLM-5.3 / GLM-5.3-Flash with 1M-token context; credits refresh per 5-hour window and weekly. International counterpart on Z.AI from $18/month."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GLM Coding Plan",
+          "item": "https://data.chinaaihub.com/agents/glm-coding-plan/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/glm-coding-plan](https://chinaaihub.com/agents/glm-coding-plan)
 
 ## Company

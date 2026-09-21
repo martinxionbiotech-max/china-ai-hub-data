@@ -5,6 +5,7 @@ site_url: https://data.chinaaihub.com
 site_author: China AI Hub
 copyright: © 2026 China AI Hub
 theme:
+  custom_dir: overrides
   name: material
   palette:
     primary: indigo

@@ -1,5 +1,48 @@
 # Kimi K2.7 Code
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/kimi-k2.7-code",
+      "name": "Kimi K2.7 Code",
+      "url": "https://chinaaihub.com/models/kimi-k2.7-code",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/kimi-k2.7-code/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Moonshot AI",
+        "@id": "https://chinaaihub.com/companies/moonshot-ai",
+        "url": "https://chinaaihub.com/companies/moonshot-ai"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kimi K2.7 Code",
+          "item": "https://data.chinaaihub.com/models/kimi-k2.7-code/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/kimi-k2.7-code](https://chinaaihub.com/models/kimi-k2.7-code)
 
 ## Provider

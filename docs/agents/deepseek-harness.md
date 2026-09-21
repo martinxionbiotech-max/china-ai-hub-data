@@ -1,5 +1,49 @@
 # DeepSeek Harness
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/deepseek-harness",
+      "name": "DeepSeek Harness",
+      "url": "https://chinaaihub.com/agents/deepseek-harness",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/deepseek-harness/",
+      "provider": {
+        "@type": "Organization",
+        "name": "DeepSeek",
+        "@id": "https://chinaaihub.com/companies/deepseek",
+        "url": "https://chinaaihub.com/companies/deepseek"
+      },
+      "description": "Open-source agent harness from DeepSeek ('Everything is a Plugin') that powers its coding agent. All capabilities - models, tools, skills, sessions, sandbox, storage, loops, scheduling and UI - are composed from replaceable plugins. Developer preview; ships as CLI (dsh), Web UI, Electron Desktop app, Python SDK and ACP server."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSeek Harness",
+          "item": "https://data.chinaaihub.com/agents/deepseek-harness/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/deepseek-harness](https://chinaaihub.com/agents/deepseek-harness)
 
 ## Company

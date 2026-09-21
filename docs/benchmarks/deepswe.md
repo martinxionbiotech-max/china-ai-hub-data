@@ -1,5 +1,44 @@
 # DeepSWE
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/deepswe",
+      "name": "DeepSWE",
+      "url": "https://chinaaihub.com/benchmarks/deepswe",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/deepswe/",
+      "description": "Software engineering benchmark built from real-world issues and pull requests.",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSWE",
+          "item": "https://data.chinaaihub.com/benchmarks/deepswe/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/deepswe](https://chinaaihub.com/benchmarks/deepswe)
 
 ## Description

@@ -1,5 +1,48 @@
 # DeepSeek
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://chinaaihub.com/companies/deepseek",
+      "name": "DeepSeek",
+      "url": "https://chinaaihub.com/companies/deepseek",
+      "mainEntityOfPage": "https://data.chinaaihub.com/companies/deepseek/",
+      "sameAs": [
+        "https://www.deepseek.com/"
+      ],
+      "alternateName": [
+        "深度求索"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Companies",
+          "item": "https://data.chinaaihub.com/companies/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSeek",
+          "item": "https://data.chinaaihub.com/companies/deepseek/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/companies/deepseek](https://chinaaihub.com/companies/deepseek)
 
 ## Aliases

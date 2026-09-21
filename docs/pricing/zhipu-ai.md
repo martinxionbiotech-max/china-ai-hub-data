@@ -1,5 +1,105 @@
 # zhipu-ai
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://chinaaihub.com/pricing/zhipu-ai",
+      "name": "Zhipu AI pricing",
+      "url": "https://chinaaihub.com/pricing/zhipu-ai",
+      "mainEntityOfPage": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Zhipu AI",
+        "@id": "https://chinaaihub.com/companies/zhipu-ai",
+        "url": "https://chinaaihub.com/companies/zhipu-ai"
+      },
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "GLM-5.3 — input price per 1M tokens",
+          "price": 1.4,
+          "priceCurrency": "USD",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "GLM-5.3",
+            "@id": "https://chinaaihub.com/models/glm-5.3",
+            "url": "https://chinaaihub.com/models/glm-5.3"
+          },
+          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "description": "Output price per 1M tokens: $4.4"
+        },
+        {
+          "@type": "Offer",
+          "name": "GLM-5.3-Flash — input price per 1M tokens",
+          "price": 0.15,
+          "priceCurrency": "USD",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "GLM-5.3-Flash",
+            "@id": "https://chinaaihub.com/models/glm-5.3-flash",
+            "url": "https://chinaaihub.com/models/glm-5.3-flash"
+          },
+          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "description": "Output price per 1M tokens: $0.5"
+        },
+        {
+          "@type": "Offer",
+          "name": "glm-5.3-flashx — input price per 1M tokens",
+          "price": 0.37,
+          "priceCurrency": "USD",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "glm-5.3-flashx"
+          },
+          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "description": "Output price per 1M tokens: $1.25"
+        },
+        {
+          "@type": "Offer",
+          "name": "GLM-5.2 — input price per 1M tokens",
+          "price": 1.4,
+          "priceCurrency": "USD",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "GLM-5.2",
+            "@id": "https://chinaaihub.com/models/glm-5.2",
+            "url": "https://chinaaihub.com/models/glm-5.2"
+          },
+          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "description": "Output price per 1M tokens: $4.4"
+        }
+      ],
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pricing",
+          "item": "https://data.chinaaihub.com/pricing/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "zhipu-ai",
+          "item": "https://data.chinaaihub.com/pricing/zhipu-ai/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/pricing/zhipu-ai](https://chinaaihub.com/pricing/zhipu-ai)
 
 ## Currency

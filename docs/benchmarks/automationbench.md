@@ -1,5 +1,44 @@
 # AutomationBench
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/automationbench",
+      "name": "AutomationBench",
+      "url": "https://chinaaihub.com/benchmarks/automationbench",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/automationbench/",
+      "description": "Benchmark of computer-use automation tasks.",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AutomationBench",
+          "item": "https://data.chinaaihub.com/benchmarks/automationbench/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/automationbench](https://chinaaihub.com/benchmarks/automationbench)
 
 ## Description

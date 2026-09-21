@@ -1,5 +1,51 @@
 # Alibaba Cloud (Qwen)
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://chinaaihub.com/companies/alibaba-cloud",
+      "name": "Alibaba Cloud (Qwen)",
+      "url": "https://chinaaihub.com/companies/alibaba-cloud",
+      "mainEntityOfPage": "https://data.chinaaihub.com/companies/alibaba-cloud/",
+      "sameAs": [
+        "https://qwen.ai/"
+      ],
+      "alternateName": [
+        "Qwen",
+        "千问",
+        "阿里云",
+        "Qwen Team"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Companies",
+          "item": "https://data.chinaaihub.com/companies/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Alibaba Cloud (Qwen)",
+          "item": "https://data.chinaaihub.com/companies/alibaba-cloud/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/companies/alibaba-cloud](https://chinaaihub.com/companies/alibaba-cloud)
 
 ## Aliases

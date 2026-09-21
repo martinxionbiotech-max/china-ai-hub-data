@@ -1,5 +1,49 @@
 # Qwen Code
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/qwen-code",
+      "name": "Qwen Code",
+      "url": "https://chinaaihub.com/agents/qwen-code",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/qwen-code/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Alibaba Cloud (Qwen)",
+        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
+        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+      },
+      "description": "Alibaba Qwen team's open-source AI coding agent (Apache-2.0) for terminal, editor, desktop, browser and chat. Originally based on Google Gemini CLI v0.8.2, independent development since v0.1 as a multi-protocol, multi-platform agent framework. Ships as CLI (npm), Desktop app, VS Code 'Qwen Code Companion' (Beta), Web UI and IM channels (Telegram/DingTalk/WeChat/Feishu). Includes 5 permission modes, Seatbelt/Docker sandboxing, auto-memory, subagents, MCP, computer use and multi-protocol model support."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Qwen Code",
+          "item": "https://data.chinaaihub.com/agents/qwen-code/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/qwen-code](https://chinaaihub.com/agents/qwen-code)
 
 ## Company

@@ -1,5 +1,49 @@
-# ark
+# Ark API
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "APIReference",
+      "@id": "https://chinaaihub.com/api/ark",
+      "name": "Ark API",
+      "url": "https://chinaaihub.com/api/ark",
+      "mainEntityOfPage": "https://data.chinaaihub.com/apis/ark/",
+      "provider": {
+        "@type": "Organization",
+        "name": "ByteDance",
+        "@id": "https://chinaaihub.com/companies/bytedance",
+        "url": "https://chinaaihub.com/companies/bytedance"
+      },
+      "documentation": "https://docs.volcengine.com/docs/ark"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "APIs",
+          "item": "https://data.chinaaihub.com/apis/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Ark API",
+          "item": "https://data.chinaaihub.com/apis/ark/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/api/ark](https://chinaaihub.com/api/ark)
 
 ## Provider

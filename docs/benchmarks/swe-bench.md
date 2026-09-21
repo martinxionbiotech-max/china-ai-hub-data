@@ -1,5 +1,44 @@
 # SWE-bench
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/swe-bench",
+      "name": "SWE-bench",
+      "url": "https://chinaaihub.com/benchmarks/swe-bench",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/swe-bench/",
+      "description": "Software engineering benchmark family built from real GitHub issues, with Pro, Verified and Multilingual variants.",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "SWE-bench",
+          "item": "https://data.chinaaihub.com/benchmarks/swe-bench/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/swe-bench](https://chinaaihub.com/benchmarks/swe-bench)
 
 ## Description

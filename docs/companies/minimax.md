@@ -1,5 +1,49 @@
 # MiniMax
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://chinaaihub.com/companies/minimax",
+      "name": "MiniMax",
+      "url": "https://chinaaihub.com/companies/minimax",
+      "mainEntityOfPage": "https://data.chinaaihub.com/companies/minimax/",
+      "sameAs": [
+        "https://www.minimax.io/"
+      ],
+      "alternateName": [
+        "MiniMax AI",
+        "上海稀宇科技有限公司"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Companies",
+          "item": "https://data.chinaaihub.com/companies/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MiniMax",
+          "item": "https://data.chinaaihub.com/companies/minimax/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/companies/minimax](https://chinaaihub.com/companies/minimax)
 
 ## Aliases

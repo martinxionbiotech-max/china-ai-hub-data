@@ -1,5 +1,49 @@
-# zai
+# Z.ai API
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "APIReference",
+      "@id": "https://chinaaihub.com/api/zai",
+      "name": "Z.ai API",
+      "url": "https://chinaaihub.com/api/zai",
+      "mainEntityOfPage": "https://data.chinaaihub.com/apis/zai/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Zhipu AI",
+        "@id": "https://chinaaihub.com/companies/zhipu-ai",
+        "url": "https://chinaaihub.com/companies/zhipu-ai"
+      },
+      "documentation": "https://docs.z.ai/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "APIs",
+          "item": "https://data.chinaaihub.com/apis/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Z.ai API",
+          "item": "https://data.chinaaihub.com/apis/zai/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/api/zai](https://chinaaihub.com/api/zai)
 
 ## Provider

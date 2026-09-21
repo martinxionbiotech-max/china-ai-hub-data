@@ -1,5 +1,44 @@
 # Terminal-Bench
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/terminal-bench",
+      "name": "Terminal-Bench",
+      "url": "https://chinaaihub.com/benchmarks/terminal-bench",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/terminal-bench/",
+      "description": "Terminal-based agent benchmark (shell commands, file operations, package management and other command-line tasks).",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Terminal-Bench",
+          "item": "https://data.chinaaihub.com/benchmarks/terminal-bench/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/terminal-bench](https://chinaaihub.com/benchmarks/terminal-bench)
 
 ## Description

@@ -1,5 +1,49 @@
 # Qwen-Agent
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/qwen-agent",
+      "name": "Qwen-Agent",
+      "url": "https://chinaaihub.com/agents/qwen-agent",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/qwen-agent/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Alibaba Cloud (Qwen)",
+        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
+        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+      },
+      "description": "Alibaba Qwen team's open-source Python framework for developing LLM applications based on Qwen's instruction following, tool usage, planning and memory capabilities (Apache-2.0). Serves as the backend of Qwen Chat (chat.qwen.ai). Ships example applications including BrowserQwen browser assistant, Docker-isolated Code Interpreter, RAG over 1M-token documents, MCP integration and Gradio GUI."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Qwen-Agent",
+          "item": "https://data.chinaaihub.com/agents/qwen-agent/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/qwen-agent](https://chinaaihub.com/agents/qwen-agent)
 
 ## Company

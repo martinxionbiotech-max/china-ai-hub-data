@@ -1,5 +1,44 @@
 # MMMU-Pro
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/mmmu-pro",
+      "name": "MMMU-Pro",
+      "url": "https://chinaaihub.com/benchmarks/mmmu-pro",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/mmmu-pro/",
+      "description": "Multimodal, multi-discipline understanding benchmark with college-level questions requiring reasoning.",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MMMU-Pro",
+          "item": "https://data.chinaaihub.com/benchmarks/mmmu-pro/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/mmmu-pro](https://chinaaihub.com/benchmarks/mmmu-pro)
 
 ## Description

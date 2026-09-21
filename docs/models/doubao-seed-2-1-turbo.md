@@ -1,5 +1,48 @@
 # Doubao Seed 2.1 Turbo
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/doubao-seed-2-1-turbo",
+      "name": "Doubao Seed 2.1 Turbo",
+      "url": "https://chinaaihub.com/models/doubao-seed-2-1-turbo",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/doubao-seed-2-1-turbo/",
+      "provider": {
+        "@type": "Organization",
+        "name": "ByteDance",
+        "@id": "https://chinaaihub.com/companies/bytedance",
+        "url": "https://chinaaihub.com/companies/bytedance"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Doubao Seed 2.1 Turbo",
+          "item": "https://data.chinaaihub.com/models/doubao-seed-2-1-turbo/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/doubao-seed-2-1-turbo](https://chinaaihub.com/models/doubao-seed-2-1-turbo)
 
 ## Provider

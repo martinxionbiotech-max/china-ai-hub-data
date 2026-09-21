@@ -1,5 +1,48 @@
 # Doubao Seed 2.1 Pro
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/doubao-seed-2-1-pro",
+      "name": "Doubao Seed 2.1 Pro",
+      "url": "https://chinaaihub.com/models/doubao-seed-2-1-pro",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/doubao-seed-2-1-pro/",
+      "provider": {
+        "@type": "Organization",
+        "name": "ByteDance",
+        "@id": "https://chinaaihub.com/companies/bytedance",
+        "url": "https://chinaaihub.com/companies/bytedance"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Doubao Seed 2.1 Pro",
+          "item": "https://data.chinaaihub.com/models/doubao-seed-2-1-pro/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/doubao-seed-2-1-pro](https://chinaaihub.com/models/doubao-seed-2-1-pro)
 
 ## Provider

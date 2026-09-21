@@ -1,5 +1,49 @@
 # AutoGLM
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/autoglm",
+      "name": "AutoGLM",
+      "url": "https://chinaaihub.com/agents/autoglm",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/autoglm/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Zhipu AI",
+        "@id": "https://chinaaihub.com/companies/zhipu-ai",
+        "url": "https://chinaaihub.com/companies/zhipu-ai"
+      },
+      "description": "Zhipu AI's open-source phone-use autonomous agent (repo Open-AutoGLM). The VLM sees the phone screen, plans a chain-of-thought action sequence, and executes it via ADB (Android), HDC (HarmonyOS NEXT) or WebDriverAgent (iOS). First phone agent with true Phone Use capabilities (2024-10-25); AutoGLM 2.0 commercial product runs agents in cloud virtual phones. Research/learning use."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "AutoGLM",
+          "item": "https://data.chinaaihub.com/agents/autoglm/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/autoglm](https://chinaaihub.com/agents/autoglm)
 
 ## Company

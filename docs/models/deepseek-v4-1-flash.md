@@ -1,5 +1,49 @@
 # DeepSeek-V4.1-Flash
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/deepseek-v4-1-flash",
+      "name": "DeepSeek-V4.1-Flash",
+      "url": "https://chinaaihub.com/models/deepseek-v4-1-flash",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/deepseek-v4-1-flash/",
+      "provider": {
+        "@type": "Organization",
+        "name": "DeepSeek",
+        "@id": "https://chinaaihub.com/companies/deepseek",
+        "url": "https://chinaaihub.com/companies/deepseek"
+      },
+      "datePublished": "2026-09-10"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSeek-V4.1-Flash",
+          "item": "https://data.chinaaihub.com/models/deepseek-v4-1-flash/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/deepseek-v4-1-flash](https://chinaaihub.com/models/deepseek-v4-1-flash)
 
 ## Provider

@@ -1,5 +1,49 @@
-# deepseek
+# DeepSeek API
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "APIReference",
+      "@id": "https://chinaaihub.com/api/deepseek",
+      "name": "DeepSeek API",
+      "url": "https://chinaaihub.com/api/deepseek",
+      "mainEntityOfPage": "https://data.chinaaihub.com/apis/deepseek/",
+      "provider": {
+        "@type": "Organization",
+        "name": "DeepSeek",
+        "@id": "https://chinaaihub.com/companies/deepseek",
+        "url": "https://chinaaihub.com/companies/deepseek"
+      },
+      "documentation": "https://api-docs.deepseek.com/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "APIs",
+          "item": "https://data.chinaaihub.com/apis/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSeek API",
+          "item": "https://data.chinaaihub.com/apis/deepseek/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/api/deepseek](https://chinaaihub.com/api/deepseek)
 
 ## Provider

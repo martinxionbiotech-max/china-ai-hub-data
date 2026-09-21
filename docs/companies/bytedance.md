@@ -1,5 +1,50 @@
 # ByteDance
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://chinaaihub.com/companies/bytedance",
+      "name": "ByteDance",
+      "url": "https://chinaaihub.com/companies/bytedance",
+      "mainEntityOfPage": "https://data.chinaaihub.com/companies/bytedance/",
+      "sameAs": [
+        "https://www.bytedance.com/"
+      ],
+      "alternateName": [
+        "字节跳动",
+        "Doubao",
+        "豆包"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Companies",
+          "item": "https://data.chinaaihub.com/companies/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "ByteDance",
+          "item": "https://data.chinaaihub.com/companies/bytedance/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/companies/bytedance](https://chinaaihub.com/companies/bytedance)
 
 ## Aliases

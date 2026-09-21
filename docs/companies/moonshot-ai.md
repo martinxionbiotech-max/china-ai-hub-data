@@ -1,5 +1,49 @@
 # Moonshot AI
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://chinaaihub.com/companies/moonshot-ai",
+      "name": "Moonshot AI",
+      "url": "https://chinaaihub.com/companies/moonshot-ai",
+      "mainEntityOfPage": "https://data.chinaaihub.com/companies/moonshot-ai/",
+      "sameAs": [
+        "https://www.moonshot.ai/"
+      ],
+      "alternateName": [
+        "月之暗面",
+        "Kimi"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Companies",
+          "item": "https://data.chinaaihub.com/companies/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Moonshot AI",
+          "item": "https://data.chinaaihub.com/companies/moonshot-ai/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/companies/moonshot-ai](https://chinaaihub.com/companies/moonshot-ai)
 
 ## Aliases

@@ -1,5 +1,49 @@
-# model-studio
+# Model Studio API
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "APIReference",
+      "@id": "https://chinaaihub.com/api/model-studio",
+      "name": "Model Studio API",
+      "url": "https://chinaaihub.com/api/model-studio",
+      "mainEntityOfPage": "https://data.chinaaihub.com/apis/model-studio/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Alibaba Cloud (Qwen)",
+        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
+        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+      },
+      "documentation": "https://www.alibabacloud.com/help/en/model-studio/"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "APIs",
+          "item": "https://data.chinaaihub.com/apis/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Model Studio API",
+          "item": "https://data.chinaaihub.com/apis/model-studio/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/api/model-studio](https://chinaaihub.com/api/model-studio)
 
 ## Provider

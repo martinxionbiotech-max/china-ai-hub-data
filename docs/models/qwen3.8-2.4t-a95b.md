@@ -1,5 +1,49 @@
 # Qwen3.8-2.4T-A95B
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/qwen3.8-2.4t-a95b",
+      "name": "Qwen3.8-2.4T-A95B",
+      "url": "https://chinaaihub.com/models/qwen3.8-2.4t-a95b",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/qwen3.8-2.4t-a95b/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Alibaba Cloud (Qwen)",
+        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
+        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+      },
+      "datePublished": "2026-08-12"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Qwen3.8-2.4T-A95B",
+          "item": "https://data.chinaaihub.com/models/qwen3.8-2.4t-a95b/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/qwen3.8-2.4t-a95b](https://chinaaihub.com/models/qwen3.8-2.4t-a95b)
 
 ## Provider

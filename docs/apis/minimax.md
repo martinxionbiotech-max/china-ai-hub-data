@@ -1,5 +1,49 @@
-# minimax
+# MiniMax API
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "APIReference",
+      "@id": "https://chinaaihub.com/api/minimax",
+      "name": "MiniMax API",
+      "url": "https://chinaaihub.com/api/minimax",
+      "mainEntityOfPage": "https://data.chinaaihub.com/apis/minimax/",
+      "provider": {
+        "@type": "Organization",
+        "name": "MiniMax",
+        "@id": "https://chinaaihub.com/companies/minimax",
+        "url": "https://chinaaihub.com/companies/minimax"
+      },
+      "documentation": "https://platform.minimax.io/docs"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "APIs",
+          "item": "https://data.chinaaihub.com/apis/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MiniMax API",
+          "item": "https://data.chinaaihub.com/apis/minimax/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/api/minimax](https://chinaaihub.com/api/minimax)
 
 ## Provider

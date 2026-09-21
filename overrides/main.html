@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://chinaaihub.com/#organization",
+        "name": "China AI Hub",
+        "url": "https://chinaaihub.com",
+        "logo": "https://chinaaihub.com/logo.png",
+        "description": "An independent English-language knowledge platform for China's AI ecosystem. All factual claims are sourced and date-stamped."
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://data.chinaaihub.com/#website",
+        "name": "China AI Hub Data",
+        "url": "https://data.chinaaihub.com",
+        "publisher": { "@id": "https://chinaaihub.com/#organization" },
+        "description": "Structured reference layer for China's AI ecosystem: models, companies, agents, APIs, pricing and benchmarks."
+      }
+    ]
+  }
+  </script>
+{% endblock %}

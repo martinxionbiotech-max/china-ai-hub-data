@@ -1,5 +1,44 @@
 # GPQA Diamond
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/gpqa-diamond",
+      "name": "GPQA Diamond",
+      "url": "https://chinaaihub.com/benchmarks/gpqa-diamond",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/gpqa-diamond/",
+      "description": "Graduate-level science question-answering benchmark (expert-level questions in biology, physics, chemistry).",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GPQA Diamond",
+          "item": "https://data.chinaaihub.com/benchmarks/gpqa-diamond/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/gpqa-diamond](https://chinaaihub.com/benchmarks/gpqa-diamond)
 
 ## Description

@@ -1,5 +1,49 @@
 # MiniMax-M2.7
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/minimax-m2.7",
+      "name": "MiniMax-M2.7",
+      "url": "https://chinaaihub.com/models/minimax-m2.7",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/minimax-m2.7/",
+      "provider": {
+        "@type": "Organization",
+        "name": "MiniMax",
+        "@id": "https://chinaaihub.com/companies/minimax",
+        "url": "https://chinaaihub.com/companies/minimax"
+      },
+      "datePublished": "2026-03-18"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MiniMax-M2.7",
+          "item": "https://data.chinaaihub.com/models/minimax-m2.7/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/minimax-m2.7](https://chinaaihub.com/models/minimax-m2.7)
 
 ## Provider

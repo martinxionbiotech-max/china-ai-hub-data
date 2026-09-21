@@ -1,5 +1,49 @@
 # MiniMax Agent
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/minimax-agent",
+      "name": "MiniMax Agent",
+      "url": "https://chinaaihub.com/agents/minimax-agent",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/minimax-agent/",
+      "provider": {
+        "@type": "Organization",
+        "name": "MiniMax",
+        "@id": "https://chinaaihub.com/companies/minimax",
+        "url": "https://chinaaihub.com/companies/minimax"
+      },
+      "description": "MiniMax's cloud agent platform at agent.minimax.io ('Minimize Effort, Maximize Intelligence'). Web app with Skills, Schedules, Websites, Research and AI PPT capability areas, persistent memory and evolving skills; includes always-on cloud agents MaxClaw ('Your 24/7 personal assistant', accessible in daily apps incl. Telegram) and MaxHermes (Beta, 'An Agent That Grows With You', self-evolution via unlocked skills). Billed via MiniMax Token Plan."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "MiniMax Agent",
+          "item": "https://data.chinaaihub.com/agents/minimax-agent/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/minimax-agent](https://chinaaihub.com/agents/minimax-agent)
 
 ## Company

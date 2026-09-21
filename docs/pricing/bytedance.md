@@ -1,5 +1,93 @@
 # bytedance
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://chinaaihub.com/pricing/bytedance",
+      "name": "ByteDance pricing",
+      "url": "https://chinaaihub.com/pricing/bytedance",
+      "mainEntityOfPage": "https://data.chinaaihub.com/pricing/bytedance/",
+      "provider": {
+        "@type": "Organization",
+        "name": "ByteDance",
+        "@id": "https://chinaaihub.com/companies/bytedance",
+        "url": "https://chinaaihub.com/companies/bytedance"
+      },
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "Doubao Seed 2.1 Pro — input price per 1M tokens",
+          "price": 6.0,
+          "priceCurrency": "CNY",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "Doubao Seed 2.1 Pro",
+            "@id": "https://chinaaihub.com/models/doubao-seed-2-1-pro",
+            "url": "https://chinaaihub.com/models/doubao-seed-2-1-pro"
+          },
+          "url": "https://data.chinaaihub.com/pricing/bytedance/",
+          "description": "Output price per 1M tokens: $30.0"
+        },
+        {
+          "@type": "Offer",
+          "name": "Doubao Seed Evolving — input price per 1M tokens",
+          "price": 6.0,
+          "priceCurrency": "CNY",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "Doubao Seed Evolving",
+            "@id": "https://chinaaihub.com/models/doubao-seed-evolving",
+            "url": "https://chinaaihub.com/models/doubao-seed-evolving"
+          },
+          "url": "https://data.chinaaihub.com/pricing/bytedance/",
+          "description": "Output price per 1M tokens: $30.0"
+        },
+        {
+          "@type": "Offer",
+          "name": "Doubao Seed 2.1 Turbo — input price per 1M tokens",
+          "price": 3.0,
+          "priceCurrency": "CNY",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "Doubao Seed 2.1 Turbo",
+            "@id": "https://chinaaihub.com/models/doubao-seed-2-1-turbo",
+            "url": "https://chinaaihub.com/models/doubao-seed-2-1-turbo"
+          },
+          "url": "https://data.chinaaihub.com/pricing/bytedance/",
+          "description": "Output price per 1M tokens: $15.0"
+        }
+      ],
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pricing",
+          "item": "https://data.chinaaihub.com/pricing/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "bytedance",
+          "item": "https://data.chinaaihub.com/pricing/bytedance/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/pricing/bytedance](https://chinaaihub.com/pricing/bytedance)
 
 ## Currency

@@ -1,5 +1,49 @@
 # GLM-5.3
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/glm-5.3",
+      "name": "GLM-5.3",
+      "url": "https://chinaaihub.com/models/glm-5.3",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/glm-5.3/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Zhipu AI",
+        "@id": "https://chinaaihub.com/companies/zhipu-ai",
+        "url": "https://chinaaihub.com/companies/zhipu-ai"
+      },
+      "datePublished": "2026-08-18"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "GLM-5.3",
+          "item": "https://data.chinaaihub.com/models/glm-5.3/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/glm-5.3](https://chinaaihub.com/models/glm-5.3)
 
 ## Provider

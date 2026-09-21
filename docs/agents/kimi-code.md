@@ -1,5 +1,49 @@
 # Kimi Code
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/agents/kimi-code",
+      "name": "Kimi Code",
+      "url": "https://chinaaihub.com/agents/kimi-code",
+      "mainEntityOfPage": "https://data.chinaaihub.com/agents/kimi-code/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Moonshot AI",
+        "@id": "https://chinaaihub.com/companies/moonshot-ai",
+        "url": "https://chinaaihub.com/companies/moonshot-ai"
+      },
+      "description": "Moonshot AI's terminal AI coding agent ('The Starting Point for Next-Gen Agents'), successor to the deprecated kimi-cli. CLI (TypeScript, MIT), VS Code extension and Desktop app; reads/edits code, runs shell commands, searches files, fetches web pages, plans and adjusts actions autonomously. Includes subagents, MCP, Kimi Computer Use, browser control (WebBridge/Browser Extension) and multimodal input (text, images, video). Billed under Kimi membership."
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Agents",
+          "item": "https://data.chinaaihub.com/agents/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kimi Code",
+          "item": "https://data.chinaaihub.com/agents/kimi-code/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/agents/kimi-code](https://chinaaihub.com/agents/kimi-code)
 
 ## Company

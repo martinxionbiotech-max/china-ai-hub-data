@@ -1,5 +1,44 @@
 # CyberGym
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Dataset",
+      "@id": "https://chinaaihub.com/benchmarks/cybergym",
+      "name": "CyberGym",
+      "url": "https://chinaaihub.com/benchmarks/cybergym",
+      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/cybergym/",
+      "description": "Cybersecurity agent benchmark focused on vulnerability discovery tasks.",
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Benchmarks",
+          "item": "https://data.chinaaihub.com/benchmarks/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "CyberGym",
+          "item": "https://data.chinaaihub.com/benchmarks/cybergym/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/benchmarks/cybergym](https://chinaaihub.com/benchmarks/cybergym)
 
 ## Description

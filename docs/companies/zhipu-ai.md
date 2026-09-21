@@ -1,5 +1,51 @@
 # Zhipu AI
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://chinaaihub.com/companies/zhipu-ai",
+      "name": "Zhipu AI",
+      "url": "https://chinaaihub.com/companies/zhipu-ai",
+      "mainEntityOfPage": "https://data.chinaaihub.com/companies/zhipu-ai/",
+      "sameAs": [
+        "https://z.ai/"
+      ],
+      "alternateName": [
+        "智谱",
+        "Z.ai",
+        "BigModel",
+        "Zhipu"
+      ]
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Companies",
+          "item": "https://data.chinaaihub.com/companies/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Zhipu AI",
+          "item": "https://data.chinaaihub.com/companies/zhipu-ai/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/companies/zhipu-ai](https://chinaaihub.com/companies/zhipu-ai)
 
 ## Aliases

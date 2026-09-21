@@ -1,5 +1,48 @@
 # Qwen3.8-Max
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/qwen3.8-max",
+      "name": "Qwen3.8-Max",
+      "url": "https://chinaaihub.com/models/qwen3.8-max",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/qwen3.8-max/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Alibaba Cloud (Qwen)",
+        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
+        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Qwen3.8-Max",
+          "item": "https://data.chinaaihub.com/models/qwen3.8-max/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/qwen3.8-max](https://chinaaihub.com/models/qwen3.8-max)
 
 ## Provider

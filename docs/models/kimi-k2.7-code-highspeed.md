@@ -1,5 +1,48 @@
 # Kimi K2.7 Code Highspeed
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "SoftwareApplication",
+      "@id": "https://chinaaihub.com/models/kimi-k2.7-code-highspeed",
+      "name": "Kimi K2.7 Code Highspeed",
+      "url": "https://chinaaihub.com/models/kimi-k2.7-code-highspeed",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/kimi-k2.7-code-highspeed/",
+      "provider": {
+        "@type": "Organization",
+        "name": "Moonshot AI",
+        "@id": "https://chinaaihub.com/companies/moonshot-ai",
+        "url": "https://chinaaihub.com/companies/moonshot-ai"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Models",
+          "item": "https://data.chinaaihub.com/models/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Kimi K2.7 Code Highspeed",
+          "item": "https://data.chinaaihub.com/models/kimi-k2.7-code-highspeed/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/models/kimi-k2.7-code-highspeed](https://chinaaihub.com/models/kimi-k2.7-code-highspeed)
 
 ## Provider

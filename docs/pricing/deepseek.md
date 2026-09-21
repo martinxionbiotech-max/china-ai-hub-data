@@ -1,5 +1,79 @@
-# deepseek
+# DeepSeek API
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "OfferCatalog",
+      "@id": "https://chinaaihub.com/pricing/deepseek",
+      "name": "DeepSeek pricing",
+      "url": "https://chinaaihub.com/pricing/deepseek",
+      "mainEntityOfPage": "https://data.chinaaihub.com/pricing/deepseek/",
+      "provider": {
+        "@type": "Organization",
+        "name": "DeepSeek",
+        "@id": "https://chinaaihub.com/companies/deepseek",
+        "url": "https://chinaaihub.com/companies/deepseek"
+      },
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "name": "DeepSeek-V4.1-Flash — input price per 1M tokens",
+          "price": 0.15,
+          "priceCurrency": "USD",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "DeepSeek-V4.1-Flash",
+            "@id": "https://chinaaihub.com/models/deepseek-v4-1-flash",
+            "url": "https://chinaaihub.com/models/deepseek-v4-1-flash"
+          },
+          "url": "https://data.chinaaihub.com/pricing/deepseek/",
+          "description": "Output price per 1M tokens: $0.6"
+        },
+        {
+          "@type": "Offer",
+          "name": "DeepSeek-V4-Pro — input price per 1M tokens",
+          "price": 0.66,
+          "priceCurrency": "USD",
+          "itemOffered": {
+            "@type": "SoftwareApplication",
+            "name": "DeepSeek-V4-Pro",
+            "@id": "https://chinaaihub.com/models/deepseek-v4-pro",
+            "url": "https://chinaaihub.com/models/deepseek-v4-pro"
+          },
+          "url": "https://data.chinaaihub.com/pricing/deepseek/",
+          "description": "Output price per 1M tokens: $1.98"
+        }
+      ],
+      "dateModified": "2026-09-20"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://data.chinaaihub.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Pricing",
+          "item": "https://data.chinaaihub.com/pricing/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "DeepSeek API",
+          "item": "https://data.chinaaihub.com/pricing/deepseek/"
+        }
+      ]
+    }
+  ]
+}
+</script>
 > Canonical page on the main site: [chinaaihub.com/pricing/deepseek](https://chinaaihub.com/pricing/deepseek)
 
 ## Currency
