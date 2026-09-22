@@ -59,6 +59,10 @@
 
 China platform: Beijing Zhipu Huazhang Technology Co., Ltd. (北京智谱华章科技股份有限公司), Beijing, China; international Z.ai operator: JINGSHENG HENGXING TECHNOLOGY PTE.LTD, 10 Anson Road, #26-03 International Plaza, Singapore 079903
 
+
+## Funding
+
+No official funding disclosure located as of 2026-09-22 (IPO/funding reports circulate in media but are not confirmed on official channels).
 ## Ai Products
 
 - Z.ai / GLM chat assistant

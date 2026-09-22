@@ -59,6 +59,10 @@ early 2022
 
 Room 1704-1, No. 1699 Gubei Road, Minhang District, Shanghai, China
 
+
+## Funding
+
+Investor-relations site exists (ir.minimax.cn); funding-round details are not listed on official pages as of 2026-09-22.
 ## Ai Products
 
 - MiniMax Code

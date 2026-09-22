@@ -56,6 +56,18 @@ Humanity's Last Exam - a frontier benchmark of expert-level questions across dis
 | HLE | kimi-k2.5 | 30.1 (50.2 with tools) | HLE-Full | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 | HLE | minimax-m2 | 12.5 without tools / 31.8 with tools | — | accuracy | 2025-10 | vendor_reported | https://github.com/MiniMax-AI/MiniMax-M2 |
 
+## Methodology
+
+**Task type:** Expert-level academic Q&A across mathematics, humanities and natural sciences
+
+**Dataset size:** 2,500 questions across dozens of subjects
+
+**Evaluation method:** Multiple-choice and short-answer questions developed by subject-matter experts; multimodal; suitable for automated grading
+
+**Scoring:** Accuracy (% correct); frequently reported with and without tool access
+
+**Contamination notes:** Dataset includes a canary string (hle:3r2s:26b5c67b-...) to aid model builders in filtering the dataset from future training.
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. With-tools and without-tools results are not directly comparable; the setting is recorded per score.

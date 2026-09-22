@@ -57,6 +57,10 @@
 
 No. 1 Building, Dazhongsi Plaza, No. 18A North Third Ring Road West, Haidian District, Beijing, China
 
+
+## Funding
+
+Privately held; funding rounds not officially disclosed as of 2026-09-22.
 ## Ai Products
 
 - Doubao (consumer AI assistant)

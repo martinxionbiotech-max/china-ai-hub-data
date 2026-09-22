@@ -55,6 +55,16 @@ Software engineering benchmark family built from real GitHub issues, with Pro, V
 | SWE-bench | minimax-m2 | 69.4 | Verified | accuracy | 2025-10 | vendor_reported | https://github.com/MiniMax-AI/MiniMax-M2 |
 | SWE-bench | minimax-m2 | 56.5 | Multilingual | accuracy | 2025-10 | vendor_reported | https://github.com/MiniMax-AI/MiniMax-M2 |
 
+## Methodology
+
+**Task type:** Software engineering (resolve real GitHub issues by generating code patches)
+
+**Dataset size:** 2,294 task instances from 12 Python repositories (full set); SWE-bench Verified = 500 human-confirmed solvable problems
+
+**Evaluation method:** Docker-containerized harness; the model's patch is applied to the repository and the project's tests are run to verify resolution
+
+**Scoring:** Resolved rate (% of instances where all tests pass)
+
 ## Limitations
 
 Pro, Verified and Multilingual variants are different test sets and are not comparable to each other; the variant is recorded per evaluation. All scores are vendor-reported and not independently verified.

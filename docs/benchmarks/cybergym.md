@@ -53,6 +53,16 @@ Cybersecurity agent benchmark focused on vulnerability discovery tasks.
 | CyberGym | [deepseek-v4-pro](../models/deepseek-v4-pro.md) | 83.3 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates | — |
 | CyberGym | [glm-5.3](../models/glm-5.3.md) | 84.5 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 | vuln discovery (GLM-5.2: 77.2) |
 
+## Methodology
+
+**Task type:** Cybersecurity vulnerability analysis (real-world vulnerability discovery)
+
+**Dataset size:** Large-scale task suite sourced from ARVO and OSS-Fuzz (~240GB data)
+
+**Evaluation method:** Docker-isolated environments; agents analyze vulnerabilities and generate proofs of concept; pre-/post-patch versions
+
+**Scoring:** Success rate on vulnerability analysis tasks (PoC generation)
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified.

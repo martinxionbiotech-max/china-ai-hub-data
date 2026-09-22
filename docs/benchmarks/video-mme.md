@@ -52,6 +52,16 @@ Video understanding benchmark spanning various video durations and domains.
 | Video-MME | [kimi-k3](../models/kimi-k3.md) | 90.0 | with subtitles | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 | Video-MME | kimi-k2.5 | 87.4 | — | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 
+## Methodology
+
+**Task type:** Video understanding (multimodal video analysis)
+
+**Dataset size:** 900 videos (254 hours total), 2,700 human-annotated question-answer pairs
+
+**Evaluation method:** Video QA with subtitles and audio modalities; duration-stratified evaluation
+
+**Scoring:** Accuracy (% correct); variants with/without subtitles
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. Subtitle usage differs between evaluations.

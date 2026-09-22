@@ -56,6 +56,16 @@ Software engineering benchmark built from real-world issues and pull requests.
 | DeepSWE | [glm-5.3](../models/glm-5.3.md) | 66.9 | v1.1 | accuracy | 2026-08-18 | vendor_reported | https://docs.z.ai/guides/llm/glm-5.3 |
 | DeepSWE | [glm-5.3-flash](../models/glm-5.3-flash.md) | 63.4 | v1.1 | accuracy | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash |
 
+## Methodology
+
+**Task type:** Long-horizon software engineering tasks on active open-source repositories
+
+**Dataset size:** 113 tasks across TypeScript, Go, Python, JavaScript and Rust
+
+**Evaluation method:** Isolated agent environment with program-based verifiers; the agent's committed patch is applied and graded in a pristine container
+
+**Scoring:** Binary reward plus pass fractions per task (reward.json / CTRF test report)
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. Some vendors do not state the benchmark version; unversioned scores should not be compared with versioned ones.

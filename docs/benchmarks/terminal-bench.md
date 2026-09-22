@@ -59,6 +59,16 @@ Terminal-based agent benchmark (shell commands, file operations, package managem
 | Terminal-Bench | kimi-k2.5 | 50.8 | 2.0 | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 | Terminal-Bench | minimax-m2 | 46.3 | version not stated in source | accuracy | 2025-10 | vendor_reported | https://github.com/MiniMax-AI/MiniMax-M2 |
 
+## Methodology
+
+**Task type:** Terminal-based agent tasks (shell commands, file operations, compilation, package management, server setup)
+
+**Dataset size:** ~100 tasks (beta release)
+
+**Evaluation method:** Sandboxed terminal environment (Docker); each task has an English instruction, a test script verifying completion, and a reference (oracle) solution; agents run end-to-end autonomously
+
+**Scoring:** Binary pass/fail per task; accuracy = share of tasks completed successfully
+
 ## Limitations
 
 Benchmark versions (2.0 / 2.1 / 3.0) are not comparable to each other; the version is recorded per evaluation. All scores are vendor-reported and not independently verified.

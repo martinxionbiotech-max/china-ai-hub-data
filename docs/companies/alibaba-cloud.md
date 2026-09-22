@@ -55,6 +55,10 @@
 - 阿里云
 - Qwen Team
 
+
+## Funding
+
+No separate funding rounds; Alibaba Cloud is a business of Alibaba Group Holding, a public company (NYSE: BABA; HKEX: 9988).
 ## Ai Products
 
 - Qwen Chat / Qwen Studio

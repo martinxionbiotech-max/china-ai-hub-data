@@ -110,6 +110,14 @@ pay_as_you_go
 | [minimax-m2.7](../models/minimax-m2.7.md) | 0.3 | 1.2 | 0.06 | Cache write $0.375 per 1M tokens. China platform: ¥2.1 / ¥8.4. | https://platform.minimax.io/docs/guides/pricing-paygo.md |
 | [minimax-m2.7-highspeed](../models/minimax-m2.7-highspeed.md) | 0.6 | 2.4 | 0.06 | Cache write $0.375 per 1M tokens. China platform: ¥4.2 / ¥16.8. | https://platform.minimax.io/docs/guides/pricing-paygo.md |
 
+## Price History
+
+| model | field | old | new | effective | source |
+|---|---|---|---|---|---|
+| minimax-m3 | input_price_per_1m | 0.6 | 0.3 | — | https://platform.minimax.io/docs/guides/pricing-paygo |
+| minimax-m3 | output_price_per_1m | 2.4 | 1.2 | — | https://platform.minimax.io/docs/guides/pricing-paygo |
+| minimax-m3 | cached_input_price_per_1m | 0.12 | 0.06 | — | https://platform.minimax.io/docs/guides/pricing-paygo |
+
 ## Last Verified
 
 2026-09-20

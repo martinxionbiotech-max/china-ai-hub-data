@@ -54,6 +54,16 @@ Benchmark of computer-use automation tasks.
 | AutomationBench | [qwen3.8-max](../models/qwen3.8-max.md) | 27.3 | accuracy | 2026-08 | vendor_reported | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | Pass@1 |
 | AutomationBench | [glm-5.3-flash](../models/glm-5.3-flash.md) | 48.8 | accuracy | 2026-08-26 | vendor_reported | https://docs.z.ai/guides/vlm/glm-5.3-flash | GLM-5.2: 26.2 |
 
+## Methodology
+
+**Task type:** End-to-end business workflow automation in simulated SaaS environments
+
+**Dataset size:** 47 simulated SaaS tools across 6 business functions (Sales, Marketing, Operations, Support, Finance, HR)
+
+**Evaluation method:** Each task initializes a simulated business environment (CRM, calendar, inbox); the agent must leave the environment in the correct end state
+
+**Scoring:** Task success rate (environment end-state verification)
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. Pass@1 vs other sampling settings differ between vendors.

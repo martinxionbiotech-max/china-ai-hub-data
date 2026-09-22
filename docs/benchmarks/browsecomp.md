@@ -53,6 +53,16 @@ Benchmark of browsing and retrieval ability: locating obscure information using 
 | BrowseComp | kimi-k2.5 | 60.6 (74.9 with context management; 78.4 Agent Swarm) | accuracy | — | vendor_reported | https://github.com/MoonshotAI/Kimi-K2.5 |
 | BrowseComp | [minimax-m3](../models/minimax-m3.md) | 83.5 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/models/text/m3 |
 
+## Methodology
+
+**Task type:** Browsing agent benchmark (locate hard-to-find, entangled information on the internet)
+
+**Dataset size:** 1,266 problems
+
+**Evaluation method:** Short-answer questions with a single correct answer; graders verify the exact answer (encrypted set)
+
+**Scoring:** Accuracy (% correct)
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. Evaluation setups (context management, agent scaffolding) differ between vendors.
