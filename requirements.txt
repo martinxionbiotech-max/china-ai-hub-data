@@ -1,1 +1,2 @@
+# Cloudflare Pages auto-installs this file before the build command.
 mkdocs-material>=9.5
