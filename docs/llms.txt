@@ -1,0 +1,85 @@
+# China AI Hub Data Hub
+
+> Structured data layer for chinaaihub.com: machine-readable entity records for Chinese AI models, agents, companies, APIs, pricing and benchmarks. Each page carries JSON-LD anchored to the canonical main-site entity.
+
+## Core pages
+- [Home](https://data.chinaaihub.com/): Data Hub overview.
+- [Models index](https://data.chinaaihub.com/models/): List of models entity records with canonical main-site links.
+- [Companies index](https://data.chinaaihub.com/companies/): List of companies entity records with canonical main-site links.
+- [Agents index](https://data.chinaaihub.com/agents/): List of agents entity records with canonical main-site links.
+- [Apis index](https://data.chinaaihub.com/apis/): List of apis entity records with canonical main-site links.
+- [Pricing index](https://data.chinaaihub.com/pricing/): List of pricing entity records with canonical main-site links.
+- [Benchmarks index](https://data.chinaaihub.com/benchmarks/): List of benchmarks entity records with canonical main-site links.
+
+## Models
+- [DeepSeek-V3.2](https://data.chinaaihub.com/models/deepseek-v3-2/): Model entity records (canonical pages on chinaaihub.com).
+- [DeepSeek-V4.1-Flash](https://data.chinaaihub.com/models/deepseek-v4-1-flash/): Model entity records (canonical pages on chinaaihub.com).
+- [DeepSeek-V4-Pro](https://data.chinaaihub.com/models/deepseek-v4-pro/): Model entity records (canonical pages on chinaaihub.com).
+- [Doubao Seed 2.1 Pro](https://data.chinaaihub.com/models/doubao-seed-2-1-pro/): Model entity records (canonical pages on chinaaihub.com).
+- [Doubao Seed 2.1 Turbo](https://data.chinaaihub.com/models/doubao-seed-2-1-turbo/): Model entity records (canonical pages on chinaaihub.com).
+- [Doubao Seed Evolving](https://data.chinaaihub.com/models/doubao-seed-evolving/): Model entity records (canonical pages on chinaaihub.com).
+- [GLM-5.2](https://data.chinaaihub.com/models/glm-5.2/): Model entity records (canonical pages on chinaaihub.com).
+- [GLM-5.3-Flash](https://data.chinaaihub.com/models/glm-5.3-flash/): Model entity records (canonical pages on chinaaihub.com).
+- [GLM-5.3](https://data.chinaaihub.com/models/glm-5.3/): Model entity records (canonical pages on chinaaihub.com).
+- [Kimi K2.6](https://data.chinaaihub.com/models/kimi-k2.6/): Model entity records (canonical pages on chinaaihub.com).
+- [Kimi K2.7 Code Highspeed](https://data.chinaaihub.com/models/kimi-k2.7-code-highspeed/): Model entity records (canonical pages on chinaaihub.com).
+- [Kimi K2.7 Code](https://data.chinaaihub.com/models/kimi-k2.7-code/): Model entity records (canonical pages on chinaaihub.com).
+- [Kimi K3](https://data.chinaaihub.com/models/kimi-k3/): Model entity records (canonical pages on chinaaihub.com).
+- [MiniMax-M2.7-Highspeed](https://data.chinaaihub.com/models/minimax-m2.7-highspeed/): Model entity records (canonical pages on chinaaihub.com).
+- [MiniMax-M2.7](https://data.chinaaihub.com/models/minimax-m2.7/): Model entity records (canonical pages on chinaaihub.com).
+- [MiniMax-M3](https://data.chinaaihub.com/models/minimax-m3/): Model entity records (canonical pages on chinaaihub.com).
+- [Qwen3.8-2.4T-A95B](https://data.chinaaihub.com/models/qwen3.8-2.4t-a95b/): Model entity records (canonical pages on chinaaihub.com).
+- [Qwen3.8-Flash](https://data.chinaaihub.com/models/qwen3.8-flash/): Model entity records (canonical pages on chinaaihub.com).
+- [Qwen3.8-Max](https://data.chinaaihub.com/models/qwen3.8-max/): Model entity records (canonical pages on chinaaihub.com).
+
+## Companies
+- [Alibaba Cloud (Qwen)](https://data.chinaaihub.com/companies/alibaba-cloud/): Company entity records.
+- [ByteDance](https://data.chinaaihub.com/companies/bytedance/): Company entity records.
+- [DeepSeek](https://data.chinaaihub.com/companies/deepseek/): Company entity records.
+- [MiniMax](https://data.chinaaihub.com/companies/minimax/): Company entity records.
+- [Moonshot AI](https://data.chinaaihub.com/companies/moonshot-ai/): Company entity records.
+- [Zhipu AI](https://data.chinaaihub.com/companies/zhipu-ai/): Company entity records.
+
+## Agents
+- [AutoGLM](https://data.chinaaihub.com/agents/autoglm/): Agent entity records.
+- [DeepSeek Harness](https://data.chinaaihub.com/agents/deepseek-harness/): Agent entity records.
+- [Doubao](https://data.chinaaihub.com/agents/doubao-app/): Agent entity records.
+- [GLM Coding Plan](https://data.chinaaihub.com/agents/glm-coding-plan/): Agent entity records.
+- [Kimi Code](https://data.chinaaihub.com/agents/kimi-code/): Agent entity records.
+- [MiniMax Agent](https://data.chinaaihub.com/agents/minimax-agent/): Agent entity records.
+- [MiniMax Code](https://data.chinaaihub.com/agents/minimax-code/): Agent entity records.
+- [Qoder](https://data.chinaaihub.com/agents/qoder/): Agent entity records.
+- [Qwen-Agent](https://data.chinaaihub.com/agents/qwen-agent/): Agent entity records.
+- [Qwen Code](https://data.chinaaihub.com/agents/qwen-code/): Agent entity records.
+
+## Apis
+- [Ark API](https://data.chinaaihub.com/apis/ark/): API entity records.
+- [DeepSeek API](https://data.chinaaihub.com/apis/deepseek/): API entity records.
+- [MiniMax API](https://data.chinaaihub.com/apis/minimax/): API entity records.
+- [Model Studio API](https://data.chinaaihub.com/apis/model-studio/): API entity records.
+- [Moonshot AI API](https://data.chinaaihub.com/apis/moonshot/): API entity records.
+- [Z.ai API](https://data.chinaaihub.com/apis/zai/): API entity records.
+
+## Pricing
+- [alibaba-cloud](https://data.chinaaihub.com/pricing/alibaba-cloud/): Pricing entity records.
+- [bytedance](https://data.chinaaihub.com/pricing/bytedance/): Pricing entity records.
+- [DeepSeek API](https://data.chinaaihub.com/pricing/deepseek/): Pricing entity records.
+- [MiniMax API](https://data.chinaaihub.com/pricing/minimax/): Pricing entity records.
+- [moonshot-ai](https://data.chinaaihub.com/pricing/moonshot-ai/): Pricing entity records.
+- [zhipu-ai](https://data.chinaaihub.com/pricing/zhipu-ai/): Pricing entity records.
+
+## Benchmarks
+- [AutomationBench](https://data.chinaaihub.com/benchmarks/automationbench/): Benchmark entity records.
+- [BrowseComp](https://data.chinaaihub.com/benchmarks/browsecomp/): Benchmark entity records.
+- [CyberGym](https://data.chinaaihub.com/benchmarks/cybergym/): Benchmark entity records.
+- [DeepSWE](https://data.chinaaihub.com/benchmarks/deepswe/): Benchmark entity records.
+- [GPQA Diamond](https://data.chinaaihub.com/benchmarks/gpqa-diamond/): Benchmark entity records.
+- [HLE](https://data.chinaaihub.com/benchmarks/hle/): Benchmark entity records.
+- [MMMU-Pro](https://data.chinaaihub.com/benchmarks/mmmu-pro/): Benchmark entity records.
+- [SWE-bench](https://data.chinaaihub.com/benchmarks/swe-bench/): Benchmark entity records.
+- [Terminal-Bench](https://data.chinaaihub.com/benchmarks/terminal-bench/): Benchmark entity records.
+- [Video-MME](https://data.chinaaihub.com/benchmarks/video-mme/): Benchmark entity records.
+
+## Optional
+- [Sitemap](https://data.chinaaihub.com/sitemap.xml): Full sitemap of the Data Hub.
+- [Main site](https://chinaaihub.com/): Editorial and canonical entity pages.
