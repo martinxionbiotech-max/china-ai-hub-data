@@ -21,6 +21,24 @@
         "url": "https://data.chinaaihub.com",
         "publisher": { "@id": "https://chinaaihub.com/#organization" },
         "description": "Structured reference layer for China's AI ecosystem: models, companies, agents, APIs, pricing and benchmarks."
+      },
+      {
+        "@type": "Dataset",
+        "@id": "https://data.chinaaihub.com/#dataset",
+        "name": "China AI Ecosystem Structured Dataset",
+        "description": "Machine-readable entity records for Chinese AI models, companies, agents, APIs, pricing and benchmarks. Every field is source-labeled (official, vendor-reported or independent) and carries a last-verified date.",
+        "url": "https://data.chinaaihub.com",
+        "publisher": { "@id": "https://chinaaihub.com/#organization" },
+        "creator": { "@id": "https://chinaaihub.com/#organization" },
+        "dateModified": "2026-09-22",
+        "distribution": [
+          { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/models.json", "name": "Models JSON dump" },
+          { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/pricing.json", "name": "Pricing JSON dump" },
+          { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/benchmarks.json", "name": "Benchmarks JSON dump" },
+          { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/companies.json", "name": "Companies JSON dump" },
+          { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/agents.json", "name": "Agents JSON dump" },
+          { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/apis.json", "name": "APIs JSON dump" }
+        ]
       }
     ]
   }

@@ -83,3 +83,12 @@
 ## Optional
 - [Sitemap](https://data.chinaaihub.com/sitemap.xml): Full sitemap of the Data Hub.
 - [Main site](https://chinaaihub.com/): Editorial and canonical entity pages.
+
+## Machine-readable data (JSON)
+- [Models JSON](https://chinaaihub.com/data/models.json): All model records with verified fields.
+- [Companies JSON](https://chinaaihub.com/data/companies.json): All company records.
+- [Agents JSON](https://chinaaihub.com/data/agents.json): All agent records.
+- [APIs JSON](https://chinaaihub.com/data/apis.json): All API records.
+- [Pricing JSON](https://chinaaihub.com/data/pricing.json): Normalized pricing snapshots with effective dates.
+- [Benchmarks JSON](https://chinaaihub.com/data/benchmarks.json): All benchmark results with source types.
+- Per-model JSON: https://chinaaihub.com/models/{model-id}.json — entity record plus related benchmarks and agents.
