@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/glm-5.3-flash",
+      "@id": "https://chinaaihub.com/models/glm-53-flash",
       "name": "GLM-5.3-Flash",
-      "url": "https://chinaaihub.com/models/glm-5.3-flash",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/glm-5.3-flash/",
+      "url": "https://chinaaihub.com/models/glm-53-flash",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/glm-53-flash/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
@@ -37,14 +37,14 @@
           "@type": "ListItem",
           "position": 3,
           "name": "GLM-5.3-Flash",
-          "item": "https://data.chinaaihub.com/models/glm-5.3-flash/"
+          "item": "https://data.chinaaihub.com/models/glm-53-flash/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/glm-5.3-flash](https://chinaaihub.com/models/glm-5.3-flash)
+> Canonical page on the main site: [chinaaihub.com/models/glm-53-flash](https://chinaaihub.com/models/glm-53-flash)
 
 ## Provider
 

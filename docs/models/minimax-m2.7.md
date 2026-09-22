@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/minimax-m2.7",
+      "@id": "https://chinaaihub.com/models/minimax-m27",
       "name": "MiniMax-M2.7",
-      "url": "https://chinaaihub.com/models/minimax-m2.7",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/minimax-m2.7/",
+      "url": "https://chinaaihub.com/models/minimax-m27",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/minimax-m27/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
@@ -37,14 +37,14 @@
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax-M2.7",
-          "item": "https://data.chinaaihub.com/models/minimax-m2.7/"
+          "item": "https://data.chinaaihub.com/models/minimax-m27/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/minimax-m2.7](https://chinaaihub.com/models/minimax-m2.7)
+> Canonical page on the main site: [chinaaihub.com/models/minimax-m27](https://chinaaihub.com/models/minimax-m27)
 
 ## Provider
 

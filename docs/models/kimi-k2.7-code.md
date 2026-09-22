@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/kimi-k2.7-code",
+      "@id": "https://chinaaihub.com/models/kimi-k27-code",
       "name": "Kimi K2.7 Code",
-      "url": "https://chinaaihub.com/models/kimi-k2.7-code",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/kimi-k2.7-code/",
+      "url": "https://chinaaihub.com/models/kimi-k27-code",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/kimi-k27-code/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
@@ -36,14 +36,14 @@
           "@type": "ListItem",
           "position": 3,
           "name": "Kimi K2.7 Code",
-          "item": "https://data.chinaaihub.com/models/kimi-k2.7-code/"
+          "item": "https://data.chinaaihub.com/models/kimi-k27-code/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/kimi-k2.7-code](https://chinaaihub.com/models/kimi-k2.7-code)
+> Canonical page on the main site: [chinaaihub.com/models/kimi-k27-code](https://chinaaihub.com/models/kimi-k27-code)
 
 ## Provider
 

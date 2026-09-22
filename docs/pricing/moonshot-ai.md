@@ -39,8 +39,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K2.7 Code",
-            "@id": "https://chinaaihub.com/models/kimi-k2.7-code",
-            "url": "https://chinaaihub.com/models/kimi-k2.7-code"
+            "@id": "https://chinaaihub.com/models/kimi-k27-code",
+            "url": "https://chinaaihub.com/models/kimi-k27-code"
           },
           "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $4.0"
@@ -53,8 +53,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K2.7 Code Highspeed",
-            "@id": "https://chinaaihub.com/models/kimi-k2.7-code-highspeed",
-            "url": "https://chinaaihub.com/models/kimi-k2.7-code-highspeed"
+            "@id": "https://chinaaihub.com/models/kimi-k27-code-highspeed",
+            "url": "https://chinaaihub.com/models/kimi-k27-code-highspeed"
           },
           "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $8.0"
@@ -67,8 +67,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K2.6",
-            "@id": "https://chinaaihub.com/models/kimi-k2.6",
-            "url": "https://chinaaihub.com/models/kimi-k2.6"
+            "@id": "https://chinaaihub.com/models/kimi-k26",
+            "url": "https://chinaaihub.com/models/kimi-k26"
           },
           "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $4.0"

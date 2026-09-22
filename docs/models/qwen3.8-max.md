@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/qwen3.8-max",
+      "@id": "https://chinaaihub.com/models/qwen38-max",
       "name": "Qwen3.8-Max",
-      "url": "https://chinaaihub.com/models/qwen3.8-max",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/qwen3.8-max/",
+      "url": "https://chinaaihub.com/models/qwen38-max",
+      "mainEntityOfPage": "https://data.chinaaihub.com/models/qwen38-max/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
@@ -36,14 +36,14 @@
           "@type": "ListItem",
           "position": 3,
           "name": "Qwen3.8-Max",
-          "item": "https://data.chinaaihub.com/models/qwen3.8-max/"
+          "item": "https://data.chinaaihub.com/models/qwen38-max/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/qwen3.8-max](https://chinaaihub.com/models/qwen3.8-max)
+> Canonical page on the main site: [chinaaihub.com/models/qwen38-max](https://chinaaihub.com/models/qwen38-max)
 
 ## Provider
 

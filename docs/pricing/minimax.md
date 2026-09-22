@@ -39,8 +39,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "MiniMax-M2.7",
-            "@id": "https://chinaaihub.com/models/minimax-m2.7",
-            "url": "https://chinaaihub.com/models/minimax-m2.7"
+            "@id": "https://chinaaihub.com/models/minimax-m27",
+            "url": "https://chinaaihub.com/models/minimax-m27"
           },
           "url": "https://data.chinaaihub.com/pricing/minimax/",
           "description": "Output price per 1M tokens: $1.2"
@@ -53,8 +53,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "MiniMax-M2.7-Highspeed",
-            "@id": "https://chinaaihub.com/models/minimax-m2.7-highspeed",
-            "url": "https://chinaaihub.com/models/minimax-m2.7-highspeed"
+            "@id": "https://chinaaihub.com/models/minimax-m27-highspeed",
+            "url": "https://chinaaihub.com/models/minimax-m27-highspeed"
           },
           "url": "https://data.chinaaihub.com/pricing/minimax/",
           "description": "Output price per 1M tokens: $2.4"

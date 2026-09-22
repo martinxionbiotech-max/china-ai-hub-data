@@ -25,8 +25,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Qwen3.8-Max",
-            "@id": "https://chinaaihub.com/models/qwen3.8-max",
-            "url": "https://chinaaihub.com/models/qwen3.8-max"
+            "@id": "https://chinaaihub.com/models/qwen38-max",
+            "url": "https://chinaaihub.com/models/qwen38-max"
           },
           "url": "https://data.chinaaihub.com/pricing/alibaba-cloud/",
           "description": "Output price per 1M tokens: $6.0"
@@ -39,8 +39,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Qwen3.8-Flash",
-            "@id": "https://chinaaihub.com/models/qwen3.8-flash",
-            "url": "https://chinaaihub.com/models/qwen3.8-flash"
+            "@id": "https://chinaaihub.com/models/qwen38-flash",
+            "url": "https://chinaaihub.com/models/qwen38-flash"
           },
           "url": "https://data.chinaaihub.com/pricing/alibaba-cloud/",
           "description": "Output price per 1M tokens: $0.47"

@@ -25,8 +25,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.3",
-            "@id": "https://chinaaihub.com/models/glm-5.3",
-            "url": "https://chinaaihub.com/models/glm-5.3"
+            "@id": "https://chinaaihub.com/models/glm-53",
+            "url": "https://chinaaihub.com/models/glm-53"
           },
           "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
@@ -39,8 +39,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.3-Flash",
-            "@id": "https://chinaaihub.com/models/glm-5.3-flash",
-            "url": "https://chinaaihub.com/models/glm-5.3-flash"
+            "@id": "https://chinaaihub.com/models/glm-53-flash",
+            "url": "https://chinaaihub.com/models/glm-53-flash"
           },
           "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $0.5"
@@ -65,8 +65,8 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.2",
-            "@id": "https://chinaaihub.com/models/glm-5.2",
-            "url": "https://chinaaihub.com/models/glm-5.2"
+            "@id": "https://chinaaihub.com/models/glm-52",
+            "url": "https://chinaaihub.com/models/glm-52"
           },
           "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
