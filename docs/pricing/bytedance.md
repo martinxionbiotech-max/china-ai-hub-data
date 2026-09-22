@@ -110,6 +110,10 @@ pay_as_you_go
 | [doubao-seed-evolving](../models/doubao-seed-evolving.md) | 6.0 | 30.0 | 1.2 | Standard tier. Pricing row matches Doubao Seed 2.1 Pro. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
 | [doubao-seed-2-1-turbo](../models/doubao-seed-2-1-turbo.md) | 3.0 | 15.0 | 0.6 | Standard tier. Low-latency tier: 6.00/30.00. Low-priority tier: 1.50/7.50. | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh |
 
+## Price History
+
+No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
+
 ## Last Verified
 
 2026-09-20

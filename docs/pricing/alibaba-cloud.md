@@ -108,6 +108,10 @@ pay_as_you_go
 | [qwen3.8-flash](../models/qwen3.8-flash.md) | 0.15 | 0.47 | 0.016 | Beijing and Global regions: $0.113 / $0.382. Explicit cache creation $0.2, read $0.016 (Singapore). Batch inference not supported. | https://www.alibabacloud.com/help/en/model-studio/model-pricing |
 | qwen3.7-plus | 0.4 | 1.6 | — | Up to 256K context tier. 256K-1M tier: $1.2 / $4.8. Beijing: $0.276/$1.101 and $0.826/$3.301. Limited-time 20% console discount. Thinking billed same as output. | https://www.alibabacloud.com/help/en/model-studio/model-pricing |
 
+## Price History
+
+No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
+
 ## Last Verified
 
 2026-09-20

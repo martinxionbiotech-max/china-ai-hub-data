@@ -121,6 +121,10 @@ pay_as_you_go
 | [kimi-k2.7-code-highspeed](../models/kimi-k2.7-code-highspeed.md) | 1.9 | 8.0 | 0.38 | Same model as k2.7-code at ~180 tokens/s. Context 262,144. | https://platform.kimi.ai/docs/pricing/chat |
 | [kimi-k2.6](../models/kimi-k2.6.md) | 0.95 | 4.0 | 0.16 | Visual + text; thinking and non-thinking modes. Context 262,144. | https://platform.kimi.ai/docs/pricing/chat |
 
+## Price History
+
+No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
+
 ## Last Verified
 
 2026-09-20

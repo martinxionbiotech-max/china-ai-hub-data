@@ -123,6 +123,10 @@ pay_as_you_go
 | glm-5.3-flashx | 0.37 | 1.25 | 0.075 | China platform: ¥2 / ¥7, cached ¥0.57. Not yet on the GLM Coding Plan. | https://docs.z.ai/guides/overview/pricing |
 | [glm-5.2](../models/glm-5.2.md) | 1.4 | 4.4 | 0.26 | China platform: ¥8 / ¥28, cached ¥2. | https://docs.z.ai/guides/overview/pricing |
 
+## Price History
+
+No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
+
 ## Last Verified
 
 2026-09-20
