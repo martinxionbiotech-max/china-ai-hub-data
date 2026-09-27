@@ -128,6 +128,14 @@ Yes
 |---|---|---|---|---|---|---|
 | Code Arena Frontend | 1539 (rank 8) | arena score | Seed 2.1 (preview) | 2026-06-23 | vendor_reported | https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity |
 
+## Related Technologies
+
+- [ai-agents](../technologies/ai-agents.md)
+- [computer-use](../technologies/computer-use.md)
+- [long-context](../technologies/long-context.md)
+- [multimodal-ai](../technologies/multimodal-ai.md)
+- [tool-calling](../technologies/tool-calling.md)
+
 ## Known Limitations
 
 - API served from cn-beijing region only; no international endpoint verified as of 2026-09-20

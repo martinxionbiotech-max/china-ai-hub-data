@@ -131,6 +131,20 @@ Yes
 | [MMMU-Pro](../benchmarks/mmmu-pro.md) | 81.6 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 | [Video-MME (with subtitles)](../benchmarks/video-mme.md) | 90.0 | accuracy | 2026-07 | vendor_reported | https://github.com/MoonshotAI/Kimi-K3 |
 
+## Related Agents
+
+- [kimi-code](../agents/kimi-code.md)
+- [qoder](../agents/qoder.md)
+
+## Related Technologies
+
+- [ai-agents](../technologies/ai-agents.md)
+- [long-context](../technologies/long-context.md)
+- [multimodal-ai](../technologies/multimodal-ai.md)
+- [rag](../technologies/rag.md)
+- [reasoning-models](../technologies/reasoning-models.md)
+- [tool-calling](../technologies/tool-calling.md)
+
 ## Known Limitations
 
 - Temperature fixed at 1.0 and top_p at 0.95 - cannot be modified

@@ -82,6 +82,10 @@ No
 
 No
 
+## Related Technologies
+
+- [quantization](../technologies/quantization.md)
+
 ## Known Limitations
 
 - Replaced on the DeepSeek API by the V4 family

@@ -140,6 +140,19 @@ Yes
 | [DeepSWE](../benchmarks/deepswe.md) | 62.7 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
 | Agents' Last Exam | 25.7 | accuracy | 2026-08-13 | vendor_reported | https://api-docs.deepseek.com/updates |
 
+## Related Agents
+
+- [deepseek-harness](../agents/deepseek-harness.md)
+- [qoder](../agents/qoder.md)
+
+## Related Technologies
+
+- [function-calling](../technologies/function-calling.md)
+- [inference](../technologies/inference.md)
+- [long-context](../technologies/long-context.md)
+- [reasoning-models](../technologies/reasoning-models.md)
+- [tool-calling](../technologies/tool-calling.md)
+
 ## Known Limitations
 
 - Deprecation announced 2026-09-10: news page says V4-Pro requests will route to V4.1-Flash after 2026-09-14 until V4.1-Pro launches, but the same-day change log says V4-Pro API service continues with unchanged billing - the official pages conflict

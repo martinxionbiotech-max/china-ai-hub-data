@@ -130,6 +130,20 @@ Yes
 | [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 66.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
 | MCP Atlas | 74.2 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
 
+## Related Agents
+
+- [minimax-agent](../agents/minimax-agent.md)
+- [minimax-code](../agents/minimax-code.md)
+- [qoder](../agents/qoder.md)
+
+## Related Technologies
+
+- [ai-agents](../technologies/ai-agents.md)
+- [long-context](../technologies/long-context.md)
+- [multimodal-ai](../technologies/multimodal-ai.md)
+- [reasoning-models](../technologies/reasoning-models.md)
+- [tool-calling](../technologies/tool-calling.md)
+
 ## Known Limitations
 
 - Max output tokens not publicly disclosed in official docs

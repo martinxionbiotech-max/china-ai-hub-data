@@ -133,6 +133,19 @@ Yes
 | [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 90.6 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
 | [DeepSWE v1.1](../benchmarks/deepswe.md) | 74.2 | accuracy | 2026-09-10 | vendor_reported | https://api-docs.deepseek.com/updates |
 
+## Related Agents
+
+- [deepseek-harness](../agents/deepseek-harness.md)
+- [qoder](../agents/qoder.md)
+
+## Related Technologies
+
+- [function-calling](../technologies/function-calling.md)
+- [inference](../technologies/inference.md)
+- [rag](../technologies/rag.md)
+- [reasoning-models](../technologies/reasoning-models.md)
+- [tool-calling](../technologies/tool-calling.md)
+
 ## Known Limitations
 
 - Pricing is peak/off-peak: listed prices are off-peak; peak (01:00-04:00 and 06:00-10:00 UTC, Mon-Fri) is 2x
