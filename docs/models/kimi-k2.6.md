@@ -90,9 +90,35 @@ Yes
 
 - Moonshot AI Platform
 
+## Architecture
+
+Mixture-of-Experts (MoE): 1T total / 32B activated; 384 routed experts (8 selected + 1 shared); MLA attention, SwiGLU activation; 61 layers (1 dense); MoonViT vision encoder (400M)
+
+## Parameter Information
+
+- **total_parameters:** 1T
+- **active_parameters:** 32B
+
+## Maximum Output
+
+98304
+
+## License
+
+Modified MIT
+
+## Open Weight
+
+Yes
+
+## Benchmark Results
+
+- **HLE:** 36.4 (text-only, no tools) (vendor_reported)
+- **HLE:** 55.5 (with tools) (vendor_reported)
+
 ## Known Limitations
 
-- Max output ceiling not stated in the fetched docs (256K context)
+- Maximum output of 98,304 tokens is the documented max generation length in the official model card's evaluation configuration
 
 ## Last Verified
 

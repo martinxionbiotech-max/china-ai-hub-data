@@ -86,7 +86,7 @@ Yes
 
 ## License
 
-Apache-2.0
+MIT (pure open, no regional limits per official model card)
 
 ## Self Hosting
 
@@ -116,6 +116,16 @@ Yes
 
 - international
 - china
+
+## Maximum Output
+
+163840
+
+## Benchmark Results
+
+- **HLE:** 40.5 (text-only) (vendor_reported)
+- **HLE:** 54.7 (w/ tools) (vendor_reported)
+- **SWE-bench Pro:** 62.1 (vendor_reported)
 
 ## Known Limitations
 

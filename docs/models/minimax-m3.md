@@ -122,13 +122,11 @@ Yes
 
 ## Benchmark Results
 
-| benchmark | score | metric | date | source_type | source_url |
-|---|---|---|---|---|---|
-| [BrowseComp](../benchmarks/browsecomp.md) | 83.5 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/models/text/m3 |
-| PostTrainBench | 37.1 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/models/text/m3 |
-| [SWE-bench Pro](../benchmarks/swe-bench.md) | 59.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
-| [Terminal-Bench 2.1](../benchmarks/terminal-bench.md) | 66.0 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
-| MCP Atlas | 74.2 | accuracy | 2026-06-01 | vendor_reported | https://www.minimax.cn/blog/minimax-m3 |
+- **BrowseComp:** 83.5 (vendor_reported)
+- **PostTrainBench:** 37.1 (vendor_reported)
+- **SWE-bench Pro:** 59.0 (vendor_reported)
+- **Terminal-Bench 2.1:** 66.0 (vendor_reported)
+- **MCP Atlas:** 74.2 (vendor_reported)
 
 ## Related Agents
 
@@ -144,8 +142,13 @@ Yes
 - [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
 - [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
 
+## Maximum Output
+
+131072
+
 ## Known Limitations
 
+- Maximum output of 131,072 tokens derived from official card evaluation config (128K max output tokens); the standalone API max-output ceiling is not separately published
 - Max output tokens not publicly disclosed in official docs
 - 1M context with at least 512K guaranteed usable; pricing splits at the 512K input boundary
 - Thinking is disabled by default (thinking=adaptive enables it)

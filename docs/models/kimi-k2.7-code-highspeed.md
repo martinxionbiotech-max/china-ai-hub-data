@@ -87,6 +87,8 @@ Yes
 
 ## Known Limitations
 
+- Architecture and parameter counts are not publicly disclosed by Moonshot for the K2.7 series (API-only coding models)
+- Output speed ~180 tokens/s, up to 260 tokens/s in short-context scenarios (official model list)
 - Thinking is always on; temperature/top_p/n/penalties are fixed and must not be passed
 - Max output ceiling not stated in the fetched docs (256K context)
 

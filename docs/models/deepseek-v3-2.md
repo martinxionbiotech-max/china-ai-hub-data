@@ -86,6 +86,10 @@ No
 
 - [quantization](https://china-ai-hub.pages.dev/technology/quantization/)
 
+## Architecture
+
+DeepSeek Sparse Attention (DSA) MoE — 61 layers, hidden size 7168, MoE intermediate 2048, 256 routed experts (8 selected + 1 shared expert), vocab 129,280 (from config.json)
+
 ## Known Limitations
 
 - Replaced on the DeepSeek API by the V4 family

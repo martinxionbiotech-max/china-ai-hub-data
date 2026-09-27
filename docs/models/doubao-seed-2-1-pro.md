@@ -124,9 +124,7 @@ Yes
 
 ## Benchmark Results
 
-| benchmark | score | metric | model_version | date | source_type | source_url |
-|---|---|---|---|---|---|---|
-| Code Arena Frontend | 1539 (rank 8) | arena score | Seed 2.1 (preview) | 2026-06-23 | vendor_reported | https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity |
+- **Code Arena Frontend:** 1539 (rank 8) (vendor_reported)
 
 ## Related Technologies
 
@@ -138,6 +136,7 @@ Yes
 
 ## Known Limitations
 
+- Architecture and parameter counts are not publicly disclosed by ByteDance for the Seed 2.1 series (API-only model)
 - API served from cn-beijing region only; no international endpoint verified as of 2026-09-20
 - No open-weight release; no self-hosting
 - Exact release day for the 260915 version not officially stated (month 2026-09 only)

@@ -110,6 +110,7 @@ Yes
 
 ## Known Limitations
 
+- Parameter counts are not published in the official MiniMax-M2.7 model card (HF)
 - Text-only input; interleaved thinking always on (cannot be disabled via API)
 - Must echo full assistant content (thinking blocks) back in multi-turn history
 

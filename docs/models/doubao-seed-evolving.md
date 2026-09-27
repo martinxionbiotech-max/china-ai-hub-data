@@ -119,6 +119,7 @@ Yes
 
 ## Known Limitations
 
+- Architecture and parameter counts are not publicly disclosed by ByteDance for the Seed 2.1 series (API-only model)
 - Rolling model: at least one version update per week; capabilities can change under the same model ID
 - API served from cn-beijing region only; no international endpoint verified as of 2026-09-20
 - No open-weight release; no self-hosting
