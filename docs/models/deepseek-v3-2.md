@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/deepseek-v3-2",
+      "@id": "https://china-ai-hub.pages.dev/models/deepseek-v3-2",
       "name": "DeepSeek-V3.2",
-      "url": "https://chinaaihub.com/models/deepseek-v3-2",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/deepseek-v3-2/",
+      "url": "https://china-ai-hub.pages.dev/models/deepseek-v3-2",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/deepseek-v3-2/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://chinaaihub.com/companies/deepseek",
-        "url": "https://chinaaihub.com/companies/deepseek"
+        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
+        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
       },
       "datePublished": "2025-12-01"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek-V3.2",
-          "item": "https://data.chinaaihub.com/models/deepseek-v3-2/"
+          "item": "https://china-ai-hub-data.pages.dev/models/deepseek-v3-2/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/deepseek-v3-2](https://chinaaihub.com/models/deepseek-v3-2)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/deepseek-v3-2](https://china-ai-hub.pages.dev/models/deepseek-v3-2)
 
 ## Provider
 

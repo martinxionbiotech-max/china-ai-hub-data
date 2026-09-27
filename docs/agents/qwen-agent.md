@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/agents/qwen-agent",
+      "@id": "https://china-ai-hub.pages.dev/agents/qwen-agent",
       "name": "Qwen-Agent",
-      "url": "https://chinaaihub.com/agents/qwen-agent",
-      "mainEntityOfPage": "https://data.chinaaihub.com/agents/qwen-agent/",
+      "url": "https://china-ai-hub.pages.dev/agents/qwen-agent",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/qwen-agent/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
-        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
-        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
+        "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
       },
       "description": "Alibaba Qwen team's open-source Python framework for developing LLM applications based on Qwen's instruction following, tool usage, planning and memory capabilities (Apache-2.0). Serves as the backend of Qwen Chat (chat.qwen.ai). Ships example applications including BrowserQwen browser assistant, Docker-isolated Code Interpreter, RAG over 1M-token documents, MCP integration and Gradio GUI."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://data.chinaaihub.com/agents/"
+          "item": "https://china-ai-hub-data.pages.dev/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Qwen-Agent",
-          "item": "https://data.chinaaihub.com/agents/qwen-agent/"
+          "item": "https://china-ai-hub-data.pages.dev/agents/qwen-agent/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/agents/qwen-agent](https://chinaaihub.com/agents/qwen-agent)
+> Canonical page on the main site: [china-ai-hub.pages.dev/agents/qwen-agent](https://china-ai-hub.pages.dev/agents/qwen-agent)
 
 ## Company
 

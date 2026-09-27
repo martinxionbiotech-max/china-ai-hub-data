@@ -17,4 +17,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-Sitemap: https://data.chinaaihub.com/sitemap.xml
+Sitemap: https://china-ai-hub-data.pages.dev/sitemap.xml

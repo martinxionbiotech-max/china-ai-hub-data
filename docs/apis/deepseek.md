@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "APIReference",
-      "@id": "https://chinaaihub.com/api/deepseek",
+      "@id": "https://china-ai-hub.pages.dev/api/deepseek",
       "name": "DeepSeek API",
-      "url": "https://chinaaihub.com/api/deepseek",
-      "mainEntityOfPage": "https://data.chinaaihub.com/apis/deepseek/",
+      "url": "https://china-ai-hub.pages.dev/api/deepseek",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/apis/deepseek/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://chinaaihub.com/companies/deepseek",
-        "url": "https://chinaaihub.com/companies/deepseek"
+        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
+        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
       },
       "documentation": "https://api-docs.deepseek.com/"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APIs",
-          "item": "https://data.chinaaihub.com/apis/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek API",
-          "item": "https://data.chinaaihub.com/apis/deepseek/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/deepseek/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/api/deepseek](https://chinaaihub.com/api/deepseek)
+> Canonical page on the main site: [china-ai-hub.pages.dev/api/deepseek](https://china-ai-hub.pages.dev/api/deepseek)
 
 ## Provider
 

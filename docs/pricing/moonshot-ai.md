@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://chinaaihub.com/pricing/moonshot-ai",
+      "@id": "https://china-ai-hub.pages.dev/pricing/moonshot-ai",
       "name": "Moonshot AI pricing",
-      "url": "https://chinaaihub.com/pricing/moonshot-ai",
-      "mainEntityOfPage": "https://data.chinaaihub.com/pricing/moonshot-ai/",
+      "url": "https://china-ai-hub.pages.dev/pricing/moonshot-ai",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/moonshot-ai/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
-        "@id": "https://chinaaihub.com/companies/moonshot-ai",
-        "url": "https://chinaaihub.com/companies/moonshot-ai"
+        "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
+        "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K3",
-            "@id": "https://chinaaihub.com/models/kimi-k3",
-            "url": "https://chinaaihub.com/models/kimi-k3"
+            "@id": "https://china-ai-hub.pages.dev/models/kimi-k3",
+            "url": "https://china-ai-hub.pages.dev/models/kimi-k3"
           },
-          "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $15.0"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K2.7 Code",
-            "@id": "https://chinaaihub.com/models/kimi-k27-code",
-            "url": "https://chinaaihub.com/models/kimi-k27-code"
+            "@id": "https://china-ai-hub.pages.dev/models/kimi-k27-code",
+            "url": "https://china-ai-hub.pages.dev/models/kimi-k27-code"
           },
-          "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $4.0"
         },
         {
@@ -53,10 +53,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K2.7 Code Highspeed",
-            "@id": "https://chinaaihub.com/models/kimi-k27-code-highspeed",
-            "url": "https://chinaaihub.com/models/kimi-k27-code-highspeed"
+            "@id": "https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed",
+            "url": "https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed"
           },
-          "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $8.0"
         },
         {
@@ -67,10 +67,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Kimi K2.6",
-            "@id": "https://chinaaihub.com/models/kimi-k26",
-            "url": "https://chinaaihub.com/models/kimi-k26"
+            "@id": "https://china-ai-hub.pages.dev/models/kimi-k26",
+            "url": "https://china-ai-hub.pages.dev/models/kimi-k26"
           },
-          "url": "https://data.chinaaihub.com/pricing/moonshot-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $4.0"
         }
       ],
@@ -83,26 +83,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://data.chinaaihub.com/pricing/"
+          "item": "https://china-ai-hub-data.pages.dev/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "moonshot-ai",
-          "item": "https://data.chinaaihub.com/pricing/moonshot-ai/"
+          "item": "https://china-ai-hub-data.pages.dev/pricing/moonshot-ai/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/pricing/moonshot-ai](https://chinaaihub.com/pricing/moonshot-ai)
+> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/moonshot-ai](https://china-ai-hub.pages.dev/pricing/moonshot-ai)
 
 ## Currency
 

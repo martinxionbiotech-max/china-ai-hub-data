@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/kimi-k27-code-highspeed",
+      "@id": "https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed",
       "name": "Kimi K2.7 Code Highspeed",
-      "url": "https://chinaaihub.com/models/kimi-k27-code-highspeed",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/kimi-k27-code-highspeed/",
+      "url": "https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/kimi-k27-code-highspeed/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
-        "@id": "https://chinaaihub.com/companies/moonshot-ai",
-        "url": "https://chinaaihub.com/companies/moonshot-ai"
+        "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
+        "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai"
       }
     },
     {
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Kimi K2.7 Code Highspeed",
-          "item": "https://data.chinaaihub.com/models/kimi-k27-code-highspeed/"
+          "item": "https://china-ai-hub-data.pages.dev/models/kimi-k27-code-highspeed/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/kimi-k27-code-highspeed](https://chinaaihub.com/models/kimi-k27-code-highspeed)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/kimi-k27-code-highspeed](https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed)
 
 ## Provider
 

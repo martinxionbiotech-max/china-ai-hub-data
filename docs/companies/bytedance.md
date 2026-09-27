@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://chinaaihub.com/companies/bytedance",
+      "@id": "https://china-ai-hub.pages.dev/companies/bytedance",
       "name": "ByteDance",
-      "url": "https://chinaaihub.com/companies/bytedance",
-      "mainEntityOfPage": "https://data.chinaaihub.com/companies/bytedance/",
+      "url": "https://china-ai-hub.pages.dev/companies/bytedance",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/companies/bytedance/",
       "sameAs": [
         "https://www.bytedance.com/"
       ],
@@ -26,26 +26,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Companies",
-          "item": "https://data.chinaaihub.com/companies/"
+          "item": "https://china-ai-hub-data.pages.dev/companies/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "ByteDance",
-          "item": "https://data.chinaaihub.com/companies/bytedance/"
+          "item": "https://china-ai-hub-data.pages.dev/companies/bytedance/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/companies/bytedance](https://chinaaihub.com/companies/bytedance)
+> Canonical page on the main site: [china-ai-hub.pages.dev/companies/bytedance](https://china-ai-hub.pages.dev/companies/bytedance)
 
 ## Aliases
 

@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/qwen38-max",
+      "@id": "https://china-ai-hub.pages.dev/models/qwen38-max",
       "name": "Qwen3.8-Max",
-      "url": "https://chinaaihub.com/models/qwen38-max",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/qwen38-max/",
+      "url": "https://china-ai-hub.pages.dev/models/qwen38-max",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/qwen38-max/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
-        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
-        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
+        "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
       }
     },
     {
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Qwen3.8-Max",
-          "item": "https://data.chinaaihub.com/models/qwen38-max/"
+          "item": "https://china-ai-hub-data.pages.dev/models/qwen38-max/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/qwen38-max](https://chinaaihub.com/models/qwen38-max)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/qwen38-max](https://china-ai-hub.pages.dev/models/qwen38-max)
 
 ## Provider
 

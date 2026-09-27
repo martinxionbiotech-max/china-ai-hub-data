@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/glm-52",
+      "@id": "https://china-ai-hub.pages.dev/models/glm-52",
       "name": "GLM-5.2",
-      "url": "https://chinaaihub.com/models/glm-52",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/glm-52/",
+      "url": "https://china-ai-hub.pages.dev/models/glm-52",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/glm-52/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://chinaaihub.com/companies/zhipu-ai",
-        "url": "https://chinaaihub.com/companies/zhipu-ai"
+        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
+        "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
       },
       "datePublished": "2026-06-16"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "GLM-5.2",
-          "item": "https://data.chinaaihub.com/models/glm-52/"
+          "item": "https://china-ai-hub-data.pages.dev/models/glm-52/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/glm-52](https://chinaaihub.com/models/glm-52)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/glm-52](https://china-ai-hub.pages.dev/models/glm-52)
 
 ## Provider
 

@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/deepseek-v4-1-flash",
+      "@id": "https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash",
       "name": "DeepSeek-V4.1-Flash",
-      "url": "https://chinaaihub.com/models/deepseek-v4-1-flash",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/deepseek-v4-1-flash/",
+      "url": "https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/deepseek-v4-1-flash/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://chinaaihub.com/companies/deepseek",
-        "url": "https://chinaaihub.com/companies/deepseek"
+        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
+        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
       },
       "datePublished": "2026-09-10"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek-V4.1-Flash",
-          "item": "https://data.chinaaihub.com/models/deepseek-v4-1-flash/"
+          "item": "https://china-ai-hub-data.pages.dev/models/deepseek-v4-1-flash/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/deepseek-v4-1-flash](https://chinaaihub.com/models/deepseek-v4-1-flash)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/deepseek-v4-1-flash](https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash)
 
 ## Provider
 

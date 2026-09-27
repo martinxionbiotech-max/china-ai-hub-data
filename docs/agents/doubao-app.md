@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/agents/doubao-app",
+      "@id": "https://china-ai-hub.pages.dev/agents/doubao-app",
       "name": "Doubao",
-      "url": "https://chinaaihub.com/agents/doubao-app",
-      "mainEntityOfPage": "https://data.chinaaihub.com/agents/doubao-app/",
+      "url": "https://china-ai-hub.pages.dev/agents/doubao-app",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/doubao-app/",
       "provider": {
         "@type": "Organization",
         "name": "ByteDance",
-        "@id": "https://chinaaihub.com/companies/bytedance",
-        "url": "https://chinaaihub.com/companies/bytedance"
+        "@id": "https://china-ai-hub.pages.dev/companies/bytedance",
+        "url": "https://china-ai-hub.pages.dev/companies/bytedance"
       },
       "description": "ByteDance's consumer AI assistant app (豆包) for life and work: Q&A and explanations, study help, office automation (documents, spreadsheets, PPT, data analysis, code), image and video creation (Seedream/Seedance models), voice calls, photo recognition and web search. 'Doubao Work' mode runs an autonomous planning/executing agent that operates a virtual desktop on the local computer to complete complex tasks, with real-time watching, pause and takeover; integrates with Feishu for enterprise context. Mainland-China-focused; overseas users are redirected to Dola."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://data.chinaaihub.com/agents/"
+          "item": "https://china-ai-hub-data.pages.dev/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Doubao",
-          "item": "https://data.chinaaihub.com/agents/doubao-app/"
+          "item": "https://china-ai-hub-data.pages.dev/agents/doubao-app/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/agents/doubao-app](https://chinaaihub.com/agents/doubao-app)
+> Canonical page on the main site: [china-ai-hub.pages.dev/agents/doubao-app](https://china-ai-hub.pages.dev/agents/doubao-app)
 
 ## Company
 

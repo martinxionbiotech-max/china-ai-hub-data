@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/minimax-m27-highspeed",
+      "@id": "https://china-ai-hub.pages.dev/models/minimax-m27-highspeed",
       "name": "MiniMax-M2.7-Highspeed",
-      "url": "https://chinaaihub.com/models/minimax-m27-highspeed",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/minimax-m27-highspeed/",
+      "url": "https://china-ai-hub.pages.dev/models/minimax-m27-highspeed",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/minimax-m27-highspeed/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://chinaaihub.com/companies/minimax",
-        "url": "https://chinaaihub.com/companies/minimax"
+        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
+        "url": "https://china-ai-hub.pages.dev/companies/minimax"
       },
       "datePublished": "2026-03-18"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax-M2.7-Highspeed",
-          "item": "https://data.chinaaihub.com/models/minimax-m27-highspeed/"
+          "item": "https://china-ai-hub-data.pages.dev/models/minimax-m27-highspeed/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/minimax-m27-highspeed](https://chinaaihub.com/models/minimax-m27-highspeed)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/minimax-m27-highspeed](https://china-ai-hub.pages.dev/models/minimax-m27-highspeed)
 
 ## Provider
 

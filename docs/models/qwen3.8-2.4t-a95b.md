@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/qwen38-24t-a95b",
+      "@id": "https://china-ai-hub.pages.dev/models/qwen38-24t-a95b",
       "name": "Qwen3.8-2.4T-A95B",
-      "url": "https://chinaaihub.com/models/qwen38-24t-a95b",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/qwen38-24t-a95b/",
+      "url": "https://china-ai-hub.pages.dev/models/qwen38-24t-a95b",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/qwen38-24t-a95b/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
-        "@id": "https://chinaaihub.com/companies/alibaba-cloud",
-        "url": "https://chinaaihub.com/companies/alibaba-cloud"
+        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
+        "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
       },
       "datePublished": "2026-08-12"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Qwen3.8-2.4T-A95B",
-          "item": "https://data.chinaaihub.com/models/qwen38-24t-a95b/"
+          "item": "https://china-ai-hub-data.pages.dev/models/qwen38-24t-a95b/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/qwen38-24t-a95b](https://chinaaihub.com/models/qwen38-24t-a95b)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/qwen38-24t-a95b](https://china-ai-hub.pages.dev/models/qwen38-24t-a95b)
 
 ## Provider
 

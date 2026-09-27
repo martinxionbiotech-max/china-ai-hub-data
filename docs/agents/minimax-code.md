@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/agents/minimax-code",
+      "@id": "https://china-ai-hub.pages.dev/agents/minimax-code",
       "name": "MiniMax Code",
-      "url": "https://chinaaihub.com/agents/minimax-code",
-      "mainEntityOfPage": "https://data.chinaaihub.com/agents/minimax-code/",
+      "url": "https://china-ai-hub.pages.dev/agents/minimax-code",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/minimax-code/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://chinaaihub.com/companies/minimax",
-        "url": "https://chinaaihub.com/companies/minimax"
+        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
+        "url": "https://china-ai-hub.pages.dev/companies/minimax"
       },
       "description": "MiniMax's desktop AI agent app and CLI (mcode) for software development, everyday workflows, automation and remote collaboration. Desktop (macOS/Windows) features Coding and Work modes, built-in browser, Agent Team, memory, MCP servers, scheduled tasks, Remote Control from phone and messaging integrations. CLI is a terminal coding agent with interactive TUI, headless mode and ACP server; open source (MIT)."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://data.chinaaihub.com/agents/"
+          "item": "https://china-ai-hub-data.pages.dev/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax Code",
-          "item": "https://data.chinaaihub.com/agents/minimax-code/"
+          "item": "https://china-ai-hub-data.pages.dev/agents/minimax-code/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/agents/minimax-code](https://chinaaihub.com/agents/minimax-code)
+> Canonical page on the main site: [china-ai-hub.pages.dev/agents/minimax-code](https://china-ai-hub.pages.dev/agents/minimax-code)
 
 ## Company
 

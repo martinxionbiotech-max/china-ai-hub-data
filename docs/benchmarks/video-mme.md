@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://chinaaihub.com/benchmarks/video-mme",
+      "@id": "https://china-ai-hub.pages.dev/benchmarks/video-mme",
       "name": "Video-MME",
-      "url": "https://chinaaihub.com/benchmarks/video-mme",
-      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/video-mme/",
+      "url": "https://china-ai-hub.pages.dev/benchmarks/video-mme",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/video-mme/",
       "description": "Video understanding benchmark spanning various video durations and domains.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://data.chinaaihub.com/benchmarks/"
+          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Video-MME",
-          "item": "https://data.chinaaihub.com/benchmarks/video-mme/"
+          "item": "https://china-ai-hub-data.pages.dev/benchmarks/video-mme/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/benchmarks/video-mme](https://chinaaihub.com/benchmarks/video-mme)
+> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/video-mme](https://china-ai-hub.pages.dev/benchmarks/video-mme)
 
 ## Description
 

@@ -1,6 +1,6 @@
 # China AI Hub Data
 
-This is the **data layer** for [China AI Hub](https://chinaaihub.com) — the English-language structured information layer for China's AI ecosystem.
+This is the **data layer** for [China AI Hub](https://china-ai-hub.pages.dev) — the English-language structured information layer for China's AI ecosystem.
 
 While the main site hosts editorial content, comparisons and original research, this data hub is dedicated to the **structured reference data** behind it: what is known, verified, and sourceable about Chinese AI models, companies, agents, APIs, pricing and benchmarks.
 
@@ -17,8 +17,8 @@ While the main site hosts editorial content, comparisons and original research, 
 
 ## Relationship to the main site
 
-- **Main site (chinaaihub.com)** = editorial authority: what it means, how to choose, original research
-- **Data hub (data.chinaaihub.com)** = reference layer: what is known, with sources
+- **Main site (china-ai-hub.pages.dev)** = editorial authority: what it means, how to choose, original research
+- **Data hub (china-ai-hub-data.pages.dev)** = reference layer: what is known, with sources
 
 Every entity here links back to its canonical page on the main site. All data follows the same source policy as the main site: no fabricated data, official sources first, `FACT` / `VENDOR CLAIM` / `ANALYSIS` classification, and `unknown` where information is not publicly disclosed.
 

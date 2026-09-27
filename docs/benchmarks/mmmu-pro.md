@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://chinaaihub.com/benchmarks/mmmu-pro",
+      "@id": "https://china-ai-hub.pages.dev/benchmarks/mmmu-pro",
       "name": "MMMU-Pro",
-      "url": "https://chinaaihub.com/benchmarks/mmmu-pro",
-      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/mmmu-pro/",
+      "url": "https://china-ai-hub.pages.dev/benchmarks/mmmu-pro",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/mmmu-pro/",
       "description": "Multimodal, multi-discipline understanding benchmark with college-level questions requiring reasoning.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://data.chinaaihub.com/benchmarks/"
+          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MMMU-Pro",
-          "item": "https://data.chinaaihub.com/benchmarks/mmmu-pro/"
+          "item": "https://china-ai-hub-data.pages.dev/benchmarks/mmmu-pro/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/benchmarks/mmmu-pro](https://chinaaihub.com/benchmarks/mmmu-pro)
+> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/mmmu-pro](https://china-ai-hub.pages.dev/benchmarks/mmmu-pro)
 
 ## Description
 

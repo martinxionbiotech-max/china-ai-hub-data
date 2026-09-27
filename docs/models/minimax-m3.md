@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/minimax-m3",
+      "@id": "https://china-ai-hub.pages.dev/models/minimax-m3",
       "name": "MiniMax-M3",
-      "url": "https://chinaaihub.com/models/minimax-m3",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/minimax-m3/",
+      "url": "https://china-ai-hub.pages.dev/models/minimax-m3",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/minimax-m3/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://chinaaihub.com/companies/minimax",
-        "url": "https://chinaaihub.com/companies/minimax"
+        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
+        "url": "https://china-ai-hub.pages.dev/companies/minimax"
       },
       "datePublished": "2026-06-01"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax-M3",
-          "item": "https://data.chinaaihub.com/models/minimax-m3/"
+          "item": "https://china-ai-hub-data.pages.dev/models/minimax-m3/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/minimax-m3](https://chinaaihub.com/models/minimax-m3)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/minimax-m3](https://china-ai-hub.pages.dev/models/minimax-m3)
 
 ## Provider
 

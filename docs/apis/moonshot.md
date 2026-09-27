@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "APIReference",
-      "@id": "https://chinaaihub.com/api/moonshot",
+      "@id": "https://china-ai-hub.pages.dev/api/moonshot",
       "name": "Moonshot AI API",
-      "url": "https://chinaaihub.com/api/moonshot",
-      "mainEntityOfPage": "https://data.chinaaihub.com/apis/moonshot/",
+      "url": "https://china-ai-hub.pages.dev/api/moonshot",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/apis/moonshot/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
-        "@id": "https://chinaaihub.com/companies/moonshot-ai",
-        "url": "https://chinaaihub.com/companies/moonshot-ai"
+        "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
+        "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai"
       },
       "documentation": "https://platform.kimi.ai/docs"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APIs",
-          "item": "https://data.chinaaihub.com/apis/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Moonshot AI API",
-          "item": "https://data.chinaaihub.com/apis/moonshot/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/moonshot/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/api/moonshot](https://chinaaihub.com/api/moonshot)
+> Canonical page on the main site: [china-ai-hub.pages.dev/api/moonshot](https://china-ai-hub.pages.dev/api/moonshot)
 
 ## Provider
 

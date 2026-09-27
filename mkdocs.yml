@@ -1,7 +1,7 @@
 site_name: China AI Hub Data
 site_description: 'Data layer for China AI Hub — structured reference for China''s
   AI ecosystem: models, companies, agents, APIs, pricing and benchmarks.'
-site_url: https://data.chinaaihub.com
+site_url: https://china-ai-hub-data.pages.dev
 site_author: China AI Hub
 copyright: © 2026 China AI Hub
 theme:

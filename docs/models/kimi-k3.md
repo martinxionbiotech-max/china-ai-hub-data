@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://chinaaihub.com/models/kimi-k3",
+      "@id": "https://china-ai-hub.pages.dev/models/kimi-k3",
       "name": "Kimi K3",
-      "url": "https://chinaaihub.com/models/kimi-k3",
-      "mainEntityOfPage": "https://data.chinaaihub.com/models/kimi-k3/",
+      "url": "https://china-ai-hub.pages.dev/models/kimi-k3",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/kimi-k3/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
-        "@id": "https://chinaaihub.com/companies/moonshot-ai",
-        "url": "https://chinaaihub.com/companies/moonshot-ai"
+        "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
+        "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai"
       },
       "datePublished": "2026-07-16"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://data.chinaaihub.com/models/"
+          "item": "https://china-ai-hub-data.pages.dev/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Kimi K3",
-          "item": "https://data.chinaaihub.com/models/kimi-k3/"
+          "item": "https://china-ai-hub-data.pages.dev/models/kimi-k3/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/models/kimi-k3](https://chinaaihub.com/models/kimi-k3)
+> Canonical page on the main site: [china-ai-hub.pages.dev/models/kimi-k3](https://china-ai-hub.pages.dev/models/kimi-k3)
 
 ## Provider
 

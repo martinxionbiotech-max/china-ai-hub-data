@@ -6,12 +6,12 @@ Time-stamped pricing snapshots for Chinese AI model providers.
 
 | Entity | Main site (canonical) |
 |---|---|
-| [alibaba-cloud](alibaba-cloud.md) | [chinaaihub.com](https://chinaaihub.com/pricing/alibaba-cloud) |
-| [bytedance](bytedance.md) | [chinaaihub.com](https://chinaaihub.com/pricing/bytedance) |
-| [deepseek](deepseek.md) | [chinaaihub.com](https://chinaaihub.com/pricing/deepseek) |
-| [minimax](minimax.md) | [chinaaihub.com](https://chinaaihub.com/pricing/minimax) |
-| [moonshot-ai](moonshot-ai.md) | [chinaaihub.com](https://chinaaihub.com/pricing/moonshot-ai) |
-| [zhipu-ai](zhipu-ai.md) | [chinaaihub.com](https://chinaaihub.com/pricing/zhipu-ai) |
+| [alibaba-cloud](alibaba-cloud.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/pricing/alibaba-cloud) |
+| [bytedance](bytedance.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/pricing/bytedance) |
+| [deepseek](deepseek.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/pricing/deepseek) |
+| [minimax](minimax.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/pricing/minimax) |
+| [moonshot-ai](moonshot-ai.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/pricing/moonshot-ai) |
+| [zhipu-ai](zhipu-ai.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/pricing/zhipu-ai) |
 
 ## Data policy
 

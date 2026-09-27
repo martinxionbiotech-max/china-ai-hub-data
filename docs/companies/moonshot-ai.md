@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://chinaaihub.com/companies/moonshot-ai",
+      "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
       "name": "Moonshot AI",
-      "url": "https://chinaaihub.com/companies/moonshot-ai",
-      "mainEntityOfPage": "https://data.chinaaihub.com/companies/moonshot-ai/",
+      "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/companies/moonshot-ai/",
       "sameAs": [
         "https://www.moonshot.ai/"
       ],
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Companies",
-          "item": "https://data.chinaaihub.com/companies/"
+          "item": "https://china-ai-hub-data.pages.dev/companies/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Moonshot AI",
-          "item": "https://data.chinaaihub.com/companies/moonshot-ai/"
+          "item": "https://china-ai-hub-data.pages.dev/companies/moonshot-ai/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/companies/moonshot-ai](https://chinaaihub.com/companies/moonshot-ai)
+> Canonical page on the main site: [china-ai-hub.pages.dev/companies/moonshot-ai](https://china-ai-hub.pages.dev/companies/moonshot-ai)
 
 ## Aliases
 

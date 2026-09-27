@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://chinaaihub.com/benchmarks/hle",
+      "@id": "https://china-ai-hub.pages.dev/benchmarks/hle",
       "name": "HLE",
-      "url": "https://chinaaihub.com/benchmarks/hle",
-      "mainEntityOfPage": "https://data.chinaaihub.com/benchmarks/hle/",
+      "url": "https://china-ai-hub.pages.dev/benchmarks/hle",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/hle/",
       "description": "Humanity's Last Exam - a frontier benchmark of expert-level questions across disciplines, often reported with and without tool access.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://data.chinaaihub.com/benchmarks/"
+          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "HLE",
-          "item": "https://data.chinaaihub.com/benchmarks/hle/"
+          "item": "https://china-ai-hub-data.pages.dev/benchmarks/hle/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/benchmarks/hle](https://chinaaihub.com/benchmarks/hle)
+> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/hle](https://china-ai-hub.pages.dev/benchmarks/hle)
 
 ## Description
 

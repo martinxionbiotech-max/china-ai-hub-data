@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "APIReference",
-      "@id": "https://chinaaihub.com/api/ark",
+      "@id": "https://china-ai-hub.pages.dev/api/ark",
       "name": "Ark API",
-      "url": "https://chinaaihub.com/api/ark",
-      "mainEntityOfPage": "https://data.chinaaihub.com/apis/ark/",
+      "url": "https://china-ai-hub.pages.dev/api/ark",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/apis/ark/",
       "provider": {
         "@type": "Organization",
         "name": "ByteDance",
-        "@id": "https://chinaaihub.com/companies/bytedance",
-        "url": "https://chinaaihub.com/companies/bytedance"
+        "@id": "https://china-ai-hub.pages.dev/companies/bytedance",
+        "url": "https://china-ai-hub.pages.dev/companies/bytedance"
       },
       "documentation": "https://docs.volcengine.com/docs/ark"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APIs",
-          "item": "https://data.chinaaihub.com/apis/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Ark API",
-          "item": "https://data.chinaaihub.com/apis/ark/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/ark/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/api/ark](https://chinaaihub.com/api/ark)
+> Canonical page on the main site: [china-ai-hub.pages.dev/api/ark](https://china-ai-hub.pages.dev/api/ark)
 
 ## Provider
 

@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "APIReference",
-      "@id": "https://chinaaihub.com/api/minimax",
+      "@id": "https://china-ai-hub.pages.dev/api/minimax",
       "name": "MiniMax API",
-      "url": "https://chinaaihub.com/api/minimax",
-      "mainEntityOfPage": "https://data.chinaaihub.com/apis/minimax/",
+      "url": "https://china-ai-hub.pages.dev/api/minimax",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/apis/minimax/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://chinaaihub.com/companies/minimax",
-        "url": "https://chinaaihub.com/companies/minimax"
+        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
+        "url": "https://china-ai-hub.pages.dev/companies/minimax"
       },
       "documentation": "https://platform.minimax.io/docs"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APIs",
-          "item": "https://data.chinaaihub.com/apis/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax API",
-          "item": "https://data.chinaaihub.com/apis/minimax/"
+          "item": "https://china-ai-hub-data.pages.dev/apis/minimax/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/api/minimax](https://chinaaihub.com/api/minimax)
+> Canonical page on the main site: [china-ai-hub.pages.dev/api/minimax](https://china-ai-hub.pages.dev/api/minimax)
 
 ## Provider
 

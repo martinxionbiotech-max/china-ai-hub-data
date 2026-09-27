@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://chinaaihub.com/pricing/zhipu-ai",
+      "@id": "https://china-ai-hub.pages.dev/pricing/zhipu-ai",
       "name": "Zhipu AI pricing",
-      "url": "https://chinaaihub.com/pricing/zhipu-ai",
-      "mainEntityOfPage": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+      "url": "https://china-ai-hub.pages.dev/pricing/zhipu-ai",
+      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://chinaaihub.com/companies/zhipu-ai",
-        "url": "https://chinaaihub.com/companies/zhipu-ai"
+        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
+        "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.3",
-            "@id": "https://chinaaihub.com/models/glm-53",
-            "url": "https://chinaaihub.com/models/glm-53"
+            "@id": "https://china-ai-hub.pages.dev/models/glm-53",
+            "url": "https://china-ai-hub.pages.dev/models/glm-53"
           },
-          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.3-Flash",
-            "@id": "https://chinaaihub.com/models/glm-53-flash",
-            "url": "https://chinaaihub.com/models/glm-53-flash"
+            "@id": "https://china-ai-hub.pages.dev/models/glm-53-flash",
+            "url": "https://china-ai-hub.pages.dev/models/glm-53-flash"
           },
-          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $0.5"
         },
         {
@@ -54,7 +54,7 @@
             "@type": "SoftwareApplication",
             "name": "glm-5.3-flashx"
           },
-          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $1.25"
         },
         {
@@ -65,10 +65,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.2",
-            "@id": "https://chinaaihub.com/models/glm-52",
-            "url": "https://chinaaihub.com/models/glm-52"
+            "@id": "https://china-ai-hub.pages.dev/models/glm-52",
+            "url": "https://china-ai-hub.pages.dev/models/glm-52"
           },
-          "url": "https://data.chinaaihub.com/pricing/zhipu-ai/",
+          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
         }
       ],
@@ -81,26 +81,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://data.chinaaihub.com/"
+          "item": "https://china-ai-hub-data.pages.dev/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://data.chinaaihub.com/pricing/"
+          "item": "https://china-ai-hub-data.pages.dev/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "zhipu-ai",
-          "item": "https://data.chinaaihub.com/pricing/zhipu-ai/"
+          "item": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [chinaaihub.com/pricing/zhipu-ai](https://chinaaihub.com/pricing/zhipu-ai)
+> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/zhipu-ai](https://china-ai-hub.pages.dev/pricing/zhipu-ai)
 
 ## Currency
 
