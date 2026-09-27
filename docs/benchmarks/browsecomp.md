@@ -65,13 +65,7 @@ Benchmark of browsing and retrieval ability: locating obscure information using 
 
 ## Relevant Models
 
-- [MiniMax-M3
-provider: minimax
-model_family: MiniMax M-series
-release_date: ](../models/minimax-m3
-provider:-minimax
-model_family:-minimax-m-series
-release_date:-.md) — 83.5
+- [MiniMax-M3](../models/minimax-m3.md) — 83.5
 
 ## Limitations
 

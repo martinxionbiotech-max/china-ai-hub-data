@@ -64,13 +64,7 @@ Video understanding benchmark spanning various video durations and domains.
 
 ## Relevant Models
 
-- [Kimi K3
-provider: moonshot-ai
-model_family: Kimi K-series
-release_date: ](../models/kimi-k3
-provider:-moonshot-ai
-model_family:-kimi-k-series
-release_date:-.md) — 90.0
+- [Kimi K3](../models/kimi-k3.md) — 90.0
 
 ## Limitations
 

@@ -71,48 +71,12 @@ Terminal-based agent benchmark (shell commands, file operations, package managem
 
 ## Relevant Models
 
-- [GLM-5.3
-provider: zhipu-ai
-model_family: GLM-5
-release_date: ](../models/glm-53
-provider:-zhipu-ai
-model_family:-glm-5
-release_date:-.md) — 28.3
-- [Qwen3.8-Max
-provider: alibaba-cloud
-model_family: Qwen3.8
-version: ](../models/qwen38-max
-provider:-alibaba-cloud
-model_family:-qwen38
-version:-.md) — 86.6
-- [DeepSeek-V4.1-Flash
-provider: deepseek
-model_family: DeepSeek-V4.1
-release_date: ](../models/deepseek-v41-flash
-provider:-deepseek
-model_family:-deepseek-v41
-release_date:-.md) — 90.6
-- [Kimi K3
-provider: moonshot-ai
-model_family: Kimi K-series
-release_date: ](../models/kimi-k3
-provider:-moonshot-ai
-model_family:-kimi-k-series
-release_date:-.md) — 88.3
-- [MiniMax-M3
-provider: minimax
-model_family: MiniMax M-series
-release_date: ](../models/minimax-m3
-provider:-minimax
-model_family:-minimax-m-series
-release_date:-.md) — 66.0
-- [DeepSeek-V4-Pro
-provider: deepseek
-model_family: DeepSeek-V4
-version: ](../models/deepseek-v4-pro
-provider:-deepseek
-model_family:-deepseek-v4
-version:-.md) — 87.9
+- [GLM-5.3](../models/glm-53.md) — 28.3
+- [Qwen3.8-Max](../models/qwen38-max.md) — 86.6
+- [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md) — 90.6
+- [Kimi K3](../models/kimi-k3.md) — 88.3
+- [MiniMax-M3](../models/minimax-m3.md) — 66.0
+- [DeepSeek-V4-Pro](../models/deepseek-v4-pro.md) — 87.9
 
 ## Limitations
 

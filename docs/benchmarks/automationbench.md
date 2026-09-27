@@ -66,21 +66,7 @@ Benchmark of computer-use automation tasks.
 
 ## Relevant Models
 
-- [GLM-5.3-Flash
-provider: zhipu-ai
-model_family: GLM-5.3-Flash
-version: FlashX
-aliases:
-  - glm-5.3-flashx
-  - GLM-5.3-FlashX
-release_date: ](../models/glm-53-flash
-provider:-zhipu-ai
-model_family:-glm-53-flash
-version:-flashx
-aliases:
-----glm-53-flashx
-----glm-53-flashx
-release_date:-.md) — 48.8
+- [GLM-5.3-Flash](../models/glm-53-flash.md) — 48.8
 
 ## Limitations
 

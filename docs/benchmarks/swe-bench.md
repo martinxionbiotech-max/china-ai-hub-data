@@ -67,20 +67,8 @@ Software engineering benchmark family built from real GitHub issues, with Pro, V
 
 ## Relevant Models
 
-- [Qwen3.8-Max
-provider: alibaba-cloud
-model_family: Qwen3.8
-version: ](../models/qwen38-max
-provider:-alibaba-cloud
-model_family:-qwen38
-version:-.md) — 67.7
-- [MiniMax-M3
-provider: minimax
-model_family: MiniMax M-series
-release_date: ](../models/minimax-m3
-provider:-minimax
-model_family:-minimax-m-series
-release_date:-.md) — 59.0
+- [Qwen3.8-Max](../models/qwen38-max.md) — 67.7
+- [MiniMax-M3](../models/minimax-m3.md) — 59.0
 
 ## Limitations
 

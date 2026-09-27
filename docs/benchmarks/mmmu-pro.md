@@ -64,13 +64,7 @@ Multimodal, multi-discipline understanding benchmark with college-level question
 
 ## Relevant Models
 
-- [Kimi K3
-provider: moonshot-ai
-model_family: Kimi K-series
-release_date: ](../models/kimi-k3
-provider:-moonshot-ai
-model_family:-kimi-k-series
-release_date:-.md) — 81.6
+- [Kimi K3](../models/kimi-k3.md) — 81.6
 
 ## Limitations
 
