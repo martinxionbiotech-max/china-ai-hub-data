@@ -84,7 +84,7 @@ No
 
 ## Related Technologies
 
-- [quantization](../technologies/quantization.md)
+- [quantization](https://china-ai-hub.pages.dev/technology/quantization/)
 
 ## Known Limitations
 

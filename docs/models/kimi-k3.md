@@ -138,12 +138,12 @@ Yes
 
 ## Related Technologies
 
-- [ai-agents](../technologies/ai-agents.md)
-- [long-context](../technologies/long-context.md)
-- [multimodal-ai](../technologies/multimodal-ai.md)
-- [rag](../technologies/rag.md)
-- [reasoning-models](../technologies/reasoning-models.md)
-- [tool-calling](../technologies/tool-calling.md)
+- [ai-agents](https://china-ai-hub.pages.dev/technology/ai-agents/)
+- [long-context](https://china-ai-hub.pages.dev/technology/long-context/)
+- [multimodal-ai](https://china-ai-hub.pages.dev/technology/multimodal-ai/)
+- [rag](https://china-ai-hub.pages.dev/technology/rag/)
+- [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
+- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
 
 ## Known Limitations
 

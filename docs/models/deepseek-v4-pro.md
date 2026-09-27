@@ -147,11 +147,11 @@ Yes
 
 ## Related Technologies
 
-- [function-calling](../technologies/function-calling.md)
-- [inference](../technologies/inference.md)
-- [long-context](../technologies/long-context.md)
-- [reasoning-models](../technologies/reasoning-models.md)
-- [tool-calling](../technologies/tool-calling.md)
+- [function-calling](https://china-ai-hub.pages.dev/technology/function-calling/)
+- [inference](https://china-ai-hub.pages.dev/technology/inference/)
+- [long-context](https://china-ai-hub.pages.dev/technology/long-context/)
+- [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
+- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
 
 ## Known Limitations
 
