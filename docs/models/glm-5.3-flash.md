@@ -56,12 +56,7 @@ GLM-5.3-Flash
 
 ## Version
 
-FlashX
-
-## Aliases
-
-- glm-5.3-flashx
-- GLM-5.3-FlashX
+Flash
 
 ## Release Date
 
@@ -144,7 +139,6 @@ Yes
 
 ## Known Limitations
 
-- FlashX tier not yet available on the GLM Coding Plan (pay-as-you-go only)
 - Reasoning always enabled; cannot be disabled
 - Z.ai Code Bench is a private in-house benchmark
 - Benchmarks vendor-reported; not independently verified
