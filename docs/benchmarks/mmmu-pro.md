@@ -62,6 +62,16 @@ Multimodal, multi-discipline understanding benchmark with college-level question
 
 **Scoring:** Accuracy (% correct answers)
 
+## Relevant Models
+
+- [Kimi K3
+provider: moonshot-ai
+model_family: Kimi K-series
+release_date: ](../models/kimi-k3
+provider:-moonshot-ai
+model_family:-kimi-k-series
+release_date:-.md) — 81.6
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. With-tools and without-tools results are not directly comparable.

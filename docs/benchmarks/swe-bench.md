@@ -65,6 +65,23 @@ Software engineering benchmark family built from real GitHub issues, with Pro, V
 
 **Scoring:** Resolved rate (% of instances where all tests pass)
 
+## Relevant Models
+
+- [Qwen3.8-Max
+provider: alibaba-cloud
+model_family: Qwen3.8
+version: ](../models/qwen38-max
+provider:-alibaba-cloud
+model_family:-qwen38
+version:-.md) — 67.7
+- [MiniMax-M3
+provider: minimax
+model_family: MiniMax M-series
+release_date: ](../models/minimax-m3
+provider:-minimax
+model_family:-minimax-m-series
+release_date:-.md) — 59.0
+
 ## Limitations
 
 Pro, Verified and Multilingual variants are different test sets and are not comparable to each other; the variant is recorded per evaluation. All scores are vendor-reported and not independently verified.

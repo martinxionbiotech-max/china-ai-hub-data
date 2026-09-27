@@ -63,6 +63,16 @@ Benchmark of browsing and retrieval ability: locating obscure information using 
 
 **Scoring:** Accuracy (% correct)
 
+## Relevant Models
+
+- [MiniMax-M3
+provider: minimax
+model_family: MiniMax M-series
+release_date: ](../models/minimax-m3
+provider:-minimax
+model_family:-minimax-m-series
+release_date:-.md) — 83.5
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. Evaluation setups (context management, agent scaffolding) differ between vendors.

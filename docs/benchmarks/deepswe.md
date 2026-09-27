@@ -66,6 +66,52 @@ Software engineering benchmark built from real-world issues and pull requests.
 
 **Scoring:** Binary reward plus pass fractions per task (reward.json / CTRF test report)
 
+## Relevant Models
+
+- [GLM-5.3
+provider: zhipu-ai
+model_family: GLM-5
+release_date: ](../models/glm-53
+provider:-zhipu-ai
+model_family:-glm-5
+release_date:-.md) — 66.9
+- [GLM-5.3-Flash
+provider: zhipu-ai
+model_family: GLM-5.3-Flash
+version: FlashX
+aliases:
+  - glm-5.3-flashx
+  - GLM-5.3-FlashX
+release_date: ](../models/glm-53-flash
+provider:-zhipu-ai
+model_family:-glm-53-flash
+version:-flashx
+aliases:
+----glm-53-flashx
+----glm-53-flashx
+release_date:-.md) — 63.4
+- [DeepSeek-V4.1-Flash
+provider: deepseek
+model_family: DeepSeek-V4.1
+release_date: ](../models/deepseek-v41-flash
+provider:-deepseek
+model_family:-deepseek-v41
+release_date:-.md) — 74.2
+- [Kimi K3
+provider: moonshot-ai
+model_family: Kimi K-series
+release_date: ](../models/kimi-k3
+provider:-moonshot-ai
+model_family:-kimi-k-series
+release_date:-.md) — 67.5
+- [DeepSeek-V4-Pro
+provider: deepseek
+model_family: DeepSeek-V4
+version: ](../models/deepseek-v4-pro
+provider:-deepseek
+model_family:-deepseek-v4
+version:-.md) — 62.7
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified. Some vendors do not state the benchmark version; unversioned scores should not be compared with versioned ones.

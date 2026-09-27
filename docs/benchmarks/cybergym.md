@@ -63,6 +63,16 @@ Cybersecurity agent benchmark focused on vulnerability discovery tasks.
 
 **Scoring:** Success rate on vulnerability analysis tasks (PoC generation)
 
+## Relevant Models
+
+- [GLM-5.3
+provider: zhipu-ai
+model_family: GLM-5
+release_date: ](../models/glm-53
+provider:-zhipu-ai
+model_family:-glm-5
+release_date:-.md) — 84.5
+
 ## Limitations
 
 All scores are vendor-reported and not independently verified.
