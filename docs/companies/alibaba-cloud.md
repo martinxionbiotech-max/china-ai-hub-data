@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
+      "@id": "https://sinoaihub.com/companies/alibaba-cloud",
       "name": "Alibaba Cloud (Qwen)",
-      "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/companies/alibaba-cloud/",
+      "url": "https://sinoaihub.com/companies/alibaba-cloud",
+      "mainEntityOfPage": "https://data.sinoaihub.com/companies/alibaba-cloud/",
       "sameAs": [
         "https://qwen.ai/"
       ],
@@ -27,26 +27,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Companies",
-          "item": "https://china-ai-hub-data.pages.dev/companies/"
+          "item": "https://data.sinoaihub.com/companies/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Alibaba Cloud (Qwen)",
-          "item": "https://china-ai-hub-data.pages.dev/companies/alibaba-cloud/"
+          "item": "https://data.sinoaihub.com/companies/alibaba-cloud/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/companies/alibaba-cloud](https://china-ai-hub.pages.dev/companies/alibaba-cloud)
+> Canonical page on the main site: [sinoaihub.com/companies/alibaba-cloud](https://sinoaihub.com/companies/alibaba-cloud)
 
 ## Aliases
 

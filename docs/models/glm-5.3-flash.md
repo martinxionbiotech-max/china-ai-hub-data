@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/glm-53-flash",
+      "@id": "https://sinoaihub.com/models/glm-53-flash",
       "name": "GLM-5.3-Flash",
-      "url": "https://china-ai-hub.pages.dev/models/glm-53-flash",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/glm-53-flash/",
+      "url": "https://sinoaihub.com/models/glm-53-flash",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/glm-53-flash/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
-        "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
+        "@id": "https://sinoaihub.com/companies/zhipu-ai",
+        "url": "https://sinoaihub.com/companies/zhipu-ai"
       },
       "datePublished": "2026-08-26"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "GLM-5.3-Flash",
-          "item": "https://china-ai-hub-data.pages.dev/models/glm-53-flash/"
+          "item": "https://data.sinoaihub.com/models/glm-53-flash/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/glm-53-flash](https://china-ai-hub.pages.dev/models/glm-53-flash)
+> Canonical page on the main site: [sinoaihub.com/models/glm-53-flash](https://sinoaihub.com/models/glm-53-flash)
 
 ## Provider
 

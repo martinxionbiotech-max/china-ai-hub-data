@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/deepswe",
+      "@id": "https://sinoaihub.com/benchmarks/deepswe",
       "name": "DeepSWE",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/deepswe",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/deepswe/",
+      "url": "https://sinoaihub.com/benchmarks/deepswe",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/deepswe/",
       "description": "Software engineering benchmark built from real-world issues and pull requests.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSWE",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/deepswe/"
+          "item": "https://data.sinoaihub.com/benchmarks/deepswe/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/deepswe](https://china-ai-hub.pages.dev/benchmarks/deepswe)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/deepswe](https://sinoaihub.com/benchmarks/deepswe)
 
 ## Description
 

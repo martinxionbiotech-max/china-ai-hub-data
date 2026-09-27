@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://china-ai-hub.pages.dev/pricing/zhipu-ai",
+      "@id": "https://sinoaihub.com/pricing/zhipu-ai",
       "name": "Zhipu AI pricing",
-      "url": "https://china-ai-hub.pages.dev/pricing/zhipu-ai",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
+      "url": "https://sinoaihub.com/pricing/zhipu-ai",
+      "mainEntityOfPage": "https://data.sinoaihub.com/pricing/zhipu-ai/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
-        "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
+        "@id": "https://sinoaihub.com/companies/zhipu-ai",
+        "url": "https://sinoaihub.com/companies/zhipu-ai"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.3",
-            "@id": "https://china-ai-hub.pages.dev/models/glm-53",
-            "url": "https://china-ai-hub.pages.dev/models/glm-53"
+            "@id": "https://sinoaihub.com/models/glm-53",
+            "url": "https://sinoaihub.com/models/glm-53"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
+          "url": "https://data.sinoaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.3-Flash",
-            "@id": "https://china-ai-hub.pages.dev/models/glm-53-flash",
-            "url": "https://china-ai-hub.pages.dev/models/glm-53-flash"
+            "@id": "https://sinoaihub.com/models/glm-53-flash",
+            "url": "https://sinoaihub.com/models/glm-53-flash"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
+          "url": "https://data.sinoaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $0.5"
         },
         {
@@ -54,7 +54,7 @@
             "@type": "SoftwareApplication",
             "name": "glm-5.3-flashx"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
+          "url": "https://data.sinoaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $1.25"
         },
         {
@@ -65,10 +65,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "GLM-5.2",
-            "@id": "https://china-ai-hub.pages.dev/models/glm-52",
-            "url": "https://china-ai-hub.pages.dev/models/glm-52"
+            "@id": "https://sinoaihub.com/models/glm-52",
+            "url": "https://sinoaihub.com/models/glm-52"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/",
+          "url": "https://data.sinoaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
         }
       ],
@@ -81,26 +81,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/"
+          "item": "https://data.sinoaihub.com/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "zhipu-ai",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/zhipu-ai/"
+          "item": "https://data.sinoaihub.com/pricing/zhipu-ai/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/zhipu-ai](https://china-ai-hub.pages.dev/pricing/zhipu-ai)
+> Canonical page on the main site: [sinoaihub.com/pricing/zhipu-ai](https://sinoaihub.com/pricing/zhipu-ai)
 
 ## Currency
 

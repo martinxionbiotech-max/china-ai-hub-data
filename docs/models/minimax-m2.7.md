@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/minimax-m27",
+      "@id": "https://sinoaihub.com/models/minimax-m27",
       "name": "MiniMax-M2.7",
-      "url": "https://china-ai-hub.pages.dev/models/minimax-m27",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/minimax-m27/",
+      "url": "https://sinoaihub.com/models/minimax-m27",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/minimax-m27/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
-        "url": "https://china-ai-hub.pages.dev/companies/minimax"
+        "@id": "https://sinoaihub.com/companies/minimax",
+        "url": "https://sinoaihub.com/companies/minimax"
       },
       "datePublished": "2026-03-18"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax-M2.7",
-          "item": "https://china-ai-hub-data.pages.dev/models/minimax-m27/"
+          "item": "https://data.sinoaihub.com/models/minimax-m27/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/minimax-m27](https://china-ai-hub.pages.dev/models/minimax-m27)
+> Canonical page on the main site: [sinoaihub.com/models/minimax-m27](https://sinoaihub.com/models/minimax-m27)
 
 ## Provider
 

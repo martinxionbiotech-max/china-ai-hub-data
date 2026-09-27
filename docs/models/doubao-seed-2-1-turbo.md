@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-turbo",
+      "@id": "https://sinoaihub.com/models/doubao-seed-2-1-turbo",
       "name": "Doubao Seed 2.1 Turbo",
-      "url": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-turbo",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/doubao-seed-2-1-turbo/",
+      "url": "https://sinoaihub.com/models/doubao-seed-2-1-turbo",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/doubao-seed-2-1-turbo/",
       "provider": {
         "@type": "Organization",
         "name": "ByteDance",
-        "@id": "https://china-ai-hub.pages.dev/companies/bytedance",
-        "url": "https://china-ai-hub.pages.dev/companies/bytedance"
+        "@id": "https://sinoaihub.com/companies/bytedance",
+        "url": "https://sinoaihub.com/companies/bytedance"
       }
     },
     {
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Doubao Seed 2.1 Turbo",
-          "item": "https://china-ai-hub-data.pages.dev/models/doubao-seed-2-1-turbo/"
+          "item": "https://data.sinoaihub.com/models/doubao-seed-2-1-turbo/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/doubao-seed-2-1-turbo](https://china-ai-hub.pages.dev/models/doubao-seed-2-1-turbo)
+> Canonical page on the main site: [sinoaihub.com/models/doubao-seed-2-1-turbo](https://sinoaihub.com/models/doubao-seed-2-1-turbo)
 
 ## Provider
 

@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/hle",
+      "@id": "https://sinoaihub.com/benchmarks/hle",
       "name": "HLE",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/hle",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/hle/",
+      "url": "https://sinoaihub.com/benchmarks/hle",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/hle/",
       "description": "Humanity's Last Exam - a frontier benchmark of expert-level questions across disciplines, often reported with and without tool access.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "HLE",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/hle/"
+          "item": "https://data.sinoaihub.com/benchmarks/hle/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/hle](https://china-ai-hub.pages.dev/benchmarks/hle)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/hle](https://sinoaihub.com/benchmarks/hle)
 
 ## Description
 

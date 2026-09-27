@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/minimax-m27-highspeed",
+      "@id": "https://sinoaihub.com/models/minimax-m27-highspeed",
       "name": "MiniMax-M2.7-Highspeed",
-      "url": "https://china-ai-hub.pages.dev/models/minimax-m27-highspeed",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/minimax-m27-highspeed/",
+      "url": "https://sinoaihub.com/models/minimax-m27-highspeed",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/minimax-m27-highspeed/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
-        "url": "https://china-ai-hub.pages.dev/companies/minimax"
+        "@id": "https://sinoaihub.com/companies/minimax",
+        "url": "https://sinoaihub.com/companies/minimax"
       },
       "datePublished": "2026-03-18"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax-M2.7-Highspeed",
-          "item": "https://china-ai-hub-data.pages.dev/models/minimax-m27-highspeed/"
+          "item": "https://data.sinoaihub.com/models/minimax-m27-highspeed/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/minimax-m27-highspeed](https://china-ai-hub.pages.dev/models/minimax-m27-highspeed)
+> Canonical page on the main site: [sinoaihub.com/models/minimax-m27-highspeed](https://sinoaihub.com/models/minimax-m27-highspeed)
 
 ## Provider
 

@@ -6,12 +6,12 @@ API platforms and endpoints for Chinese AI models.
 
 | Entity | Main site (canonical) |
 |---|---|
-| [ark](ark.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/api/ark) |
-| [deepseek](deepseek.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/api/deepseek) |
-| [minimax](minimax.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/api/minimax) |
-| [model-studio](model-studio.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/api/model-studio) |
-| [moonshot](moonshot.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/api/moonshot) |
-| [zai](zai.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/api/zai) |
+| [ark](ark.md) | [sinoaihub.com](https://sinoaihub.com/api/ark) |
+| [deepseek](deepseek.md) | [sinoaihub.com](https://sinoaihub.com/api/deepseek) |
+| [minimax](minimax.md) | [sinoaihub.com](https://sinoaihub.com/api/minimax) |
+| [model-studio](model-studio.md) | [sinoaihub.com](https://sinoaihub.com/api/model-studio) |
+| [moonshot](moonshot.md) | [sinoaihub.com](https://sinoaihub.com/api/moonshot) |
+| [zai](zai.md) | [sinoaihub.com](https://sinoaihub.com/api/zai) |
 
 ## Data policy
 

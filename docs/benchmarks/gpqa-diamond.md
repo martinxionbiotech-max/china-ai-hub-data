@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/gpqa-diamond",
+      "@id": "https://sinoaihub.com/benchmarks/gpqa-diamond",
       "name": "GPQA Diamond",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/gpqa-diamond",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/gpqa-diamond/",
+      "url": "https://sinoaihub.com/benchmarks/gpqa-diamond",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/gpqa-diamond/",
       "description": "Graduate-level science question-answering benchmark (expert-level questions in biology, physics, chemistry).",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "GPQA Diamond",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/gpqa-diamond/"
+          "item": "https://data.sinoaihub.com/benchmarks/gpqa-diamond/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/gpqa-diamond](https://china-ai-hub.pages.dev/benchmarks/gpqa-diamond)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/gpqa-diamond](https://sinoaihub.com/benchmarks/gpqa-diamond)
 
 ## Description
 

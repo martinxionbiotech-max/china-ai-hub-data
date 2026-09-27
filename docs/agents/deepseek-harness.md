@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/agents/deepseek-harness",
+      "@id": "https://sinoaihub.com/agents/deepseek-harness",
       "name": "DeepSeek Harness",
-      "url": "https://china-ai-hub.pages.dev/agents/deepseek-harness",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/deepseek-harness/",
+      "url": "https://sinoaihub.com/agents/deepseek-harness",
+      "mainEntityOfPage": "https://data.sinoaihub.com/agents/deepseek-harness/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
-        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
+        "@id": "https://sinoaihub.com/companies/deepseek",
+        "url": "https://sinoaihub.com/companies/deepseek"
       },
       "description": "Open-source agent harness from DeepSeek ('Everything is a Plugin') that powers its coding agent. All capabilities - models, tools, skills, sessions, sandbox, storage, loops, scheduling and UI - are composed from replaceable plugins. Developer preview; ships as CLI (dsh), Web UI, Electron Desktop app, Python SDK and ACP server."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://china-ai-hub-data.pages.dev/agents/"
+          "item": "https://data.sinoaihub.com/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek Harness",
-          "item": "https://china-ai-hub-data.pages.dev/agents/deepseek-harness/"
+          "item": "https://data.sinoaihub.com/agents/deepseek-harness/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/agents/deepseek-harness](https://china-ai-hub.pages.dev/agents/deepseek-harness)
+> Canonical page on the main site: [sinoaihub.com/agents/deepseek-harness](https://sinoaihub.com/agents/deepseek-harness)
 
 ## Company
 

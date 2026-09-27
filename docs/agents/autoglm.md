@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/agents/autoglm",
+      "@id": "https://sinoaihub.com/agents/autoglm",
       "name": "AutoGLM",
-      "url": "https://china-ai-hub.pages.dev/agents/autoglm",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/autoglm/",
+      "url": "https://sinoaihub.com/agents/autoglm",
+      "mainEntityOfPage": "https://data.sinoaihub.com/agents/autoglm/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
-        "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
+        "@id": "https://sinoaihub.com/companies/zhipu-ai",
+        "url": "https://sinoaihub.com/companies/zhipu-ai"
       },
       "description": "Zhipu AI's open-source phone-use autonomous agent (repo Open-AutoGLM). The VLM sees the phone screen, plans a chain-of-thought action sequence, and executes it via ADB (Android), HDC (HarmonyOS NEXT) or WebDriverAgent (iOS). First phone agent with true Phone Use capabilities (2024-10-25); AutoGLM 2.0 commercial product runs agents in cloud virtual phones. Research/learning use."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://china-ai-hub-data.pages.dev/agents/"
+          "item": "https://data.sinoaihub.com/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "AutoGLM",
-          "item": "https://china-ai-hub-data.pages.dev/agents/autoglm/"
+          "item": "https://data.sinoaihub.com/agents/autoglm/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/agents/autoglm](https://china-ai-hub.pages.dev/agents/autoglm)
+> Canonical page on the main site: [sinoaihub.com/agents/autoglm](https://sinoaihub.com/agents/autoglm)
 
 ## Company
 

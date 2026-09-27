@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/cybergym",
+      "@id": "https://sinoaihub.com/benchmarks/cybergym",
       "name": "CyberGym",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/cybergym",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/cybergym/",
+      "url": "https://sinoaihub.com/benchmarks/cybergym",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/cybergym/",
       "description": "Cybersecurity agent benchmark focused on vulnerability discovery tasks.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "CyberGym",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/cybergym/"
+          "item": "https://data.sinoaihub.com/benchmarks/cybergym/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/cybergym](https://china-ai-hub.pages.dev/benchmarks/cybergym)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/cybergym](https://sinoaihub.com/benchmarks/cybergym)
 
 ## Description
 

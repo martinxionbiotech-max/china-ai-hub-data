@@ -6,12 +6,12 @@ The organizations behind China's AI stack.
 
 | Entity | Main site (canonical) |
 |---|---|
-| [Alibaba Cloud (Qwen)](alibaba-cloud.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/companies/alibaba-cloud) |
-| [ByteDance](bytedance.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/companies/bytedance) |
-| [DeepSeek](deepseek.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/companies/deepseek) |
-| [MiniMax](minimax.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/companies/minimax) |
-| [Moonshot AI](moonshot-ai.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/companies/moonshot-ai) |
-| [Zhipu AI](zhipu-ai.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/companies/zhipu-ai) |
+| [Alibaba Cloud (Qwen)](alibaba-cloud.md) | [sinoaihub.com](https://sinoaihub.com/companies/alibaba-cloud) |
+| [ByteDance](bytedance.md) | [sinoaihub.com](https://sinoaihub.com/companies/bytedance) |
+| [DeepSeek](deepseek.md) | [sinoaihub.com](https://sinoaihub.com/companies/deepseek) |
+| [MiniMax](minimax.md) | [sinoaihub.com](https://sinoaihub.com/companies/minimax) |
+| [Moonshot AI](moonshot-ai.md) | [sinoaihub.com](https://sinoaihub.com/companies/moonshot-ai) |
+| [Zhipu AI](zhipu-ai.md) | [sinoaihub.com](https://sinoaihub.com/companies/zhipu-ai) |
 
 ## Data policy
 

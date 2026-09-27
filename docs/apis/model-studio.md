@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "APIReference",
-      "@id": "https://china-ai-hub.pages.dev/api/model-studio",
+      "@id": "https://sinoaihub.com/api/model-studio",
       "name": "Model Studio API",
-      "url": "https://china-ai-hub.pages.dev/api/model-studio",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/apis/model-studio/",
+      "url": "https://sinoaihub.com/api/model-studio",
+      "mainEntityOfPage": "https://data.sinoaihub.com/apis/model-studio/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
-        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
-        "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
+        "@id": "https://sinoaihub.com/companies/alibaba-cloud",
+        "url": "https://sinoaihub.com/companies/alibaba-cloud"
       },
       "documentation": "https://www.alibabacloud.com/help/en/model-studio/"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APIs",
-          "item": "https://china-ai-hub-data.pages.dev/apis/"
+          "item": "https://data.sinoaihub.com/apis/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Model Studio API",
-          "item": "https://china-ai-hub-data.pages.dev/apis/model-studio/"
+          "item": "https://data.sinoaihub.com/apis/model-studio/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/api/model-studio](https://china-ai-hub.pages.dev/api/model-studio)
+> Canonical page on the main site: [sinoaihub.com/api/model-studio](https://sinoaihub.com/api/model-studio)
 
 ## Provider
 

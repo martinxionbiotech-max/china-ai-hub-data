@@ -6,20 +6,20 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/glm-5.3-flashx",
+      "@id": "https://sinoaihub.com/models/glm-5.3-flashx",
       "name": "GLM-5.3-FlashX",
-      "url": "https://china-ai-hub.pages.dev/models/glm-5.3-flashx",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/glm-5.3-flashx/",
+      "url": "https://sinoaihub.com/models/glm-5.3-flashx",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/glm-5.3-flashx/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
+        "@id": "https://sinoaihub.com/companies/zhipu-ai"
       }
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/glm-5.3-flashx](https://china-ai-hub.pages.dev/models/glm-5.3-flashx)
+> Canonical page on the main site: [sinoaihub.com/models/glm-5.3-flashx](https://sinoaihub.com/models/glm-5.3-flashx)
 
 ## Provider
 

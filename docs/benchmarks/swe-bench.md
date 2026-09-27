@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/swe-bench",
+      "@id": "https://sinoaihub.com/benchmarks/swe-bench",
       "name": "SWE-bench",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/swe-bench",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/swe-bench/",
+      "url": "https://sinoaihub.com/benchmarks/swe-bench",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/swe-bench/",
       "description": "Software engineering benchmark family built from real GitHub issues, with Pro, Verified and Multilingual variants.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "SWE-bench",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/swe-bench/"
+          "item": "https://data.sinoaihub.com/benchmarks/swe-bench/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/swe-bench](https://china-ai-hub.pages.dev/benchmarks/swe-bench)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/swe-bench](https://sinoaihub.com/benchmarks/swe-bench)
 
 ## Description
 

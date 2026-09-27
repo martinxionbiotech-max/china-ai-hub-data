@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-pro",
+      "@id": "https://sinoaihub.com/models/doubao-seed-2-1-pro",
       "name": "Doubao Seed 2.1 Pro",
-      "url": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-pro",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/doubao-seed-2-1-pro/",
+      "url": "https://sinoaihub.com/models/doubao-seed-2-1-pro",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/doubao-seed-2-1-pro/",
       "provider": {
         "@type": "Organization",
         "name": "ByteDance",
-        "@id": "https://china-ai-hub.pages.dev/companies/bytedance",
-        "url": "https://china-ai-hub.pages.dev/companies/bytedance"
+        "@id": "https://sinoaihub.com/companies/bytedance",
+        "url": "https://sinoaihub.com/companies/bytedance"
       }
     },
     {
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Doubao Seed 2.1 Pro",
-          "item": "https://china-ai-hub-data.pages.dev/models/doubao-seed-2-1-pro/"
+          "item": "https://data.sinoaihub.com/models/doubao-seed-2-1-pro/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/doubao-seed-2-1-pro](https://china-ai-hub.pages.dev/models/doubao-seed-2-1-pro)
+> Canonical page on the main site: [sinoaihub.com/models/doubao-seed-2-1-pro](https://sinoaihub.com/models/doubao-seed-2-1-pro)
 
 ## Provider
 
@@ -128,11 +128,11 @@ Yes
 
 ## Related Technologies
 
-- [ai-agents](https://china-ai-hub.pages.dev/technology/ai-agents/)
-- [computer-use](https://china-ai-hub.pages.dev/technology/computer-use/)
-- [long-context](https://china-ai-hub.pages.dev/technology/long-context/)
-- [multimodal-ai](https://china-ai-hub.pages.dev/technology/multimodal-ai/)
-- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
+- [ai-agents](https://sinoaihub.com/technology/ai-agents/)
+- [computer-use](https://sinoaihub.com/technology/computer-use/)
+- [long-context](https://sinoaihub.com/technology/long-context/)
+- [multimodal-ai](https://sinoaihub.com/technology/multimodal-ai/)
+- [tool-calling](https://sinoaihub.com/technology/tool-calling/)
 
 ## Known Limitations
 

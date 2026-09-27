@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/deepseek-v3-2",
+      "@id": "https://sinoaihub.com/models/deepseek-v3-2",
       "name": "DeepSeek-V3.2",
-      "url": "https://china-ai-hub.pages.dev/models/deepseek-v3-2",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/deepseek-v3-2/",
+      "url": "https://sinoaihub.com/models/deepseek-v3-2",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/deepseek-v3-2/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
-        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
+        "@id": "https://sinoaihub.com/companies/deepseek",
+        "url": "https://sinoaihub.com/companies/deepseek"
       },
       "datePublished": "2025-12-01"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek-V3.2",
-          "item": "https://china-ai-hub-data.pages.dev/models/deepseek-v3-2/"
+          "item": "https://data.sinoaihub.com/models/deepseek-v3-2/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/deepseek-v3-2](https://china-ai-hub.pages.dev/models/deepseek-v3-2)
+> Canonical page on the main site: [sinoaihub.com/models/deepseek-v3-2](https://sinoaihub.com/models/deepseek-v3-2)
 
 ## Provider
 
@@ -84,7 +84,7 @@ No
 
 ## Related Technologies
 
-- [quantization](https://china-ai-hub.pages.dev/technology/quantization/)
+- [quantization](https://sinoaihub.com/technology/quantization/)
 
 ## Architecture
 

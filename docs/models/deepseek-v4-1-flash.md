@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash",
+      "@id": "https://sinoaihub.com/models/deepseek-v4-1-flash",
       "name": "DeepSeek-V4.1-Flash",
-      "url": "https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/deepseek-v4-1-flash/",
+      "url": "https://sinoaihub.com/models/deepseek-v4-1-flash",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/deepseek-v4-1-flash/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
-        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
+        "@id": "https://sinoaihub.com/companies/deepseek",
+        "url": "https://sinoaihub.com/companies/deepseek"
       },
       "datePublished": "2026-09-10"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek-V4.1-Flash",
-          "item": "https://china-ai-hub-data.pages.dev/models/deepseek-v4-1-flash/"
+          "item": "https://data.sinoaihub.com/models/deepseek-v4-1-flash/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/deepseek-v4-1-flash](https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash)
+> Canonical page on the main site: [sinoaihub.com/models/deepseek-v4-1-flash](https://sinoaihub.com/models/deepseek-v4-1-flash)
 
 ## Provider
 
@@ -140,11 +140,11 @@ Yes
 
 ## Related Technologies
 
-- [function-calling](https://china-ai-hub.pages.dev/technology/function-calling/)
-- [inference](https://china-ai-hub.pages.dev/technology/inference/)
-- [rag](https://china-ai-hub.pages.dev/technology/rag/)
-- [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
-- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
+- [function-calling](https://sinoaihub.com/technology/function-calling/)
+- [inference](https://sinoaihub.com/technology/inference/)
+- [rag](https://sinoaihub.com/technology/rag/)
+- [reasoning-models](https://sinoaihub.com/technology/reasoning-models/)
+- [tool-calling](https://sinoaihub.com/technology/tool-calling/)
 
 ## Known Limitations
 

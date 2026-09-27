@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/terminal-bench",
+      "@id": "https://sinoaihub.com/benchmarks/terminal-bench",
       "name": "Terminal-Bench",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/terminal-bench",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/terminal-bench/",
+      "url": "https://sinoaihub.com/benchmarks/terminal-bench",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/terminal-bench/",
       "description": "Terminal-based agent benchmark (shell commands, file operations, package management and other command-line tasks).",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Terminal-Bench",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/terminal-bench/"
+          "item": "https://data.sinoaihub.com/benchmarks/terminal-bench/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/terminal-bench](https://china-ai-hub.pages.dev/benchmarks/terminal-bench)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/terminal-bench](https://sinoaihub.com/benchmarks/terminal-bench)
 
 ## Description
 

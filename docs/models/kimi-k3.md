@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/kimi-k3",
+      "@id": "https://sinoaihub.com/models/kimi-k3",
       "name": "Kimi K3",
-      "url": "https://china-ai-hub.pages.dev/models/kimi-k3",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/kimi-k3/",
+      "url": "https://sinoaihub.com/models/kimi-k3",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/kimi-k3/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
-        "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai"
+        "@id": "https://sinoaihub.com/companies/moonshot-ai",
+        "url": "https://sinoaihub.com/companies/moonshot-ai"
       },
       "datePublished": "2026-07-16"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Kimi K3",
-          "item": "https://china-ai-hub-data.pages.dev/models/kimi-k3/"
+          "item": "https://data.sinoaihub.com/models/kimi-k3/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/kimi-k3](https://china-ai-hub.pages.dev/models/kimi-k3)
+> Canonical page on the main site: [sinoaihub.com/models/kimi-k3](https://sinoaihub.com/models/kimi-k3)
 
 ## Provider
 
@@ -138,12 +138,12 @@ Yes
 
 ## Related Technologies
 
-- [ai-agents](https://china-ai-hub.pages.dev/technology/ai-agents/)
-- [long-context](https://china-ai-hub.pages.dev/technology/long-context/)
-- [multimodal-ai](https://china-ai-hub.pages.dev/technology/multimodal-ai/)
-- [rag](https://china-ai-hub.pages.dev/technology/rag/)
-- [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
-- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
+- [ai-agents](https://sinoaihub.com/technology/ai-agents/)
+- [long-context](https://sinoaihub.com/technology/long-context/)
+- [multimodal-ai](https://sinoaihub.com/technology/multimodal-ai/)
+- [rag](https://sinoaihub.com/technology/rag/)
+- [reasoning-models](https://sinoaihub.com/technology/reasoning-models/)
+- [tool-calling](https://sinoaihub.com/technology/tool-calling/)
 
 ## Known Limitations
 

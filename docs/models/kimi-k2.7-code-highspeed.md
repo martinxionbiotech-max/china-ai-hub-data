@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed",
+      "@id": "https://sinoaihub.com/models/kimi-k27-code-highspeed",
       "name": "Kimi K2.7 Code Highspeed",
-      "url": "https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/kimi-k27-code-highspeed/",
+      "url": "https://sinoaihub.com/models/kimi-k27-code-highspeed",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/kimi-k27-code-highspeed/",
       "provider": {
         "@type": "Organization",
         "name": "Moonshot AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/moonshot-ai",
-        "url": "https://china-ai-hub.pages.dev/companies/moonshot-ai"
+        "@id": "https://sinoaihub.com/companies/moonshot-ai",
+        "url": "https://sinoaihub.com/companies/moonshot-ai"
       }
     },
     {
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Kimi K2.7 Code Highspeed",
-          "item": "https://china-ai-hub-data.pages.dev/models/kimi-k27-code-highspeed/"
+          "item": "https://data.sinoaihub.com/models/kimi-k27-code-highspeed/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/kimi-k27-code-highspeed](https://china-ai-hub.pages.dev/models/kimi-k27-code-highspeed)
+> Canonical page on the main site: [sinoaihub.com/models/kimi-k27-code-highspeed](https://sinoaihub.com/models/kimi-k27-code-highspeed)
 
 ## Provider
 

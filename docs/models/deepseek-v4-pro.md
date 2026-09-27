@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/deepseek-v4-pro",
+      "@id": "https://sinoaihub.com/models/deepseek-v4-pro",
       "name": "DeepSeek-V4-Pro",
-      "url": "https://china-ai-hub.pages.dev/models/deepseek-v4-pro",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/deepseek-v4-pro/",
+      "url": "https://sinoaihub.com/models/deepseek-v4-pro",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/deepseek-v4-pro/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
-        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
+        "@id": "https://sinoaihub.com/companies/deepseek",
+        "url": "https://sinoaihub.com/companies/deepseek"
       }
     },
     {
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek-V4-Pro",
-          "item": "https://china-ai-hub-data.pages.dev/models/deepseek-v4-pro/"
+          "item": "https://data.sinoaihub.com/models/deepseek-v4-pro/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/deepseek-v4-pro](https://china-ai-hub.pages.dev/models/deepseek-v4-pro)
+> Canonical page on the main site: [sinoaihub.com/models/deepseek-v4-pro](https://sinoaihub.com/models/deepseek-v4-pro)
 
 ## Provider
 
@@ -147,11 +147,11 @@ Yes
 
 ## Related Technologies
 
-- [function-calling](https://china-ai-hub.pages.dev/technology/function-calling/)
-- [inference](https://china-ai-hub.pages.dev/technology/inference/)
-- [long-context](https://china-ai-hub.pages.dev/technology/long-context/)
-- [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
-- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
+- [function-calling](https://sinoaihub.com/technology/function-calling/)
+- [inference](https://sinoaihub.com/technology/inference/)
+- [long-context](https://sinoaihub.com/technology/long-context/)
+- [reasoning-models](https://sinoaihub.com/technology/reasoning-models/)
+- [tool-calling](https://sinoaihub.com/technology/tool-calling/)
 
 ## Known Limitations
 

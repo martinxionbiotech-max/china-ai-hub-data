@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/minimax-m3",
+      "@id": "https://sinoaihub.com/models/minimax-m3",
       "name": "MiniMax-M3",
-      "url": "https://china-ai-hub.pages.dev/models/minimax-m3",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/minimax-m3/",
+      "url": "https://sinoaihub.com/models/minimax-m3",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/minimax-m3/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
-        "url": "https://china-ai-hub.pages.dev/companies/minimax"
+        "@id": "https://sinoaihub.com/companies/minimax",
+        "url": "https://sinoaihub.com/companies/minimax"
       },
       "datePublished": "2026-06-01"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Models",
-          "item": "https://china-ai-hub-data.pages.dev/models/"
+          "item": "https://data.sinoaihub.com/models/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax-M3",
-          "item": "https://china-ai-hub-data.pages.dev/models/minimax-m3/"
+          "item": "https://data.sinoaihub.com/models/minimax-m3/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/minimax-m3](https://china-ai-hub.pages.dev/models/minimax-m3)
+> Canonical page on the main site: [sinoaihub.com/models/minimax-m3](https://sinoaihub.com/models/minimax-m3)
 
 ## Provider
 
@@ -136,11 +136,11 @@ Yes
 
 ## Related Technologies
 
-- [ai-agents](https://china-ai-hub.pages.dev/technology/ai-agents/)
-- [long-context](https://china-ai-hub.pages.dev/technology/long-context/)
-- [multimodal-ai](https://china-ai-hub.pages.dev/technology/multimodal-ai/)
-- [reasoning-models](https://china-ai-hub.pages.dev/technology/reasoning-models/)
-- [tool-calling](https://china-ai-hub.pages.dev/technology/tool-calling/)
+- [ai-agents](https://sinoaihub.com/technology/ai-agents/)
+- [long-context](https://sinoaihub.com/technology/long-context/)
+- [multimodal-ai](https://sinoaihub.com/technology/multimodal-ai/)
+- [reasoning-models](https://sinoaihub.com/technology/reasoning-models/)
+- [tool-calling](https://sinoaihub.com/technology/tool-calling/)
 
 ## Maximum Output
 

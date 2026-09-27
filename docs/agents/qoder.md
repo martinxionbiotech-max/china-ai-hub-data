@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/agents/qoder",
+      "@id": "https://sinoaihub.com/agents/qoder",
       "name": "Qoder",
-      "url": "https://china-ai-hub.pages.dev/agents/qoder",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/qoder/",
+      "url": "https://sinoaihub.com/agents/qoder",
+      "mainEntityOfPage": "https://data.sinoaihub.com/agents/qoder/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
-        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
-        "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
+        "@id": "https://sinoaihub.com/companies/alibaba-cloud",
+        "url": "https://sinoaihub.com/companies/alibaba-cloud"
       },
       "description": "Commercial agentic coding platform ('Qoder - The Agentic Platform') with desktop app (Qoder IDE / Qoder), CLI (qodercli), JetBrains plugin, Cloud Agents API, and work agents (QoderWork, QoderWake). Agentic loop of understand-plan-execute-verify-iterate with plan- or goal-driven workflows, Expert team multi-agent mode, built-in browser, Memory and Knowledge Base, scheduled automations and enterprise governance. Closed-source; presented under the Alibaba Cloud Model Studio ecosystem."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://china-ai-hub-data.pages.dev/agents/"
+          "item": "https://data.sinoaihub.com/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Qoder",
-          "item": "https://china-ai-hub-data.pages.dev/agents/qoder/"
+          "item": "https://data.sinoaihub.com/agents/qoder/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/agents/qoder](https://china-ai-hub.pages.dev/agents/qoder)
+> Canonical page on the main site: [sinoaihub.com/agents/qoder](https://sinoaihub.com/agents/qoder)
 
 ## Company
 

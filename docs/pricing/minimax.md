@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://china-ai-hub.pages.dev/pricing/minimax",
+      "@id": "https://sinoaihub.com/pricing/minimax",
       "name": "MiniMax pricing",
-      "url": "https://china-ai-hub.pages.dev/pricing/minimax",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/minimax/",
+      "url": "https://sinoaihub.com/pricing/minimax",
+      "mainEntityOfPage": "https://data.sinoaihub.com/pricing/minimax/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
-        "url": "https://china-ai-hub.pages.dev/companies/minimax"
+        "@id": "https://sinoaihub.com/companies/minimax",
+        "url": "https://sinoaihub.com/companies/minimax"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "MiniMax-M3",
-            "@id": "https://china-ai-hub.pages.dev/models/minimax-m3",
-            "url": "https://china-ai-hub.pages.dev/models/minimax-m3"
+            "@id": "https://sinoaihub.com/models/minimax-m3",
+            "url": "https://sinoaihub.com/models/minimax-m3"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/minimax/",
+          "url": "https://data.sinoaihub.com/pricing/minimax/",
           "description": "Output price per 1M tokens: $1.2"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "MiniMax-M2.7",
-            "@id": "https://china-ai-hub.pages.dev/models/minimax-m27",
-            "url": "https://china-ai-hub.pages.dev/models/minimax-m27"
+            "@id": "https://sinoaihub.com/models/minimax-m27",
+            "url": "https://sinoaihub.com/models/minimax-m27"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/minimax/",
+          "url": "https://data.sinoaihub.com/pricing/minimax/",
           "description": "Output price per 1M tokens: $1.2"
         },
         {
@@ -53,10 +53,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "MiniMax-M2.7-Highspeed",
-            "@id": "https://china-ai-hub.pages.dev/models/minimax-m27-highspeed",
-            "url": "https://china-ai-hub.pages.dev/models/minimax-m27-highspeed"
+            "@id": "https://sinoaihub.com/models/minimax-m27-highspeed",
+            "url": "https://sinoaihub.com/models/minimax-m27-highspeed"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/minimax/",
+          "url": "https://data.sinoaihub.com/pricing/minimax/",
           "description": "Output price per 1M tokens: $2.4"
         }
       ],
@@ -69,26 +69,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/"
+          "item": "https://data.sinoaihub.com/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax API",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/minimax/"
+          "item": "https://data.sinoaihub.com/pricing/minimax/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/minimax](https://china-ai-hub.pages.dev/pricing/minimax)
+> Canonical page on the main site: [sinoaihub.com/pricing/minimax](https://sinoaihub.com/pricing/minimax)
 
 ## Currency
 

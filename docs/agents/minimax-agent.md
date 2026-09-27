@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/agents/minimax-agent",
+      "@id": "https://sinoaihub.com/agents/minimax-agent",
       "name": "MiniMax Agent",
-      "url": "https://china-ai-hub.pages.dev/agents/minimax-agent",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/agents/minimax-agent/",
+      "url": "https://sinoaihub.com/agents/minimax-agent",
+      "mainEntityOfPage": "https://data.sinoaihub.com/agents/minimax-agent/",
       "provider": {
         "@type": "Organization",
         "name": "MiniMax",
-        "@id": "https://china-ai-hub.pages.dev/companies/minimax",
-        "url": "https://china-ai-hub.pages.dev/companies/minimax"
+        "@id": "https://sinoaihub.com/companies/minimax",
+        "url": "https://sinoaihub.com/companies/minimax"
       },
       "description": "MiniMax's cloud agent platform at agent.minimax.io ('Minimize Effort, Maximize Intelligence'). Web app with Skills, Schedules, Websites, Research and AI PPT capability areas, persistent memory and evolving skills; includes always-on cloud agents MaxClaw ('Your 24/7 personal assistant', accessible in daily apps incl. Telegram) and MaxHermes (Beta, 'An Agent That Grows With You', self-evolution via unlocked skills). Billed via MiniMax Token Plan."
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Agents",
-          "item": "https://china-ai-hub-data.pages.dev/agents/"
+          "item": "https://data.sinoaihub.com/agents/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax Agent",
-          "item": "https://china-ai-hub-data.pages.dev/agents/minimax-agent/"
+          "item": "https://data.sinoaihub.com/agents/minimax-agent/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/agents/minimax-agent](https://china-ai-hub.pages.dev/agents/minimax-agent)
+> Canonical page on the main site: [sinoaihub.com/agents/minimax-agent](https://sinoaihub.com/agents/minimax-agent)
 
 ## Company
 

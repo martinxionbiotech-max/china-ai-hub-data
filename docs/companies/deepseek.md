@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
+      "@id": "https://sinoaihub.com/companies/deepseek",
       "name": "DeepSeek",
-      "url": "https://china-ai-hub.pages.dev/companies/deepseek",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/companies/deepseek/",
+      "url": "https://sinoaihub.com/companies/deepseek",
+      "mainEntityOfPage": "https://data.sinoaihub.com/companies/deepseek/",
       "sameAs": [
         "https://www.deepseek.com/"
       ],
@@ -24,26 +24,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Companies",
-          "item": "https://china-ai-hub-data.pages.dev/companies/"
+          "item": "https://data.sinoaihub.com/companies/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek",
-          "item": "https://china-ai-hub-data.pages.dev/companies/deepseek/"
+          "item": "https://data.sinoaihub.com/companies/deepseek/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/companies/deepseek](https://china-ai-hub.pages.dev/companies/deepseek)
+> Canonical page on the main site: [sinoaihub.com/companies/deepseek](https://sinoaihub.com/companies/deepseek)
 
 ## Aliases
 

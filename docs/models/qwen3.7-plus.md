@@ -6,21 +6,21 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://china-ai-hub.pages.dev/models/qwen3.7-plus",
+      "@id": "https://sinoaihub.com/models/qwen3.7-plus",
       "name": "Qwen3.7-Plus",
-      "url": "https://china-ai-hub.pages.dev/models/qwen3.7-plus",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/models/qwen3.7-plus/",
+      "url": "https://sinoaihub.com/models/qwen3.7-plus",
+      "mainEntityOfPage": "https://data.sinoaihub.com/models/qwen3.7-plus/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud",
-        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
+        "@id": "https://sinoaihub.com/companies/alibaba-cloud"
       },
       "datePublished": "2026-05-26"
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/models/qwen3.7-plus](https://china-ai-hub.pages.dev/models/qwen3.7-plus)
+> Canonical page on the main site: [sinoaihub.com/models/qwen3.7-plus](https://sinoaihub.com/models/qwen3.7-plus)
 
 ## Provider
 

@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://china-ai-hub.pages.dev/pricing/bytedance",
+      "@id": "https://sinoaihub.com/pricing/bytedance",
       "name": "ByteDance pricing",
-      "url": "https://china-ai-hub.pages.dev/pricing/bytedance",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/bytedance/",
+      "url": "https://sinoaihub.com/pricing/bytedance",
+      "mainEntityOfPage": "https://data.sinoaihub.com/pricing/bytedance/",
       "provider": {
         "@type": "Organization",
         "name": "ByteDance",
-        "@id": "https://china-ai-hub.pages.dev/companies/bytedance",
-        "url": "https://china-ai-hub.pages.dev/companies/bytedance"
+        "@id": "https://sinoaihub.com/companies/bytedance",
+        "url": "https://sinoaihub.com/companies/bytedance"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Doubao Seed 2.1 Pro",
-            "@id": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-pro",
-            "url": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-pro"
+            "@id": "https://sinoaihub.com/models/doubao-seed-2-1-pro",
+            "url": "https://sinoaihub.com/models/doubao-seed-2-1-pro"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/bytedance/",
+          "url": "https://data.sinoaihub.com/pricing/bytedance/",
           "description": "Output price per 1M tokens: $30.0"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Doubao Seed Evolving",
-            "@id": "https://china-ai-hub.pages.dev/models/doubao-seed-evolving",
-            "url": "https://china-ai-hub.pages.dev/models/doubao-seed-evolving"
+            "@id": "https://sinoaihub.com/models/doubao-seed-evolving",
+            "url": "https://sinoaihub.com/models/doubao-seed-evolving"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/bytedance/",
+          "url": "https://data.sinoaihub.com/pricing/bytedance/",
           "description": "Output price per 1M tokens: $30.0"
         },
         {
@@ -53,10 +53,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Doubao Seed 2.1 Turbo",
-            "@id": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-turbo",
-            "url": "https://china-ai-hub.pages.dev/models/doubao-seed-2-1-turbo"
+            "@id": "https://sinoaihub.com/models/doubao-seed-2-1-turbo",
+            "url": "https://sinoaihub.com/models/doubao-seed-2-1-turbo"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/bytedance/",
+          "url": "https://data.sinoaihub.com/pricing/bytedance/",
           "description": "Output price per 1M tokens: $15.0"
         }
       ],
@@ -69,26 +69,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/"
+          "item": "https://data.sinoaihub.com/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "bytedance",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/bytedance/"
+          "item": "https://data.sinoaihub.com/pricing/bytedance/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/bytedance](https://china-ai-hub.pages.dev/pricing/bytedance)
+> Canonical page on the main site: [sinoaihub.com/pricing/bytedance](https://sinoaihub.com/pricing/bytedance)
 
 ## Currency
 

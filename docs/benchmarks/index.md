@@ -6,16 +6,16 @@ Benchmark methodologies and vendor-reported results.
 
 | Entity | Main site (canonical) |
 |---|---|
-| [AutomationBench](automationbench.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/automationbench) |
-| [BrowseComp](browsecomp.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/browsecomp) |
-| [CyberGym](cybergym.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/cybergym) |
-| [DeepSWE](deepswe.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/deepswe) |
-| [GPQA Diamond](gpqa-diamond.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/gpqa-diamond) |
-| [HLE](hle.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/hle) |
-| [MMMU-Pro](mmmu-pro.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/mmmu-pro) |
-| [SWE-bench](swe-bench.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/swe-bench) |
-| [Terminal-Bench](terminal-bench.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/terminal-bench) |
-| [Video-MME](video-mme.md) | [china-ai-hub.pages.dev](https://china-ai-hub.pages.dev/benchmarks/video-mme) |
+| [AutomationBench](automationbench.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/automationbench) |
+| [BrowseComp](browsecomp.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/browsecomp) |
+| [CyberGym](cybergym.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/cybergym) |
+| [DeepSWE](deepswe.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/deepswe) |
+| [GPQA Diamond](gpqa-diamond.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/gpqa-diamond) |
+| [HLE](hle.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/hle) |
+| [MMMU-Pro](mmmu-pro.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/mmmu-pro) |
+| [SWE-bench](swe-bench.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/swe-bench) |
+| [Terminal-Bench](terminal-bench.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/terminal-bench) |
+| [Video-MME](video-mme.md) | [sinoaihub.com](https://sinoaihub.com/benchmarks/video-mme) |
 
 ## Data policy
 

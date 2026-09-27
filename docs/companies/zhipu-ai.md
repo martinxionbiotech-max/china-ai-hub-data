@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
+      "@id": "https://sinoaihub.com/companies/zhipu-ai",
       "name": "Zhipu AI",
-      "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/companies/zhipu-ai/",
+      "url": "https://sinoaihub.com/companies/zhipu-ai",
+      "mainEntityOfPage": "https://data.sinoaihub.com/companies/zhipu-ai/",
       "sameAs": [
         "https://z.ai/"
       ],
@@ -27,26 +27,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Companies",
-          "item": "https://china-ai-hub-data.pages.dev/companies/"
+          "item": "https://data.sinoaihub.com/companies/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Zhipu AI",
-          "item": "https://china-ai-hub-data.pages.dev/companies/zhipu-ai/"
+          "item": "https://data.sinoaihub.com/companies/zhipu-ai/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/companies/zhipu-ai](https://china-ai-hub.pages.dev/companies/zhipu-ai)
+> Canonical page on the main site: [sinoaihub.com/companies/zhipu-ai](https://sinoaihub.com/companies/zhipu-ai)
 
 ## Aliases
 

@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Dataset",
-      "@id": "https://china-ai-hub.pages.dev/benchmarks/browsecomp",
+      "@id": "https://sinoaihub.com/benchmarks/browsecomp",
       "name": "BrowseComp",
-      "url": "https://china-ai-hub.pages.dev/benchmarks/browsecomp",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/benchmarks/browsecomp/",
+      "url": "https://sinoaihub.com/benchmarks/browsecomp",
+      "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/browsecomp/",
       "description": "Benchmark of browsing and retrieval ability: locating obscure information using web search and browsing.",
       "dateModified": "2026-09-20"
     },
@@ -20,26 +20,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Benchmarks",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/"
+          "item": "https://data.sinoaihub.com/benchmarks/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "BrowseComp",
-          "item": "https://china-ai-hub-data.pages.dev/benchmarks/browsecomp/"
+          "item": "https://data.sinoaihub.com/benchmarks/browsecomp/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/benchmarks/browsecomp](https://china-ai-hub.pages.dev/benchmarks/browsecomp)
+> Canonical page on the main site: [sinoaihub.com/benchmarks/browsecomp](https://sinoaihub.com/benchmarks/browsecomp)
 
 ## Description
 

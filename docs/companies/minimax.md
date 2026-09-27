@@ -6,10 +6,10 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://china-ai-hub.pages.dev/companies/minimax",
+      "@id": "https://sinoaihub.com/companies/minimax",
       "name": "MiniMax",
-      "url": "https://china-ai-hub.pages.dev/companies/minimax",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/companies/minimax/",
+      "url": "https://sinoaihub.com/companies/minimax",
+      "mainEntityOfPage": "https://data.sinoaihub.com/companies/minimax/",
       "sameAs": [
         "https://www.minimax.io/"
       ],
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Companies",
-          "item": "https://china-ai-hub-data.pages.dev/companies/"
+          "item": "https://data.sinoaihub.com/companies/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "MiniMax",
-          "item": "https://china-ai-hub-data.pages.dev/companies/minimax/"
+          "item": "https://data.sinoaihub.com/companies/minimax/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/companies/minimax](https://china-ai-hub.pages.dev/companies/minimax)
+> Canonical page on the main site: [sinoaihub.com/companies/minimax](https://sinoaihub.com/companies/minimax)
 
 ## Aliases
 

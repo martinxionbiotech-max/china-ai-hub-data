@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://china-ai-hub.pages.dev/pricing/alibaba-cloud",
+      "@id": "https://sinoaihub.com/pricing/alibaba-cloud",
       "name": "Alibaba Cloud (Qwen) pricing",
-      "url": "https://china-ai-hub.pages.dev/pricing/alibaba-cloud",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/alibaba-cloud/",
+      "url": "https://sinoaihub.com/pricing/alibaba-cloud",
+      "mainEntityOfPage": "https://data.sinoaihub.com/pricing/alibaba-cloud/",
       "provider": {
         "@type": "Organization",
         "name": "Alibaba Cloud (Qwen)",
-        "@id": "https://china-ai-hub.pages.dev/companies/alibaba-cloud",
-        "url": "https://china-ai-hub.pages.dev/companies/alibaba-cloud"
+        "@id": "https://sinoaihub.com/companies/alibaba-cloud",
+        "url": "https://sinoaihub.com/companies/alibaba-cloud"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Qwen3.8-Max",
-            "@id": "https://china-ai-hub.pages.dev/models/qwen38-max",
-            "url": "https://china-ai-hub.pages.dev/models/qwen38-max"
+            "@id": "https://sinoaihub.com/models/qwen38-max",
+            "url": "https://sinoaihub.com/models/qwen38-max"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/alibaba-cloud/",
+          "url": "https://data.sinoaihub.com/pricing/alibaba-cloud/",
           "description": "Output price per 1M tokens: $6.0"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "Qwen3.8-Flash",
-            "@id": "https://china-ai-hub.pages.dev/models/qwen38-flash",
-            "url": "https://china-ai-hub.pages.dev/models/qwen38-flash"
+            "@id": "https://sinoaihub.com/models/qwen38-flash",
+            "url": "https://sinoaihub.com/models/qwen38-flash"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/alibaba-cloud/",
+          "url": "https://data.sinoaihub.com/pricing/alibaba-cloud/",
           "description": "Output price per 1M tokens: $0.47"
         },
         {
@@ -54,7 +54,7 @@
             "@type": "SoftwareApplication",
             "name": "qwen3.7-plus"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/alibaba-cloud/",
+          "url": "https://data.sinoaihub.com/pricing/alibaba-cloud/",
           "description": "Output price per 1M tokens: $1.6"
         }
       ],
@@ -67,26 +67,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/"
+          "item": "https://data.sinoaihub.com/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "alibaba-cloud",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/alibaba-cloud/"
+          "item": "https://data.sinoaihub.com/pricing/alibaba-cloud/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/alibaba-cloud](https://china-ai-hub.pages.dev/pricing/alibaba-cloud)
+> Canonical page on the main site: [sinoaihub.com/pricing/alibaba-cloud](https://sinoaihub.com/pricing/alibaba-cloud)
 
 ## Currency
 

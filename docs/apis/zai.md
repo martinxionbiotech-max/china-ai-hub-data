@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "APIReference",
-      "@id": "https://china-ai-hub.pages.dev/api/zai",
+      "@id": "https://sinoaihub.com/api/zai",
       "name": "Z.ai API",
-      "url": "https://china-ai-hub.pages.dev/api/zai",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/apis/zai/",
+      "url": "https://sinoaihub.com/api/zai",
+      "mainEntityOfPage": "https://data.sinoaihub.com/apis/zai/",
       "provider": {
         "@type": "Organization",
         "name": "Zhipu AI",
-        "@id": "https://china-ai-hub.pages.dev/companies/zhipu-ai",
-        "url": "https://china-ai-hub.pages.dev/companies/zhipu-ai"
+        "@id": "https://sinoaihub.com/companies/zhipu-ai",
+        "url": "https://sinoaihub.com/companies/zhipu-ai"
       },
       "documentation": "https://docs.z.ai/"
     },
@@ -25,26 +25,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "APIs",
-          "item": "https://china-ai-hub-data.pages.dev/apis/"
+          "item": "https://data.sinoaihub.com/apis/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Z.ai API",
-          "item": "https://china-ai-hub-data.pages.dev/apis/zai/"
+          "item": "https://data.sinoaihub.com/apis/zai/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/api/zai](https://china-ai-hub.pages.dev/api/zai)
+> Canonical page on the main site: [sinoaihub.com/api/zai](https://sinoaihub.com/api/zai)
 
 ## Provider
 

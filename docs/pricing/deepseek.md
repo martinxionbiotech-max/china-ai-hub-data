@@ -6,15 +6,15 @@
   "@graph": [
     {
       "@type": "OfferCatalog",
-      "@id": "https://china-ai-hub.pages.dev/pricing/deepseek",
+      "@id": "https://sinoaihub.com/pricing/deepseek",
       "name": "DeepSeek pricing",
-      "url": "https://china-ai-hub.pages.dev/pricing/deepseek",
-      "mainEntityOfPage": "https://china-ai-hub-data.pages.dev/pricing/deepseek/",
+      "url": "https://sinoaihub.com/pricing/deepseek",
+      "mainEntityOfPage": "https://data.sinoaihub.com/pricing/deepseek/",
       "provider": {
         "@type": "Organization",
         "name": "DeepSeek",
-        "@id": "https://china-ai-hub.pages.dev/companies/deepseek",
-        "url": "https://china-ai-hub.pages.dev/companies/deepseek"
+        "@id": "https://sinoaihub.com/companies/deepseek",
+        "url": "https://sinoaihub.com/companies/deepseek"
       },
       "itemListElement": [
         {
@@ -25,10 +25,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "DeepSeek-V4.1-Flash",
-            "@id": "https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash",
-            "url": "https://china-ai-hub.pages.dev/models/deepseek-v4-1-flash"
+            "@id": "https://sinoaihub.com/models/deepseek-v4-1-flash",
+            "url": "https://sinoaihub.com/models/deepseek-v4-1-flash"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/deepseek/",
+          "url": "https://data.sinoaihub.com/pricing/deepseek/",
           "description": "Output price per 1M tokens: $0.6"
         },
         {
@@ -39,10 +39,10 @@
           "itemOffered": {
             "@type": "SoftwareApplication",
             "name": "DeepSeek-V4-Pro",
-            "@id": "https://china-ai-hub.pages.dev/models/deepseek-v4-pro",
-            "url": "https://china-ai-hub.pages.dev/models/deepseek-v4-pro"
+            "@id": "https://sinoaihub.com/models/deepseek-v4-pro",
+            "url": "https://sinoaihub.com/models/deepseek-v4-pro"
           },
-          "url": "https://china-ai-hub-data.pages.dev/pricing/deepseek/",
+          "url": "https://data.sinoaihub.com/pricing/deepseek/",
           "description": "Output price per 1M tokens: $1.98"
         }
       ],
@@ -55,26 +55,26 @@
           "@type": "ListItem",
           "position": 1,
           "name": "Home",
-          "item": "https://china-ai-hub-data.pages.dev/"
+          "item": "https://data.sinoaihub.com/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Pricing",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/"
+          "item": "https://data.sinoaihub.com/pricing/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "DeepSeek API",
-          "item": "https://china-ai-hub-data.pages.dev/pricing/deepseek/"
+          "item": "https://data.sinoaihub.com/pricing/deepseek/"
         }
       ]
     }
   ]
 }
 </script>
-> Canonical page on the main site: [china-ai-hub.pages.dev/pricing/deepseek](https://china-ai-hub.pages.dev/pricing/deepseek)
+> Canonical page on the main site: [sinoaihub.com/pricing/deepseek](https://sinoaihub.com/pricing/deepseek)
 
 ## Currency
 
