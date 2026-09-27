@@ -106,6 +106,10 @@ Flagship Doubao models: 500 RPM / 1,000,000 TPM (as of 2026-09-20)
 
 https://docs.volcengine.com/docs/ark
 
+## Limitations
+
+- Function calling support for Ark-hosted models is documented per-model, not platform-wide; not extracted as of 2026-09-27
+
 ## Last Verified
 
 2026-09-20

@@ -128,6 +128,10 @@ https://agent.minimax.io/docs/code/welcome.md
 - Multimodal creation (documents, PPT, images, audio, video via H3 Max)
 - Custom agents, mini apps and plugin marketplace
 
+## Framework
+
+TypeScript terminal coding agent (open-source, verified via GitHub repo description 2026-09-27)
+
 ## Limitations
 
 - Browser/Computer Use are desktop-host capabilities; not available in the CLI

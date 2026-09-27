@@ -103,6 +103,10 @@ Yes
 
 https://docs.z.ai/
 
+## Limitations
+
+- Rate limit documentation page not located (docs.z.ai paths 404) as of 2026-09-27
+
 ## Last Verified
 
 2026-09-20

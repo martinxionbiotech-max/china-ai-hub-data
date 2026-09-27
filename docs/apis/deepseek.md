@@ -105,6 +105,10 @@ Concurrency: deepseek-flash 2500; deepseek-v4-pro 500 (per official pricing page
 
 https://api-docs.deepseek.com/
 
+## Limitations
+
+- Official docs publish concurrency limits only; no regional deployment breakdown as of 2026-09-27
+
 ## Last Verified
 
 2026-09-20

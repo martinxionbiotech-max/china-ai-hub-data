@@ -103,6 +103,10 @@ Yes
 
 https://platform.minimax.io/docs
 
+## Limitations
+
+- Rate limits published on a JS-rendered docs page; structured_output not publicly documented as of 2026-09-27
+
 ## Last Verified
 
 2026-09-20

@@ -109,11 +109,7 @@ https://agent.minimax.io/docs/llms.txt
 
 ## Limitations
 
-- Cloud-hosted only; no self-host option documented
-- First release date not publicly disclosed in fetched sources
-- Web-app plan/pricing details require sign-in (not retrievable)
-- MaxHermes is in Beta
-- Relationship between the web app, MaxClaw/MaxHermes and MiniMax Code is not explained in a single fetched doc (treated as an ecosystem of surfaces)
+- No public GitHub repository located as of 2026-09-27 (checked MiniMax-AI org)
 
 ## Last Verified
 

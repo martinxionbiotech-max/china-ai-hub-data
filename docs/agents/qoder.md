@@ -135,12 +135,7 @@ https://docs.qoder.com/qoder/overview.md
 
 ## Limitations
 
-- CLI/IDE source is not open source; only SDKs, changelogs and skills are public
-- Free plan has limited completions; Pro trial once per account and not available on VMs
-- Unused monthly credits expire; no refunds after 24h or after credits are used
-- Tool execution limited to 500 rounds per task (IDE v1.28.0)
-- Exact launch date not publicly disclosed (IDE release notes start 2025-08-21)
-- Operating entity listed as BRIGHT ZENITH PRIVATE LIMITED; corporate ownership relationship to Alibaba not publicly disclosed
+- No public GitHub repository located as of 2026-09-27 (checked XGenerationLab and Qoder-AI orgs)
 
 ## Last Verified
 

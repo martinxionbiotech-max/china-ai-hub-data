@@ -103,6 +103,10 @@ Yes
 
 https://platform.kimi.ai/docs
 
+## Limitations
+
+- Rate limits and regions are published behind a JS-rendered docs page; not extractable into structured data as of 2026-09-27
+
 ## Last Verified
 
 2026-09-20
