@@ -69,7 +69,7 @@ Graduate-level science question-answering benchmark (expert-level questions in b
 
 ## Relevant Models
 
-- [Qwen3.8-Max](../models/qwen38-max.md) — 92.6
+- [Qwen3.8-Max](../models/qwen3.8-max.md) — 92.6
 - [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md) — 90.9
 - [Kimi K3](../models/kimi-k3.md) — 93.5
 

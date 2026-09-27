@@ -68,8 +68,8 @@ Software engineering benchmark built from real-world issues and pull requests.
 
 ## Relevant Models
 
-- [GLM-5.3](../models/glm-53.md) — 66.9
-- [GLM-5.3-Flash](../models/glm-53-flash.md) — 63.4
+- [GLM-5.3](../models/glm-5.3.md) — 66.9
+- [GLM-5.3-Flash](../models/glm-5.3-flash.md) — 63.4
 - [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md) — 74.2
 - [Kimi K3](../models/kimi-k3.md) — 67.5
 - [DeepSeek-V4-Pro](../models/deepseek-v4-pro.md) — 62.7

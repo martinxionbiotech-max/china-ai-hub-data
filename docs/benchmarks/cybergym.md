@@ -65,7 +65,7 @@ Cybersecurity agent benchmark focused on vulnerability discovery tasks.
 
 ## Relevant Models
 
-- [GLM-5.3](../models/glm-53.md) — 84.5
+- [GLM-5.3](../models/glm-5.3.md) — 84.5
 
 ## Limitations
 

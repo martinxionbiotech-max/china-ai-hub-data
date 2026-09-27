@@ -71,8 +71,8 @@ Terminal-based agent benchmark (shell commands, file operations, package managem
 
 ## Relevant Models
 
-- [GLM-5.3](../models/glm-53.md) — 28.3
-- [Qwen3.8-Max](../models/qwen38-max.md) — 86.6
+- [GLM-5.3](../models/glm-5.3.md) — 28.3
+- [Qwen3.8-Max](../models/qwen3.8-max.md) — 86.6
 - [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md) — 90.6
 - [Kimi K3](../models/kimi-k3.md) — 88.3
 - [MiniMax-M3](../models/minimax-m3.md) — 66.0

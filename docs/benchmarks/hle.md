@@ -70,7 +70,7 @@ Humanity's Last Exam - a frontier benchmark of expert-level questions across dis
 
 ## Relevant Models
 
-- [Qwen3.8-Max](../models/qwen38-max.md) — 43.6 (56.2 with tools)
+- [Qwen3.8-Max](../models/qwen3.8-max.md) — 43.6 (56.2 with tools)
 - [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md) — 36.8
 - [Kimi K3](../models/kimi-k3.md) — 43.5 (56.0 with tools)
 - [DeepSeek-V4-Pro](../models/deepseek-v4-pro.md) — 42.7 (60.0 with tools)

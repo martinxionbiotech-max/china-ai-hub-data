@@ -66,7 +66,7 @@ Benchmark of computer-use automation tasks.
 
 ## Relevant Models
 
-- [GLM-5.3-Flash](../models/glm-53-flash.md) — 48.8
+- [GLM-5.3-Flash](../models/glm-5.3-flash.md) — 48.8
 
 ## Limitations
 

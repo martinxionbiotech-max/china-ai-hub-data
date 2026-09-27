@@ -67,7 +67,7 @@ Software engineering benchmark family built from real GitHub issues, with Pro, V
 
 ## Relevant Models
 
-- [Qwen3.8-Max](../models/qwen38-max.md) — 67.7
+- [Qwen3.8-Max](../models/qwen3.8-max.md) — 67.7
 - [MiniMax-M3](../models/minimax-m3.md) — 59.0
 
 ## Limitations
