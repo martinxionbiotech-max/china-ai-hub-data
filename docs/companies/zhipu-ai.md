@@ -90,6 +90,14 @@ No official funding disclosure located as of 2026-09-22 (IPO/funding reports cir
 | GLM-5.3 | 2026-08-18 | model_release |
 | GLM-5.2 | 2026-06-16 | model_release |
 
+## Timeline
+
+| date | event | type | source | verification_date |
+|---|---|---|---|---|
+| 2026-06-16 | GLM-5.2 release | model_release | https://docs.z.ai/release-notes/new-released | 2026-09-20 |
+| 2026-08-18 | GLM-5.3 release (744B/40B-active MoE, open weights) | model_release | https://docs.z.ai/guides/llm/glm-5.3 | 2026-09-20 |
+| 2026-08-26 | GLM-5.3-Flash / FlashX release | model_release | https://docs.z.ai/release-notes/new-released | 2026-09-20 |
+
 ## Open Source Projects
 
 - GLM-5.3 (Apache-2.0)

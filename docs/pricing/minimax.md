@@ -112,11 +112,11 @@ pay_as_you_go
 
 ## Price History
 
-| model | field | old | new | effective | source |
-|---|---|---|---|---|---|
-| minimax-m3 | input_price_per_1m | 0.6 | 0.3 | — | https://platform.minimax.io/docs/guides/pricing-paygo |
-| minimax-m3 | output_price_per_1m | 2.4 | 1.2 | — | https://platform.minimax.io/docs/guides/pricing-paygo |
-| minimax-m3 | cached_input_price_per_1m | 0.12 | 0.06 | — | https://platform.minimax.io/docs/guides/pricing-paygo |
+| model | field | old | new | effective | source | verification_date |
+|---|---|---|---|---|---|---|
+| minimax-m3 | input_price_per_1m | 0.6 | 0.3 | — | https://platform.minimax.io/docs/guides/pricing-paygo | 2026-09-20 |
+| minimax-m3 | output_price_per_1m | 2.4 | 1.2 | — | https://platform.minimax.io/docs/guides/pricing-paygo | 2026-09-20 |
+| minimax-m3 | cached_input_price_per_1m | 0.12 | 0.06 | — | https://platform.minimax.io/docs/guides/pricing-paygo | 2026-09-20 |
 
 ## Last Verified
 

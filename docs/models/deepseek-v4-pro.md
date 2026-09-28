@@ -65,6 +65,14 @@ DeepSeek-V4
 
 2026-04-24 (V4 Preview) / 2026-08-13 (GA)
 
+## Release History
+
+| date | event | source | verification_date |
+|---|---|---|---|
+| 2026-04-24 | V4 Preview released — open weights, 1.6T/49B MoE, MIT license | https://www.deepseek.com/en/news/v4-preview/ | 2026-09-20 |
+| 2026-08-13 | V4-Pro GA (0813 checkpoint) shipped on the API | https://api-docs.deepseek.com/updates | 2026-09-20 |
+| 2026-09-10 | Deprecation announced, then reversed the same day — service continues with unchanged billing | https://api-docs.deepseek.com/updates | 2026-09-20 |
+
 ## Status
 
 deprecated

@@ -12,8 +12,12 @@ While the main site hosts editorial content, comparisons and original research, 
 | [Companies](companies/index.md) | The organizations building China's AI stack: ownership, funding, products |
 | [Agents](agents/index.md) | Consumer and developer agent products: features, platforms, defaults |
 | [APIs](apis/index.md) | API platforms and endpoints: access, modalities, token limits |
-| [Pricing](pricing/index.md) | Time-stamped pricing snapshots with effective dates |
+| [Pricing](pricing/index.md) | Time-stamped pricing snapshots with effective dates, plus documented `price_history` |
 | [Benchmarks](benchmarks/index.md) | Benchmark methodologies and vendor-reported results |
+
+### Historical dimensions
+
+Beyond current-value fields, each collection carries sourced history where documented: models expose a `release_history` timeline; pricing exposes `price_history` change events; companies expose a `timeline` of founding, release and pricing milestones. Every history entry includes a `source` and `verification_date`. `benchmark_history` is intentionally not built — no sourced before/after benchmark values exist for any model+benchmark pair.
 
 ## Relationship to the main site
 

@@ -93,10 +93,10 @@ pay_as_you_go
 
 ## Price History
 
-| model | field | old | new | effective | source |
-|---|---|---|---|---|---|
-| deepseek-v4-pro | billing_structure | Flat pricing | Peak/off-peak pricing; off-peak = 50% of peak | 2026-08-16 | https://api-docs.deepseek.com/updates |
-| deepseek-v4-1-flash | api_pricing | V4-Flash list pricing (model retired) | Reduced V4.1-Flash pricing | 2026-09-10 | https://api-docs.deepseek.com/updates |
+| model | field | old | new | effective | source | verification_date |
+|---|---|---|---|---|---|---|
+| deepseek-v4-pro | billing_structure | Flat pricing | Peak/off-peak pricing; off-peak = 50% of peak | 2026-08-16 | https://api-docs.deepseek.com/updates | 2026-09-20 |
+| deepseek-v4-1-flash | api_pricing | V4-Flash list pricing (model retired) | Reduced V4.1-Flash pricing | 2026-09-10 | https://api-docs.deepseek.com/updates | 2026-09-20 |
 
 ## Last Verified
 

@@ -58,6 +58,12 @@ DeepSeek-V4.1
 
 2026-09-10
 
+## Release History
+
+| date | event | source | verification_date |
+|---|---|---|---|
+| 2026-09-10 | V4.1-Flash released — 552B MoE (8B/16B active), multimodal, MIT weights; V4-Flash and V4-Flash-Vision-Exp retired | https://www.deepseek.com/en/news/deepseek-v4-1-flash/ | 2026-09-20 |
+
 ## Status
 
 active

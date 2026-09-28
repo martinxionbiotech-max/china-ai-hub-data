@@ -90,6 +90,15 @@ Investor-relations site exists (ir.minimax.cn); funding-round details are not li
 | MiniMax-M2.7 | 2026-03-18 | model_release |
 | MiniMax-M2 | 2025-10-27 | model_release |
 
+## Timeline
+
+| date | event | type | source | verification_date |
+|---|---|---|---|---|
+| 2022 (early) | Founded (上海稀宇科技有限公司), Shanghai | founding | https://www.minimax.cn/about | 2026-09-20 |
+| 2025-10-27 | MiniMax-M2 release | model_release | https://platform.minimaxi.com/docs/release-notes/models.md | 2026-09-20 |
+| 2026-03-18 | MiniMax-M2.7 release | model_release | https://platform.minimaxi.com/docs/release-notes/models.md | 2026-09-20 |
+| 2026-06-01 | MiniMax-M3 release (~428B/23B-active MoE, 1M context, open weights) | model_release | https://www.minimax.cn/blog/minimax-m3 | 2026-09-20 |
+
 ## Open Source Projects
 
 - MiniMax-M3

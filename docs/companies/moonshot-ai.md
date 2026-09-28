@@ -87,6 +87,13 @@ No official funding disclosure located as of 2026-09-22.
 |---|---|---|
 | Kimi K3 | 2026-07-16 | model_release |
 
+## Timeline
+
+| date | event | type | source | verification_date |
+|---|---|---|---|---|
+| 2023 (spring) | Founded (月之暗面), Beijing | founding | https://www.moonshot.cn/about | 2026-09-20 |
+| 2026-07-16 | Kimi K3 release (2.8T MoE, 1M context, open weights) | model_release | https://github.com/MoonshotAI/Kimi-K3 | 2026-09-20 |
+
 ## Open Source Projects
 
 - Kimi K3

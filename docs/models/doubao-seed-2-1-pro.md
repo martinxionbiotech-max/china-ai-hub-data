@@ -66,6 +66,13 @@ Doubao Seed
 
 2026-09
 
+## Release History
+
+| date | event | source | verification_date |
+|---|---|---|---|
+| 2026-06-23 | Doubao Seed 2.1 family released | https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity | 2026-09-20 |
+| 2026-09 | Seed 2.1 Pro with 1M-token context (version 260915) | https://docs.volcengine.com/docs/ark/model-release-announcement | 2026-09-20 |
+
 ## Status
 
 active

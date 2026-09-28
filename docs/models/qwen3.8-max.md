@@ -66,6 +66,13 @@ Qwen3.8
 
 2026-08
 
+## Release History
+
+| date | event | source | verification_date |
+|---|---|---|---|
+| 2026-08 | Qwen3.8-Max API flagship released | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-max | 2026-09-20 |
+| 2026-09-02 | qwen3.8-max-0902 snapshot — coding, multi-tool orchestration and vision upgrades at unchanged price | https://www.qwencloud.com/models/qwen3.8-max-0902 | 2026-09-20 |
+
 ## Status
 
 active

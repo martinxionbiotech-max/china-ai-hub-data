@@ -86,6 +86,14 @@ Privately held; funding rounds not officially disclosed as of 2026-09-22.
 | Doubao Seed 2.1 Pro with 1M context (260915) | 2026-09 | model_release |
 | Doubao Seed Evolving (rolling weekly-updated model) | 2026-06 | model_release |
 
+## Timeline
+
+| date | event | type | source | verification_date |
+|---|---|---|---|---|
+| 2026-06-23 | Doubao Seed 2.1 family release | model_release | https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity | 2026-09-20 |
+| 2026-06 | Doubao Seed Evolving launch (rolling weekly-updated model) | model_release | https://docs.volcengine.com/docs/ark/model-release-announcement | 2026-09-20 |
+| 2026-09 | Doubao Seed 2.1 Pro with 1M context (260915) | model_release | https://docs.volcengine.com/docs/ark/model-release-announcement | 2026-09-20 |
+
 ## Open Source Projects
 
 - VeOmni (ByteDance-Seed, scaling multimodal model training)

@@ -81,6 +81,17 @@ No external funding officially disclosed as of 2026-09-22 (media-reported rounds
 | DeepSeek-V4 Preview | 2026-04-24 | model_release |
 | DeepSeek-V3.2 | 2025-12-01 | model_release |
 
+## Timeline
+
+| date | event | type | source | verification_date |
+|---|---|---|---|---|
+| 2025-09-29 | V3.2-Exp release — introduced DeepSeek Sparse Attention; API prices cut by more than 50% | model_release | https://sinoaihub.com/research/how-deepseek-changed-chinas-ai-market | 2026-09-20 |
+| 2025-12-01 | DeepSeek-V3.2 release (MIT) | model_release | https://www.deepseek.com/en/news/deepseek-v3-2/ | 2026-09-20 |
+| 2026-04-24 | DeepSeek-V4 Preview release (MIT open weights) | model_release | https://www.deepseek.com/en/news/v4-preview/ | 2026-09-20 |
+| 2026-08-13 | DeepSeek-V4-Pro GA (0813) | model_release | https://api-docs.deepseek.com/updates | 2026-09-20 |
+| 2026-08-16 | Peak/off-peak pricing introduced (peak = 2x off-peak) | pricing_change | https://api-docs.deepseek.com/updates | 2026-09-20 |
+| 2026-09-10 | DeepSeek-V4.1-Flash release (multimodal, MIT); V4-Pro retirement reversed | model_release | https://www.deepseek.com/en/news/deepseek-v4-1-flash/ | 2026-09-20 |
+
 ## Open Source Projects
 
 - DeepSeek-V4.1-Flash (MIT)

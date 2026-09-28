@@ -85,6 +85,14 @@ No separate funding rounds; Alibaba Cloud is a business of Alibaba Group Holding
 | Qwen3.8-27B | 2026-08-14 | model_release |
 | qwen3.8-max-0902 snapshot | 2026-09-02 | model_release |
 
+## Timeline
+
+| date | event | type | source | verification_date |
+|---|---|---|---|---|
+| 2026-08-12 | Qwen3.8-2.4T-A95B release (first Qwen-Max-class open release) | model_release | https://github.com/QwenLM/Qwen3.8 | 2026-09-20 |
+| 2026-08-14 | Qwen3.8-27B release | model_release | https://github.com/QwenLM/Qwen3.8 | 2026-09-20 |
+| 2026-09-02 | qwen3.8-max-0902 snapshot (coding, multi-tool orchestration, vision) | model_release | https://www.qwencloud.com/models/qwen3.8-max-0902 | 2026-09-20 |
+
 ## Open Source Projects
 
 - Qwen3.8 (2.4T-A95B, 27B)
