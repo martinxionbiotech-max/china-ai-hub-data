@@ -78,6 +78,14 @@ Privately held; funding rounds not officially disclosed as of 2026-09-22.
 
 - Volcengine Ark (cn-beijing)
 
+## Agents
+
+- [doubao-app](../agents/doubao-app.md)
+
+## API
+
+- [ark](../apis/ark.md)
+
 ## Major Releases
 
 | name | date | type |
@@ -106,10 +114,6 @@ https://docs.volcengine.com/docs/ark
 ## Official Website
 
 https://www.bytedance.com/
-
-## Related Entities
-
-- volcengine
 
 ## Last Verified
 

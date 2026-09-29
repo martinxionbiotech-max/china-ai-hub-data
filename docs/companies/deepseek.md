@@ -72,6 +72,14 @@ No external funding officially disclosed as of 2026-09-22 (media-reported rounds
 
 - [deepseek-v3-2](../models/deepseek-v3-2.md)
 
+## Agents
+
+- [deepseek-harness](../agents/deepseek-harness.md)
+
+## API
+
+- [deepseek](../apis/deepseek.md)
+
 ## Major Releases
 
 | name | date | type |

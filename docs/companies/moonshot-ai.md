@@ -81,6 +81,14 @@ No official funding disclosure located as of 2026-09-22.
 
 - [kimi-k3](../models/kimi-k3.md)
 
+## Agents
+
+- [kimi-code](../agents/kimi-code.md)
+
+## API
+
+- [moonshot](../apis/moonshot.md)
+
 ## Major Releases
 
 | name | date | type |

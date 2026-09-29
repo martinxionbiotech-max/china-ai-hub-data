@@ -72,10 +72,21 @@ No separate funding rounds; Alibaba Cloud is a business of Alibaba Group Holding
 
 - [qwen3.8-max](../models/qwen3.8-max.md)
 - [qwen3.8-flash](../models/qwen3.8-flash.md)
+- [qwen3.8-2.4t-a95b](../models/qwen3.8-2.4t-a95b.md)
 
 ## Open Models
 
 - [qwen3.8-2.4t-a95b](../models/qwen3.8-2.4t-a95b.md)
+
+## Agents
+
+- [qwen-code](../agents/qwen-code.md)
+- [qwen-agent](../agents/qwen-agent.md)
+- [qoder](../agents/qoder.md)
+
+## API
+
+- [model-studio](../apis/model-studio.md)
 
 ## Major Releases
 

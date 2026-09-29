@@ -77,10 +77,20 @@ No official funding disclosure located as of 2026-09-22 (IPO/funding reports cir
 - [glm-5.3](../models/glm-5.3.md)
 - [glm-5.3-flash](../models/glm-5.3-flash.md)
 - [glm-5.2](../models/glm-5.2.md)
+- [glm-5.3-flashx](../models/glm-5.3-flashx.md)
 
 ## Open Models
 
 - [glm-5.3](../models/glm-5.3.md)
+
+## Agents
+
+- [autoglm](../agents/autoglm.md)
+- [glm-coding-plan](../agents/glm-coding-plan.md)
+
+## API
+
+- [zai](../apis/zai.md)
 
 ## Major Releases
 

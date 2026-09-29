@@ -82,6 +82,15 @@ Investor-relations site exists (ir.minimax.cn); funding-round details are not li
 
 - [minimax-m3](../models/minimax-m3.md)
 
+## Agents
+
+- [minimax-agent](../agents/minimax-agent.md)
+- [minimax-code](../agents/minimax-code.md)
+
+## API
+
+- [minimax](../apis/minimax.md)
+
 ## Major Releases
 
 | name | date | type |
