@@ -46,6 +46,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/minimax-m27-highspeed](https://sinoaihub.com/models/minimax-m27-highspeed)
 
+## Definition
+
+MiniMax-M2.7-Highspeed is a MiniMax model in the MiniMax M2.7 family: 204,800-token context window; open-weight; Custom NON-COMMERCIAL license (MIT-style terms for non-commercial use only; any commercial use requires prior written authorization from MiniMax at api@minimax.io; attribution 'Built with MiniMax M2.7' required) license; released 2026-03-18.
+
+## Key facts
+
+- **Context window:** 204,800 tokens
+- **Weights:** open; Custom NON-COMMERCIAL license (MIT-style terms for non-commercial use only; any commercial use requires prior written authorization from MiniMax at api@minimax.io; attribution 'Built with MiniMax M2.7' required) license
+- **API pricing:** $0.6 input / $2.4 output per 1M tokens (USD)
+- **Released:** 2026-03-18
+- **Capabilities:** reasoning, tool calling
+
 ## Provider
 
 [minimax](../companies/minimax.md)
@@ -117,6 +129,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

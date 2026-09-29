@@ -46,6 +46,16 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/zai](https://sinoaihub.com/api/zai)
 
+## Definition
+
+Z.ai API is Zhipu AI's official API platform (endpoint https://api.z.ai/api/paas/v4/chat/completions).
+
+## Key facts
+
+- **Endpoint:** https://api.z.ai/api/paas/v4/chat/completions
+- **Authentication:** Bearer API key
+- **Capabilities:** streaming, tool calling, vision
+
 ## Provider
 
 [zhipu-ai](../companies/zhipu-ai.md)
@@ -110,6 +120,10 @@ https://docs.z.ai/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

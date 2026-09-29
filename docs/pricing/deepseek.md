@@ -45,8 +45,8 @@
           "url": "https://data.sinoaihub.com/pricing/deepseek/",
           "description": "Output price per 1M tokens: $1.98"
         }
-      ],
-      "dateModified": "2026-09-20"
+      ]
+
     },
     {
       "@type": "BreadcrumbList",
@@ -75,6 +75,17 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/deepseek](https://sinoaihub.com/pricing/deepseek)
+
+## Definition
+
+DeepSeek API pricing in USD, pay as you go.
+
+## Key facts
+
+- **Currency:** USD
+- **Billing:** pay as you go
+- **Models priced:** 2
+- **Price history:** documented
 
 ## Currency
 

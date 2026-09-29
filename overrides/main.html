@@ -30,7 +30,7 @@
         "url": "https://data.chinaaihub.com",
         "publisher": { "@id": "https://chinaaihub.com/#organization" },
         "creator": { "@id": "https://chinaaihub.com/#organization" },
-        "dateModified": "2026-09-22",
+        "dateModified": "{{ page.meta.git_revision_date_localized_raw_iso_date if page and page.meta else '' }}",
         "distribution": [
           { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/models.json", "name": "Models JSON dump" },
           { "@type": "DataDownload", "encodingFormat": "JSON", "contentUrl": "https://chinaaihub.com/data/pricing.json", "name": "Pricing JSON dump" },

@@ -46,6 +46,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/qwen38-24t-a95b](https://sinoaihub.com/models/qwen38-24t-a95b)
 
+## Definition
+
+Qwen3.8-2.4T-A95B is a Alibaba Cloud (Qwen) model in the Qwen3.8 family: 2.4T-parameter MoE, 95B activated, 512 experts (10 routed + 1 shared per token), 92 layers, Gated DeltaNet + Gated Attention hybrid; 262,144-token context window; open-weight; Qwen3.8-Max License (custom MIT-style: unrestricted use/copy/modify/sell, but products with >100M MAU or >US$20M/month revenue must display the model name; Model-as-a-Service or AI Work Assistant businesses with >US$50M/12-month revenue need a separate license from Qwen) license; released 2026-08-12.
+
+## Key facts
+
+- **Architecture:** 2.4T-parameter MoE, 95B activated, 512 experts (10 routed + 1 shared per token), 92 layers, Gated DeltaNet + Gated Attention hybrid
+- **Context window:** 262,144 tokens
+- **Weights:** open; Qwen3.8-Max License (custom MIT-style: unrestricted use/copy/modify/sell, but products with >100M MAU or >US$20M/month revenue must display the model name; Model-as-a-Service or AI Work Assistant businesses with >US$50M/12-month revenue need a separate license from Qwen) license
+- **Released:** 2026-08-12
+- **Capabilities:** reasoning
+
 ## Provider
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
@@ -109,6 +121,10 @@ No
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

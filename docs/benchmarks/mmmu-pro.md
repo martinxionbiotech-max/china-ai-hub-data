@@ -10,8 +10,8 @@
       "name": "MMMU-Pro",
       "url": "https://sinoaihub.com/benchmarks/mmmu-pro",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/mmmu-pro/",
-      "description": "Multimodal, multi-discipline understanding benchmark with college-level questions requiring reasoning.",
-      "dateModified": "2026-09-20"
+      "description": "Multimodal, multi-discipline understanding benchmark with college-level questions requiring reasoning."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/mmmu-pro](https://sinoaihub.com/benchmarks/mmmu-pro)
+
+## Key facts
+
+- **Task type:** Multimodal understanding and reasoning (college-level, multi-discipline)
+- **Dataset size:** 1,730 questions in standard format plus 1,730 vision-augmented variants (3,460 total); parent MMMU = 11.5K questions across 6 disciplines, 30 subjects
+- **Evaluation method:** Multiple-choice questions with interleaved images; vision-only input setting removes text leakage
+- **Scoring:** Accuracy (% correct answers)
+- **Recorded evaluations:** 3
 
 ## Description
 
@@ -73,6 +81,10 @@ All scores are vendor-reported and not independently verified. With-tools and wi
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

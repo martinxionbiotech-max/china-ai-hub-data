@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/minimax](https://sinoaihub.com/companies/minimax)
 
+## Definition
+
+MiniMax is a Chinese AI company (also MiniMax AI, 上海稀宇科技有限公司) developing 3 foundation models and operating the MiniMax API.
+
+## Key facts
+
+- **Headquarters:** Room 1704-1, No. 1699 Gubei Road, Minhang District, Shanghai, China
+- **Funding:** Investor-relations site exists (ir.minimax.cn); funding-round details are not listed on official pages as of 2026-09-22.
+- **Foundation models:** MiniMax-M3, MiniMax-M2.7, MiniMax-M2.7-Highspeed
+- **Agents:** MiniMax Agent, MiniMax Code
+- **API:** MiniMax API
+- **Open-source:** 7 projects
+
 ## Aliases
 
 - MiniMax AI

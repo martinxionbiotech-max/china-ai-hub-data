@@ -46,6 +46,15 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/minimax-code](https://sinoaihub.com/agents/minimax-code)
 
+## Key facts
+
+- **Company:** MiniMax
+- **Type:** coding
+- **Underlying models:** MiniMax-M3, MiniMax-M2.7, MiniMax-M2.7-Highspeed
+- **Capabilities:** tool calling, browser use, computer use, MCP
+- **Open source:** yes (MIT)
+- **Pricing:** Billed via MiniMax Token Plan subscriptions: Plus $22/mo, Max $55/mo, Ultra $132/mo (5-hour rolling + weekly quota windows); credits 1,000 = $1 for overflow. API pay-as-you-go also available for enterprises.
+
 ## Company
 
 [minimax](../companies/minimax.md)
@@ -149,6 +158,10 @@ TypeScript terminal coding agent (open-source, verified via GitHub repo descript
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

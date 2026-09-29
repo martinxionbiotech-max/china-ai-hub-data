@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/glm-53-flash](https://sinoaihub.com/models/glm-53-flash)
 
+## Definition
+
+GLM-5.3-Flash is a Zhipu AI model in the GLM-5.3-Flash family: 320B total / 18B active; first open-source frontier model combining sparse + linear attention; mHC hyper-connections; 30T-token multimodal pre-training corpus; 1,048,576-token context window; 131,072 max output; open-weight; Apache-2.0 (per GitHub repo metadata; README has no separate weights-license section - verify per-model HF cards before reuse) license; released 2026-08-26.
+
+## Key facts
+
+- **Architecture:** 320B total / 18B active; first open-source frontier model combining sparse + linear attention; mHC hyper-connections; 30T-token multimodal pre-training corpus
+- **Context window:** 1,048,576 tokens (max output 131,072)
+- **Weights:** open; Apache-2.0 (per GitHub repo metadata; README has no separate weights-license section - verify per-model HF cards before reuse) license
+- **API pricing:** $0.15 input / $0.5 output per 1M tokens (USD)
+- **Released:** 2026-08-26
+- **Capabilities:** reasoning, coding, vision
+
 ## Provider
 
 [zhipu-ai](../companies/zhipu-ai.md)
@@ -146,6 +159,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

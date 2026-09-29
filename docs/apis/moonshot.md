@@ -46,6 +46,16 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/moonshot](https://sinoaihub.com/api/moonshot)
 
+## Definition
+
+Moonshot AI API is Moonshot AI's official API platform (endpoint https://api.moonshot.ai/v1).
+
+## Key facts
+
+- **Endpoint:** https://api.moonshot.ai/v1
+- **Authentication:** Bearer API key (MOONSHOT_API_KEY), managed in the platform console
+- **Capabilities:** streaming, tool calling, structured output, vision
+
 ## Provider
 
 [moonshot-ai](../companies/moonshot-ai.md)
@@ -110,6 +120,10 @@ https://platform.kimi.ai/docs
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

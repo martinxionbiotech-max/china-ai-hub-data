@@ -47,6 +47,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/bytedance](https://sinoaihub.com/companies/bytedance)
 
+## Definition
+
+ByteDance is a Chinese AI company (also 字节跳动, Doubao) developing 3 foundation models and operating the Ark API.
+
+## Key facts
+
+- **Headquarters:** No. 1 Building, Dazhongsi Plaza, No. 18A North Third Ring Road West, Haidian District, Beijing, China
+- **Funding:** Privately held; funding rounds not officially disclosed as of 2026-09-22.
+- **Foundation models:** Doubao Seed 2.1 Pro, Doubao Seed Evolving, Doubao Seed 2.1 Turbo
+- **Agents:** Doubao
+- **API:** Ark API
+- **Open-source:** 2 projects
+
 ## Aliases
 
 - 字节跳动

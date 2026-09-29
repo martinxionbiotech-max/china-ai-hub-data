@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/kimi-k3](https://sinoaihub.com/models/kimi-k3)
 
+## Definition
+
+Kimi K3 is a Moonshot AI model in the Kimi K-series family: MoE: 2.8T total / 104B activated; 93 layers (1 dense); 896 experts (16 selected + 2 shared per token); 69 KDA + 24 Gated MLA layers; hidden dim 7168; SiTU-GLU; MoonViT-V2 vision encoder (401M); MXFP4 weights / MXFP8 activations; 1,048,576-token context window; 1,048,576 max output; open-weight; Kimi K3 License (permissive MIT-style, but Model-as-a-Service operators with >$20M aggregate revenue over any 12 months must sign a separate agreement; products with >100M MAU or >$20M monthly revenue must display 'Kimi K3' in the UI) license; released 2026-07-16.
+
+## Key facts
+
+- **Architecture:** MoE: 2.8T total / 104B activated; 93 layers (1 dense); 896 experts (16 selected + 2 shared per token); 69 KDA + 24 Gated MLA layers; hidden dim 7168; SiTU-GLU; MoonViT-V2 vision encoder (401M); MXFP4 weights / MXFP8 activations
+- **Context window:** 1,048,576 tokens (max output 1,048,576)
+- **Weights:** open; Kimi K3 License (permissive MIT-style, but Model-as-a-Service operators with >$20M aggregate revenue over any 12 months must sign a separate agreement; products with >100M MAU or >$20M monthly revenue must display 'Kimi K3' in the UI) license
+- **API pricing:** $3.0 input / $15.0 output per 1M tokens (USD)
+- **Released:** 2026-07-16
+- **Capabilities:** reasoning, coding, vision, tool calling
+
 ## Provider
 
 [moonshot-ai](../companies/moonshot-ai.md)
@@ -155,6 +168,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

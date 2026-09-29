@@ -46,6 +46,15 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/glm-coding-plan](https://sinoaihub.com/agents/glm-coding-plan)
 
+## Key facts
+
+- **Company:** Zhipu AI
+- **Type:** coding
+- **Underlying models:** GLM-5.3, GLM-5.3-Flash
+- **Capabilities:** tool calling, MCP
+- **Open source:** no (proprietary)
+- **Pricing:** China (bigmodel.cn): Lite ¥118/mo, Pro ¥538/mo, Max ¥1078/mo (quarterly 8-fold off, annual 7-fold off); credits per 5h 2,000/12,000/28,000 and weekly 10,000/60,000/140,000. Team seats: Standard ¥598/mo, Advanced ¥1198/mo. International (Z.AI): from $18/month. Off-peak = 50% credit rate; peak Mon-Fri 14:00-18:00 UTC+8 = 2x.
+
 ## Company
 
 [zhipu-ai](../companies/zhipu-ai.md)
@@ -123,6 +132,10 @@ https://docs.bigmodel.cn/cn/coding-plan/overview.md
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

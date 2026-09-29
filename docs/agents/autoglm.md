@@ -46,6 +46,14 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/autoglm](https://sinoaihub.com/agents/autoglm)
 
+## Key facts
+
+- **Company:** Zhipu AI
+- **Type:** autonomous
+- **Capabilities:** tool calling, computer use
+- **Open source:** yes (Apache-2.0 (code); MIT (models))
+- **Pricing:** Open-source framework free. AutoGLM-Phone API (BigModel model id autoglm-phone) limited-time free as of 2026-09-20; paid price after promotion not publicly disclosed.
+
 ## Company
 
 [zhipu-ai](../companies/zhipu-ai.md)
@@ -131,6 +139,10 @@ https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone.md
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

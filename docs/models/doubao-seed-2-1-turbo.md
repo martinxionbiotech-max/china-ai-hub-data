@@ -45,6 +45,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/doubao-seed-2-1-turbo](https://sinoaihub.com/models/doubao-seed-2-1-turbo)
 
+## Definition
+
+Doubao Seed 2.1 Turbo is a ByteDance model in the Doubao Seed family: 262,144-token context window; 262,144 max output; closed-weight; proprietary license; released 2026-06.
+
+## Key facts
+
+- **Context window:** 262,144 tokens (max output 262,144)
+- **Weights:** closed; proprietary license
+- **API pricing:** $3.0 input / $15.0 output per 1M tokens (CNY)
+- **Released:** 2026-06
+- **Capabilities:** reasoning, vision, tool calling
+
 ## Provider
 
 [bytedance](../companies/bytedance.md)
@@ -130,6 +142,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

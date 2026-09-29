@@ -46,6 +46,17 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/model-studio](https://sinoaihub.com/api/model-studio)
 
+## Definition
+
+Model Studio API is Alibaba Cloud (Qwen)'s official API platform (endpoint https://dashscope-us.aliyuncs.com/compatible-mode/v1).
+
+## Key facts
+
+- **Endpoint:** https://dashscope-us.aliyuncs.com/compatible-mode/v1
+- **Authentication:** API key (DASHSCOPE_API_KEY), created in the Model Studio console; keys are region-bound
+- **Capabilities:** streaming, tool calling, structured output, vision
+- **Rate limits:** Global regions (Frankfurt / US / Tokyo / Hong Kong): 30,000 RPM, 5,000,000 TPM for qwen3.8-max and qwen3.8-flash; Beijing and Singapore limits are dynamic, tiered by monthly spend
+
 ## Provider
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
@@ -117,6 +128,10 @@ https://www.alibabacloud.com/help/en/model-studio/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

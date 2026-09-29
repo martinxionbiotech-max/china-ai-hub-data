@@ -46,6 +46,17 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/deepseek-v3-2](https://sinoaihub.com/models/deepseek-v3-2)
 
+## Definition
+
+DeepSeek-V3.2 is a DeepSeek model in the DeepSeek-V3 family: DeepSeek Sparse Attention (DSA) MoE — 61 layers, hidden size 7168, MoE intermediate 2048, 256 routed experts (8 selected + 1 shared expert), vocab 129,280 (from config.json); open-weight; MIT license; released 2025-12-01; status discontinued.
+
+## Key facts
+
+- **Architecture:** DeepSeek Sparse Attention (DSA) MoE — 61 layers, hidden size 7168, MoE intermediate 2048, 256 routed experts (8 selected + 1 shared expert), vocab 129,280 (from config.json)
+- **Weights:** open; MIT license
+- **Released:** 2025-12-01
+- **Status:** discontinued
+
 ## Provider
 
 [deepseek](../companies/deepseek.md)
@@ -99,6 +110,10 @@ DeepSeek Sparse Attention (DSA) MoE — 61 layers, hidden size 7168, MoE interme
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

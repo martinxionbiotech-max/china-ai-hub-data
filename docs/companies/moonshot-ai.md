@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/moonshot-ai](https://sinoaihub.com/companies/moonshot-ai)
 
+## Definition
+
+Moonshot AI is a Chinese AI company (also 月之暗面, Kimi) developing 4 foundation models and operating the Moonshot AI API.
+
+## Key facts
+
+- **Headquarters:** 13F, Building 1, JD Technology Building, 76 Zhichun Road, Haidian District, Beijing, China
+- **Funding:** No official funding disclosure located as of 2026-09-22.
+- **Foundation models:** Kimi K3, Kimi K2.7 Code, Kimi K2.7 Code Highspeed, Kimi K2.6
+- **Agents:** Kimi Code
+- **API:** Moonshot AI API
+- **Open-source:** 8 projects
+
 ## Aliases
 
 - 月之暗面

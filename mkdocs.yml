@@ -14,8 +14,11 @@ theme:
   - navigation.sections
   - navigation.indexes
   - navigation.top
+  - git-revision-date-localized
 plugins:
 - search
+- git-revision-date-localized:
+    fallback_to_build_date: true
 nav:
 - Home: index.md
 - Models:

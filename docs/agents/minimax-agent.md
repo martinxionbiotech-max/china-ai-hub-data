@@ -46,6 +46,15 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/minimax-agent](https://sinoaihub.com/agents/minimax-agent)
 
+## Key facts
+
+- **Company:** MiniMax
+- **Type:** platform
+- **Underlying models:** MiniMax-M3, MiniMax-M2.7
+- **Capabilities:** tool calling
+- **Open source:** no (proprietary)
+- **Pricing:** Token Plan subscriptions: Plus $22/mo, Max $55/mo, Ultra $132/mo (5-hour rolling + weekly quota); credits 1,000 = $1. Web-app plan/pricing details require sign-in and are not publicly disclosed from fetched sources.
+
 ## Company
 
 [minimax](../companies/minimax.md)
@@ -118,6 +127,10 @@ https://agent.minimax.io/docs/llms.txt
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -46,6 +46,17 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/deepseek](https://sinoaihub.com/api/deepseek)
 
+## Definition
+
+DeepSeek API is DeepSeek's official API platform (endpoint https://api.deepseek.com).
+
+## Key facts
+
+- **Endpoint:** https://api.deepseek.com
+- **Authentication:** Bearer API key (created at platform.deepseek.com/api_keys)
+- **Capabilities:** streaming, tool calling, structured output, vision
+- **Rate limits:** Concurrency: deepseek-flash 2500; deepseek-v4-pro 500 (per official pricing page)
+
 ## Provider
 
 [deepseek](../companies/deepseek.md)
@@ -112,6 +123,10 @@ https://api-docs.deepseek.com/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

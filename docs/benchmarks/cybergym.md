@@ -10,8 +10,8 @@
       "name": "CyberGym",
       "url": "https://sinoaihub.com/benchmarks/cybergym",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/cybergym/",
-      "description": "Cybersecurity agent benchmark focused on vulnerability discovery tasks.",
-      "dateModified": "2026-09-20"
+      "description": "Cybersecurity agent benchmark focused on vulnerability discovery tasks."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/cybergym](https://sinoaihub.com/benchmarks/cybergym)
+
+## Key facts
+
+- **Task type:** Cybersecurity vulnerability analysis (real-world vulnerability discovery)
+- **Dataset size:** Large-scale task suite sourced from ARVO and OSS-Fuzz (~240GB data)
+- **Evaluation method:** Docker-isolated environments; agents analyze vulnerabilities and generate proofs of concept; pre-/post-patch versions
+- **Scoring:** Success rate on vulnerability analysis tasks (PoC generation)
+- **Recorded evaluations:** 4
 
 ## Description
 
@@ -74,6 +82,10 @@ All scores are vendor-reported and not independently verified.
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

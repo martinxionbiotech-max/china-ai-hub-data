@@ -46,6 +46,14 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/doubao-app](https://sinoaihub.com/agents/doubao-app)
 
+## Key facts
+
+- **Company:** ByteDance
+- **Type:** autonomous
+- **Capabilities:** tool calling, computer use
+- **Open source:** no (proprietary)
+- **Pricing:** App Store CN: Basic free; Standard 68 CNY/month (688 CNY/yr); Enhanced 200 CNY/month (2,048 CNY/yr); Professional 500 CNY/month (5,088 CNY/yr). Quota-based; creation packs and cloud-storage expansion sold separately.
+
 ## Company
 
 [bytedance](../companies/bytedance.md)
@@ -110,6 +118,10 @@ https://www.doubao.com/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

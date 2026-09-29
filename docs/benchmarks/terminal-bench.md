@@ -10,8 +10,8 @@
       "name": "Terminal-Bench",
       "url": "https://sinoaihub.com/benchmarks/terminal-bench",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/terminal-bench/",
-      "description": "Terminal-based agent benchmark (shell commands, file operations, package management and other command-line tasks).",
-      "dateModified": "2026-09-20"
+      "description": "Terminal-based agent benchmark (shell commands, file operations, package management and other command-line tasks)."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/terminal-bench](https://sinoaihub.com/benchmarks/terminal-bench)
+
+## Key facts
+
+- **Task type:** Terminal-based agent tasks (shell commands, file operations, compilation, package management, server setup)
+- **Dataset size:** ~100 tasks (beta release)
+- **Evaluation method:** Sandboxed terminal environment (Docker); each task has an English instruction, a test script verifying completion, and a reference (oracle) solution; agents run end-to-end autonomously
+- **Scoring:** Binary pass/fail per task; accuracy = share of tasks completed successfully
+- **Recorded evaluations:** 10
 
 ## Description
 
@@ -85,6 +93,10 @@ Benchmark versions (2.0 / 2.1 / 3.0) are not comparable to each other; the versi
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -46,6 +46,17 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/ark](https://sinoaihub.com/api/ark)
 
+## Definition
+
+Ark API is ByteDance's official API platform (endpoint https://ark.cn-beijing.volces.com/api/v3).
+
+## Key facts
+
+- **Endpoint:** https://ark.cn-beijing.volces.com/api/v3
+- **Authentication:** API key (Bearer token); AK/SK also documented for the chat API
+- **Capabilities:** streaming, tool calling, structured output, vision
+- **Rate limits:** Flagship Doubao models: 500 RPM / 1,000,000 TPM (as of 2026-09-20)
+
 ## Provider
 
 [bytedance](../companies/bytedance.md)
@@ -113,6 +124,10 @@ https://docs.volcengine.com/docs/ark
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

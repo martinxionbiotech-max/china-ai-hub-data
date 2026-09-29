@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/deepseek-v4-1-flash](https://sinoaihub.com/models/deepseek-v4-1-flash)
 
+## Definition
+
+DeepSeek-V4.1-Flash is a DeepSeek model in the DeepSeek-V4.1 family: 552B-parameter MoE; Causal Encoder-Decoder; 8B active parameters on input, 16B on output; 1,048,576-token context window; 393,216 max output; open-weight; MIT license; released 2026-09-10.
+
+## Key facts
+
+- **Architecture:** 552B-parameter MoE; Causal Encoder-Decoder; 8B active parameters on input, 16B on output
+- **Context window:** 1,048,576 tokens (max output 393,216)
+- **Weights:** open; MIT license
+- **API pricing:** $0.15 input / $0.6 output per 1M tokens (USD)
+- **Released:** 2026-09-10
+- **Capabilities:** reasoning, coding, vision, tool calling
+
 ## Provider
 
 [deepseek](../companies/deepseek.md)

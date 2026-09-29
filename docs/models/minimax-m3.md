@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/minimax-m3](https://sinoaihub.com/models/minimax-m3)
 
+## Definition
+
+MiniMax-M3 is a MiniMax model in the MiniMax M-series family: Mixture-of-Experts: ~428B total / ~23B activated; MiniMax Sparse Attention (MSA) with claimed 9x prefill and 15x decode speedup vs M2 at 1M context; 1,048,576-token context window; 131,072 max output; open-weight; MiniMax Community License (custom): free for non-commercial use; commercial use requires prominent attribution 'Built with MiniMax M3' plus written authorization from MiniMax if yearly revenue exceeds US$20M (otherwise a one-time notice to api@minimax.io) license; released 2026-06-01.
+
+## Key facts
+
+- **Architecture:** Mixture-of-Experts: ~428B total / ~23B activated; MiniMax Sparse Attention (MSA) with claimed 9x prefill and 15x decode speedup vs M2 at 1M context
+- **Context window:** 1,048,576 tokens (max output 131,072)
+- **Weights:** open; MiniMax Community License (custom): free for non-commercial use; commercial use requires prominent attribution 'Built with MiniMax M3' plus written authorization from MiniMax if yearly revenue exceeds US$20M (otherwise a one-time notice to api@minimax.io) license
+- **API pricing:** $0.3 input / $1.2 output per 1M tokens (USD)
+- **Released:** 2026-06-01
+- **Capabilities:** reasoning, coding, vision, tool calling
+
 ## Provider
 
 [minimax](../companies/minimax.md)
@@ -157,6 +170,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

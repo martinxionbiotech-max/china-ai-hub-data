@@ -45,6 +45,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/doubao-seed-2-1-pro](https://sinoaihub.com/models/doubao-seed-2-1-pro)
 
+## Definition
+
+Doubao Seed 2.1 Pro is a ByteDance model in the Doubao Seed family: 1,048,576-token context window; 262,144 max output; closed-weight; proprietary license; released 2026-09.
+
+## Key facts
+
+- **Context window:** 1,048,576 tokens (max output 262,144)
+- **Weights:** closed; proprietary license
+- **API pricing:** $6.0 input / $30.0 output per 1M tokens (CNY)
+- **Released:** 2026-09
+- **Capabilities:** reasoning, vision, tool calling
+
 ## Provider
 
 [bytedance](../companies/bytedance.md)

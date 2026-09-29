@@ -10,8 +10,8 @@
       "name": "BrowseComp",
       "url": "https://sinoaihub.com/benchmarks/browsecomp",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/browsecomp/",
-      "description": "Benchmark of browsing and retrieval ability: locating obscure information using web search and browsing.",
-      "dateModified": "2026-09-20"
+      "description": "Benchmark of browsing and retrieval ability: locating obscure information using web search and browsing."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/browsecomp](https://sinoaihub.com/benchmarks/browsecomp)
+
+## Key facts
+
+- **Task type:** Browsing agent benchmark (locate hard-to-find, entangled information on the internet)
+- **Dataset size:** 1,266 problems
+- **Evaluation method:** Short-answer questions with a single correct answer; graders verify the exact answer (encrypted set)
+- **Scoring:** Accuracy (% correct)
+- **Recorded evaluations:** 4
 
 ## Description
 
@@ -74,6 +82,10 @@ All scores are vendor-reported and not independently verified. Evaluation setups
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

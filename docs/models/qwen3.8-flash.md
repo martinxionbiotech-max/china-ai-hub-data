@@ -45,6 +45,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/qwen38-flash](https://sinoaihub.com/models/qwen38-flash)
 
+## Definition
+
+Qwen3.8-Flash is a Alibaba Cloud (Qwen) model in the Qwen3.8 family: 1,048,576-token context window; 131,072 max output; closed-weight; proprietary license; released 2026-08.
+
+## Key facts
+
+- **Context window:** 1,048,576 tokens (max output 131,072)
+- **Weights:** closed; proprietary license
+- **API pricing:** $0.15 input / $0.47 output per 1M tokens (USD)
+- **Released:** 2026-08
+- **Capabilities:** reasoning, vision
+
 ## Provider
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
@@ -125,6 +137,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -46,6 +46,15 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/qoder](https://sinoaihub.com/agents/qoder)
 
+## Key facts
+
+- **Company:** Alibaba Cloud (Qwen)
+- **Type:** platform
+- **Underlying models:** Qwen3.8-Max, Qwen3.8-Flash, DeepSeek-V4-Pro, DeepSeek-V4.1-Flash, GLM-5.3, GLM-5.3-Flash, Kimi K3, MiniMax-M3
+- **Capabilities:** tool calling, browser use, computer use, MCP
+- **Open source:** no (proprietary)
+- **Pricing:** International (qoder.com): Free $0 (one-time 2-week Pro trial, 300 Credits); Pro $20/mo (4,000 Credits); Pro+ $60/mo (6,000); Ultra $200/mo (20,000); Credit Pack $20/1,500 (1-month validity). Enterprise via contact sales. China version (qoder.cn) billing via Alibaba Cloud plans - CN pricing not publicly disclosed.
+
 ## Company
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
@@ -144,6 +153,10 @@ https://docs.qoder.com/qoder/overview.md
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

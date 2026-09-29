@@ -46,6 +46,15 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/kimi-code](https://sinoaihub.com/agents/kimi-code)
 
+## Key facts
+
+- **Company:** Moonshot AI
+- **Type:** coding
+- **Underlying models:** Kimi K3, Kimi K2.7 Code, Kimi K2.7 Code Highspeed
+- **Capabilities:** tool calling, browser use, computer use, MCP
+- **Open source:** yes (MIT)
+- **Pricing:** Included with Kimi membership, Plus and above (Adagio free tier has no coding quota; Plus $15/mo, Pro $31/mo, Max $79/mo, Ultra $159/mo). All clients share one quota with rolling 5-hour window and monthly total. Open Platform API pay-as-you-go: kimi-k3 $3.00/M input / $15.00/M output; kimi-k2.7-code $0.95/$4.00; kimi-k2.7-code-highspeed $1.90/$8.00.
+
 ## Company
 
 [moonshot-ai](../companies/moonshot-ai.md)
@@ -147,6 +156,10 @@ https://moonshotai.github.io/kimi-code/en/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

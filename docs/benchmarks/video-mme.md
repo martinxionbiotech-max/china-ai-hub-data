@@ -10,8 +10,8 @@
       "name": "Video-MME",
       "url": "https://sinoaihub.com/benchmarks/video-mme",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/video-mme/",
-      "description": "Video understanding benchmark spanning various video durations and domains.",
-      "dateModified": "2026-09-20"
+      "description": "Video understanding benchmark spanning various video durations and domains."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/video-mme](https://sinoaihub.com/benchmarks/video-mme)
+
+## Key facts
+
+- **Task type:** Video understanding (multimodal video analysis)
+- **Dataset size:** 900 videos (254 hours total), 2,700 human-annotated question-answer pairs
+- **Evaluation method:** Video QA with subtitles and audio modalities; duration-stratified evaluation
+- **Scoring:** Accuracy (% correct); variants with/without subtitles
+- **Recorded evaluations:** 3
 
 ## Description
 
@@ -73,6 +81,10 @@ All scores are vendor-reported and not independently verified. Subtitle usage di
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

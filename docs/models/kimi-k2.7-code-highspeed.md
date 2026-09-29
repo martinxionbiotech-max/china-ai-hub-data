@@ -45,6 +45,16 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/kimi-k27-code-highspeed](https://sinoaihub.com/models/kimi-k27-code-highspeed)
 
+## Definition
+
+Kimi K2.7 Code Highspeed is a Moonshot AI model in the Kimi K2.7 family: 262,144-token context window.
+
+## Key facts
+
+- **Context window:** 262,144 tokens
+- **API pricing:** $1.9 input / $8.0 output per 1M tokens (USD)
+- **Capabilities:** reasoning, coding
+
 ## Provider
 
 [moonshot-ai](../companies/moonshot-ai.md)
@@ -95,6 +105,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -6,9 +6,9 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://sinoaihub.com/models/glm-5.3-flashx",
+      "@id": "https://sinoaihub.com/models/glm-53-flashx",
       "name": "GLM-5.3-FlashX",
-      "url": "https://sinoaihub.com/models/glm-5.3-flashx",
+      "url": "https://sinoaihub.com/models/glm-53-flashx",
       "mainEntityOfPage": "https://data.sinoaihub.com/models/glm-5.3-flashx/",
       "provider": {
         "@type": "Organization",
@@ -19,7 +19,15 @@
   ]
 }
 </script>
-> Canonical page on the main site: [sinoaihub.com/models/glm-5.3-flashx](https://sinoaihub.com/models/glm-5.3-flashx)
+> Canonical page on the main site: [sinoaihub.com/models/glm-53-flashx](https://sinoaihub.com/models/glm-53-flashx)
+
+## Definition
+
+GLM-5.3-FlashX is a Zhipu AI model in the GLM-5.3-Flash family: closed-weight; proprietary license.
+
+## Key facts
+
+- **Weights:** closed; proprietary license
 
 ## Provider
 
@@ -61,6 +69,10 @@ Yes
 ## Last Verified
 
 2026-09-27
+
+## Source history
+
+No documented source-change events located as of 2026-09-27.
 
 ## Sources
 

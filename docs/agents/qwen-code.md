@@ -46,6 +46,14 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/qwen-code](https://sinoaihub.com/agents/qwen-code)
 
+## Key facts
+
+- **Company:** Alibaba Cloud (Qwen)
+- **Type:** coding
+- **Capabilities:** tool calling, browser use, computer use, MCP
+- **Open source:** yes (Apache-2.0)
+- **Pricing:** CLI free (Apache-2.0); user pays the model provider. Alibaba Cloud Coding Plan (intl) Pro $50/month; Token Plan (CN, Beijing only) Personal Lite ¥39 / Essential ¥79 / Standard ¥139 / Pro ¥499 per month, team seats ¥150-¥1398; or pay-as-you-go Model Studio API keys; BYO keys to other providers.
+
 ## Company
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
@@ -142,6 +150,10 @@ https://qwenlm.github.io/qwen-code-docs/en/users/overview/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

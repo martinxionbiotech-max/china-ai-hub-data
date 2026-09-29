@@ -10,8 +10,8 @@
       "name": "DeepSWE",
       "url": "https://sinoaihub.com/benchmarks/deepswe",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/deepswe/",
-      "description": "Software engineering benchmark built from real-world issues and pull requests.",
-      "dateModified": "2026-09-20"
+      "description": "Software engineering benchmark built from real-world issues and pull requests."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/deepswe](https://sinoaihub.com/benchmarks/deepswe)
+
+## Key facts
+
+- **Task type:** Long-horizon software engineering tasks on active open-source repositories
+- **Dataset size:** 113 tasks across TypeScript, Go, Python, JavaScript and Rust
+- **Evaluation method:** Isolated agent environment with program-based verifiers; the agent's committed patch is applied and graded in a pristine container
+- **Scoring:** Binary reward plus pass fractions per task (reward.json / CTRF test report)
+- **Recorded evaluations:** 7
 
 ## Description
 
@@ -81,6 +89,10 @@ All scores are vendor-reported and not independently verified. Some vendors do n
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -10,8 +10,8 @@
       "name": "HLE",
       "url": "https://sinoaihub.com/benchmarks/hle",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/hle/",
-      "description": "Humanity's Last Exam - a frontier benchmark of expert-level questions across disciplines, often reported with and without tool access.",
-      "dateModified": "2026-09-20"
+      "description": "Humanity's Last Exam - a frontier benchmark of expert-level questions across disciplines, often reported with and without tool access."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/hle](https://sinoaihub.com/benchmarks/hle)
+
+## Key facts
+
+- **Task type:** Expert-level academic Q&A across mathematics, humanities and natural sciences
+- **Dataset size:** 2,500 questions across dozens of subjects
+- **Evaluation method:** Multiple-choice and short-answer questions developed by subject-matter experts; multimodal; suitable for automated grading
+- **Scoring:** Accuracy (% correct); frequently reported with and without tool access
+- **Recorded evaluations:** 7
 
 ## Description
 
@@ -82,6 +90,10 @@ All scores are vendor-reported and not independently verified. With-tools and wi
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

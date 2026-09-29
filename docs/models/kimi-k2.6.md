@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/kimi-k26](https://sinoaihub.com/models/kimi-k26)
 
+## Definition
+
+Kimi K2.6 is a Moonshot AI model in the Kimi K2.6 family: Mixture-of-Experts (MoE): 1T total / 32B activated; 384 routed experts (8 selected + 1 shared); MLA attention, SwiGLU activation; 61 layers (1 dense); MoonViT vision encoder (400M); 262,144-token context window; 98,304 max output; open-weight; Modified MIT license; released 2026-04-20.
+
+## Key facts
+
+- **Architecture:** Mixture-of-Experts (MoE): 1T total / 32B activated; 384 routed experts (8 selected + 1 shared); MLA attention, SwiGLU activation; 61 layers (1 dense); MoonViT vision encoder (400M)
+- **Context window:** 262,144 tokens (max output 98,304)
+- **Weights:** open; Modified MIT license
+- **API pricing:** $0.95 input / $4.0 output per 1M tokens (USD)
+- **Released:** 2026-04-20
+- **Capabilities:** reasoning, vision
+
 ## Provider
 
 [moonshot-ai](../companies/moonshot-ai.md)
@@ -123,6 +136,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

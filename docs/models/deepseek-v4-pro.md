@@ -45,6 +45,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/deepseek-v4-pro](https://sinoaihub.com/models/deepseek-v4-pro)
 
+## Definition
+
+DeepSeek-V4-Pro is a DeepSeek model in the DeepSeek-V4 family: MoE: 1.6T total / 49B active parameters; 1,048,576-token context window; 393,216 max output; open-weight; MIT license; released 2026-04-24 (V4 Preview) / 2026-08-13 (GA); status deprecated.
+
+## Key facts
+
+- **Architecture:** MoE: 1.6T total / 49B active parameters
+- **Context window:** 1,048,576 tokens (max output 393,216)
+- **Weights:** open; MIT license
+- **API pricing:** $0.66 input / $1.98 output per 1M tokens (USD)
+- **Released:** 2026-04-24 (V4 Preview) / 2026-08-13 (GA)
+- **Capabilities:** reasoning, coding, tool calling
+
 ## Provider
 
 [deepseek](../companies/deepseek.md)

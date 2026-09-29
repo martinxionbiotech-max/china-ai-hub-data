@@ -10,8 +10,8 @@
       "name": "SWE-bench",
       "url": "https://sinoaihub.com/benchmarks/swe-bench",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/swe-bench/",
-      "description": "Software engineering benchmark family built from real GitHub issues, with Pro, Verified and Multilingual variants.",
-      "dateModified": "2026-09-20"
+      "description": "Software engineering benchmark family built from real GitHub issues, with Pro, Verified and Multilingual variants."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/swe-bench](https://sinoaihub.com/benchmarks/swe-bench)
+
+## Key facts
+
+- **Task type:** Software engineering (resolve real GitHub issues by generating code patches)
+- **Dataset size:** 2,294 task instances from 12 Python repositories (full set); SWE-bench Verified = 500 human-confirmed solvable problems
+- **Evaluation method:** Docker-containerized harness; the model's patch is applied to the repository and the project's tests are run to verify resolution
+- **Scoring:** Resolved rate (% of instances where all tests pass)
+- **Recorded evaluations:** 6
 
 ## Description
 
@@ -77,6 +85,10 @@ Pro, Verified and Multilingual variants are different test sets and are not comp
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

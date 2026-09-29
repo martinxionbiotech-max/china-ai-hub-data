@@ -59,8 +59,8 @@
           "url": "https://data.sinoaihub.com/pricing/bytedance/",
           "description": "Output price per 1M tokens: $15.0"
         }
-      ],
-      "dateModified": "2026-09-20"
+      ]
+
     },
     {
       "@type": "BreadcrumbList",
@@ -89,6 +89,18 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/bytedance](https://sinoaihub.com/pricing/bytedance)
+
+## Definition
+
+bytedance pricing in CNY, pay as you go.
+
+## Key facts
+
+- **Currency:** CNY
+- **Region:** china
+- **Billing:** pay as you go
+- **Models priced:** 3
+- **Price history:** none documented
 
 ## Currency
 

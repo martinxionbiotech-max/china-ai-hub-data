@@ -46,6 +46,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/glm-52](https://sinoaihub.com/models/glm-52)
 
+## Definition
+
+GLM-5.2 is a Zhipu AI model in the GLM-5 family: 744B total / 40B active (open weights, BF16/FP8); 1,048,576-token context window; 163,840 max output; open-weight; MIT (pure open, no regional limits per official model card) license; released 2026-06-16; status deprecated.
+
+## Key facts
+
+- **Architecture:** 744B total / 40B active (open weights, BF16/FP8)
+- **Context window:** 1,048,576 tokens (max output 163,840)
+- **Weights:** open; MIT (pure open, no regional limits per official model card) license
+- **API pricing:** $1.4 input / $4.4 output per 1M tokens (USD)
+- **Released:** 2026-06-16
+- **Capabilities:** reasoning
+
 ## Provider
 
 [zhipu-ai](../companies/zhipu-ai.md)
@@ -135,6 +148,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

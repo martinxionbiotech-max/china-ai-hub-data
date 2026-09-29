@@ -10,8 +10,8 @@
       "name": "GPQA Diamond",
       "url": "https://sinoaihub.com/benchmarks/gpqa-diamond",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/gpqa-diamond/",
-      "description": "Graduate-level science question-answering benchmark (expert-level questions in biology, physics, chemistry).",
-      "dateModified": "2026-09-20"
+      "description": "Graduate-level science question-answering benchmark (expert-level questions in biology, physics, chemistry)."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/gpqa-diamond](https://sinoaihub.com/benchmarks/gpqa-diamond)
+
+## Key facts
+
+- **Task type:** Graduate-level science Q&A (biology, physics, chemistry)
+- **Dataset size:** 448 multiple-choice questions (full set); Diamond subset = 198 highest-quality questions
+- **Evaluation method:** Multiple-choice questions written and validated by domain experts; closed-book and open-book (web access) settings
+- **Scoring:** Accuracy (% correct); reference: experts 65%, skilled non-experts 34% despite web access (Google-proof)
+- **Recorded evaluations:** 6
 
 ## Description
 
@@ -80,6 +88,10 @@ All scores are vendor-reported and not independently verified. Some vendors publ
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

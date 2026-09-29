@@ -46,6 +46,15 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/deepseek-harness](https://sinoaihub.com/agents/deepseek-harness)
 
+## Key facts
+
+- **Company:** DeepSeek
+- **Type:** framework
+- **Underlying models:** DeepSeek-V4.1-Flash, DeepSeek-V4-Pro
+- **Capabilities:** tool calling, browser use, computer use, MCP
+- **Open source:** yes (MIT)
+- **Pricing:** Software itself free and open source. Model usage billed by the configured provider (DeepSeek API pay-as-you-go: flash $0.15-$0.30/M input cache-miss, $0.60-$1.20/M output, off-peak = half of peak; v4-pro $0.66-$1.32/M input, $1.98-$3.96/M output).
+
 ## Company
 
 [deepseek](../companies/deepseek.md)
@@ -150,6 +159,10 @@ https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

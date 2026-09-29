@@ -59,8 +59,8 @@
           "url": "https://data.sinoaihub.com/pricing/minimax/",
           "description": "Output price per 1M tokens: $2.4"
         }
-      ],
-      "dateModified": "2026-09-20"
+      ]
+
     },
     {
       "@type": "BreadcrumbList",
@@ -89,6 +89,18 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/minimax](https://sinoaihub.com/pricing/minimax)
+
+## Definition
+
+MiniMax API pricing in USD, pay as you go.
+
+## Key facts
+
+- **Currency:** USD
+- **Region:** International
+- **Billing:** pay as you go
+- **Models priced:** 3
+- **Price history:** documented
 
 ## Currency
 

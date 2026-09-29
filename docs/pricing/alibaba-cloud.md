@@ -57,8 +57,8 @@
           "url": "https://data.sinoaihub.com/pricing/alibaba-cloud/",
           "description": "Output price per 1M tokens: $1.6"
         }
-      ],
-      "dateModified": "2026-09-20"
+      ]
+
     },
     {
       "@type": "BreadcrumbList",
@@ -87,6 +87,18 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/alibaba-cloud](https://sinoaihub.com/pricing/alibaba-cloud)
+
+## Definition
+
+alibaba-cloud pricing in USD, pay as you go.
+
+## Key facts
+
+- **Currency:** USD
+- **Region:** Singapore (International)
+- **Billing:** pay as you go
+- **Models priced:** 2
+- **Price history:** none documented
 
 ## Currency
 

@@ -71,8 +71,8 @@
           "url": "https://data.sinoaihub.com/pricing/zhipu-ai/",
           "description": "Output price per 1M tokens: $4.4"
         }
-      ],
-      "dateModified": "2026-09-20"
+      ]
+
     },
     {
       "@type": "BreadcrumbList",
@@ -101,6 +101,18 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/zhipu-ai](https://sinoaihub.com/pricing/zhipu-ai)
+
+## Definition
+
+zhipu-ai pricing in USD, pay as you go.
+
+## Key facts
+
+- **Currency:** USD
+- **Region:** International (Z.ai)
+- **Billing:** pay as you go
+- **Models priced:** 3
+- **Price history:** none documented
 
 ## Currency
 

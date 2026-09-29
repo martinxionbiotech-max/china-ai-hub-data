@@ -46,6 +46,14 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/qwen-agent](https://sinoaihub.com/agents/qwen-agent)
 
+## Key facts
+
+- **Company:** Alibaba Cloud (Qwen)
+- **Type:** framework
+- **Capabilities:** tool calling, browser use, MCP
+- **Open source:** yes (Apache-2.0)
+- **Pricing:** Framework free and open source (Apache-2.0). Model usage billed via DashScope API pay-as-you-go per token, or free with self-hosted open models. No subscription of its own.
+
 ## Company
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
@@ -132,6 +140,10 @@ https://qwenlm.github.io/Qwen-Agent/en/guide/
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

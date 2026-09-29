@@ -45,6 +45,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/deepseek](https://sinoaihub.com/companies/deepseek)
 
+## Definition
+
+DeepSeek is a Chinese AI company (also 深度求索) developing 2 foundation models and operating the DeepSeek API.
+
+## Key facts
+
+- **Headquarters:** Hangzhou, Zhejiang, China (derived from the official footer company name 杭州深度求索人工智能基础技术研究有限公司 and Zhejiang ICP / Hangzhou public-security filings; the official pages fetched do not print a headquarters line verbatim)
+- **Funding:** No external funding officially disclosed as of 2026-09-22 (media-reported rounds are not confirmed on official channels).
+- **Foundation models:** DeepSeek-V4.1-Flash, DeepSeek-V4-Pro
+- **Agents:** DeepSeek Harness
+- **API:** DeepSeek API
+- **Open-source:** 10 projects
+
 ## Aliases
 
 - 深度求索

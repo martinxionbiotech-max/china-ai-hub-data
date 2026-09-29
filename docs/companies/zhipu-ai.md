@@ -48,6 +48,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/zhipu-ai](https://sinoaihub.com/companies/zhipu-ai)
 
+## Definition
+
+Zhipu AI is a Chinese AI company (also 智谱, Z.ai) developing 4 foundation models and operating the Z.ai API.
+
+## Key facts
+
+- **Headquarters:** China platform: Beijing Zhipu Huazhang Technology Co., Ltd. (北京智谱华章科技股份有限公司), Beijing, China; international Z.ai operator: JINGSHENG HENGXING TECHNOLOGY PTE.LTD, 10 Anson Road, #26-03 International Plaza, Singapore 079903
+- **Funding:** No official funding disclosure located as of 2026-09-22 (IPO/funding reports circulate in media but are not confirmed on official channels).
+- **Foundation models:** GLM-5.3, GLM-5.3-Flash, GLM-5.2, GLM-5.3-FlashX
+- **Agents:** AutoGLM, GLM Coding Plan
+- **API:** Z.ai API
+- **Open-source:** 9 projects
+
 ## Aliases
 
 - 智谱

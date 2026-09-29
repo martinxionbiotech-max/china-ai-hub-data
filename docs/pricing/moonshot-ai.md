@@ -73,8 +73,8 @@
           "url": "https://data.sinoaihub.com/pricing/moonshot-ai/",
           "description": "Output price per 1M tokens: $4.0"
         }
-      ],
-      "dateModified": "2026-09-20"
+      ]
+
     },
     {
       "@type": "BreadcrumbList",
@@ -103,6 +103,17 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/moonshot-ai](https://sinoaihub.com/pricing/moonshot-ai)
+
+## Definition
+
+moonshot-ai pricing in USD, pay as you go.
+
+## Key facts
+
+- **Currency:** USD
+- **Billing:** pay as you go
+- **Models priced:** 4
+- **Price history:** none documented
 
 ## Currency
 

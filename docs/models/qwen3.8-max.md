@@ -45,6 +45,19 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/qwen38-max](https://sinoaihub.com/models/qwen38-max)
 
+## Definition
+
+Qwen3.8-Max is a Alibaba Cloud (Qwen) model in the Qwen3.8 family: 2.4T-parameter MoE, 95B activated, 512 experts (10 routed + 1 shared per token), 92 layers, Gated DeltaNet + Gated Attention hybrid; 1,048,576-token context window; 131,072 max output; closed-weight; proprietary license; released 2026-08.
+
+## Key facts
+
+- **Architecture:** 2.4T-parameter MoE, 95B activated, 512 experts (10 routed + 1 shared per token), 92 layers, Gated DeltaNet + Gated Attention hybrid
+- **Context window:** 1,048,576 tokens (max output 131,072)
+- **Weights:** closed; proprietary license
+- **API pricing:** $2.0 input / $6.0 output per 1M tokens (USD)
+- **Released:** 2026-08
+- **Capabilities:** reasoning, coding, vision, tool calling
+
 ## Provider
 
 [alibaba-cloud](../companies/alibaba-cloud.md)

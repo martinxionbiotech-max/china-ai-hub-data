@@ -45,6 +45,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/doubao-seed-evolving](https://sinoaihub.com/models/doubao-seed-evolving)
 
+## Definition
+
+Doubao Seed Evolving is a ByteDance model in the Doubao Seed family: 1,048,576-token context window; 262,144 max output; closed-weight; proprietary license; released 2026-06.
+
+## Key facts
+
+- **Context window:** 1,048,576 tokens (max output 262,144)
+- **Weights:** closed; proprietary license
+- **API pricing:** $6.0 input / $30.0 output per 1M tokens (CNY)
+- **Released:** 2026-06
+- **Capabilities:** reasoning, vision, tool calling
+
 ## Provider
 
 [bytedance](../companies/bytedance.md)
@@ -127,6 +139,10 @@ Yes
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -10,8 +10,8 @@
       "name": "AutomationBench",
       "url": "https://sinoaihub.com/benchmarks/automationbench",
       "mainEntityOfPage": "https://data.sinoaihub.com/benchmarks/automationbench/",
-      "description": "Benchmark of computer-use automation tasks.",
-      "dateModified": "2026-09-20"
+      "description": "Benchmark of computer-use automation tasks."
+
     },
     {
       "@type": "BreadcrumbList",
@@ -40,6 +40,14 @@
 }
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/automationbench](https://sinoaihub.com/benchmarks/automationbench)
+
+## Key facts
+
+- **Task type:** End-to-end business workflow automation in simulated SaaS environments
+- **Dataset size:** 47 simulated SaaS tools across 6 business functions (Sales, Marketing, Operations, Support, Finance, HR)
+- **Evaluation method:** Each task initializes a simulated business environment (CRM, calendar, inbox); the agent must leave the environment in the correct end state
+- **Scoring:** Task success rate (environment end-state verification)
+- **Recorded evaluations:** 5
 
 ## Description
 
@@ -75,6 +83,10 @@ All scores are vendor-reported and not independently verified. Pass@1 vs other s
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

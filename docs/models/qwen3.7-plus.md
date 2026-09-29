@@ -6,9 +6,9 @@
   "@graph": [
     {
       "@type": "SoftwareApplication",
-      "@id": "https://sinoaihub.com/models/qwen3.7-plus",
+      "@id": "https://sinoaihub.com/models/qwen37-plus",
       "name": "Qwen3.7-Plus",
-      "url": "https://sinoaihub.com/models/qwen3.7-plus",
+      "url": "https://sinoaihub.com/models/qwen37-plus",
       "mainEntityOfPage": "https://data.sinoaihub.com/models/qwen3.7-plus/",
       "provider": {
         "@type": "Organization",
@@ -20,7 +20,16 @@
   ]
 }
 </script>
-> Canonical page on the main site: [sinoaihub.com/models/qwen3.7-plus](https://sinoaihub.com/models/qwen3.7-plus)
+> Canonical page on the main site: [sinoaihub.com/models/qwen37-plus](https://sinoaihub.com/models/qwen37-plus)
+
+## Definition
+
+Qwen3.7-Plus is a Alibaba Cloud (Qwen) model in the Qwen3.7 family: closed-weight; proprietary license; released 2026-05-26.
+
+## Key facts
+
+- **Weights:** closed; proprietary license
+- **Released:** 2026-05-26
 
 ## Provider
 
@@ -67,6 +76,10 @@ Yes
 ## Last Verified
 
 2026-09-27
+
+## Source history
+
+No documented source-change events located as of 2026-09-27.
 
 ## Sources
 

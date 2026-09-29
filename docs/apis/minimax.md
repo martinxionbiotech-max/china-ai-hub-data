@@ -46,6 +46,16 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/minimax](https://sinoaihub.com/api/minimax)
 
+## Definition
+
+MiniMax API is MiniMax's official API platform (endpoint https://api.minimax.io/anthropic).
+
+## Key facts
+
+- **Endpoint:** https://api.minimax.io/anthropic
+- **Authentication:** API key (Bearer-style, passed via ANTHROPIC_API_KEY), managed in the platform console
+- **Capabilities:** streaming, tool calling, vision
+
 ## Provider
 
 [minimax](../companies/minimax.md)
@@ -110,6 +120,10 @@ https://platform.minimax.io/docs
 ## Last Verified
 
 2026-09-20
+
+## Source history
+
+No documented source-change events located as of 2026-09-20.
 
 ## Sources
 

@@ -48,6 +48,18 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/alibaba-cloud](https://sinoaihub.com/companies/alibaba-cloud)
 
+## Definition
+
+Alibaba Cloud (Qwen) is a Chinese AI company (also Qwen, 千问) developing 3 foundation models and operating the Model Studio API.
+
+## Key facts
+
+- **Funding:** No separate funding rounds; Alibaba Cloud is a business of Alibaba Group Holding, a public company (NYSE: BABA; HKEX: 9988).
+- **Foundation models:** Qwen3.8-Max, Qwen3.8-Flash, Qwen3.8-2.4T-A95B
+- **Agents:** Qwen Code, Qwen-Agent, Qoder
+- **API:** Model Studio API
+- **Open-source:** 5 projects
+
 ## Aliases
 
 - Qwen
