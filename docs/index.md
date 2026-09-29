@@ -41,12 +41,12 @@ The data hub is **fully migrated** from the main site's structured collections a
 - Agents: 18 tracked
 - APIs: 6 tracked
 - Pricing: 6 providers tracked
-- Benchmarks: 10 tracked
+- Benchmarks: 18 tracked
 
 ### Completeness self-check
 
 Entity counts are verified across four surfaces by `scripts/check-entity-counts.py` in the main-site repo: main-site content files, data-hub records, the main-site sitemap, and the data hub's declared entities (nav + index tables) must all agree. Any drift fails the check. See the main repo's `docs/data-integrity-check.md` for the current comparison table and the mechanics of the check.
 
-- **Eight-element coverage** — all 73 entity pages (21 models + 12 companies + 18 agents + 6 APIs + 6 pricing + 10 benchmarks) carry Definition/Description, Key facts, Sources, and a canonical main-site link; source-history notes are present where applicable.
+- **Eight-element coverage** — all 81 entity pages (21 models + 12 companies + 18 agents + 6 APIs + 6 pricing + 18 benchmarks) carry Definition/Description, Key facts, Sources, and a canonical main-site link; source-history notes are present where applicable.
 - **Canonical links** — every record links to its main-site page; dangling canonicals are fixed as part of migration.
 - **Cross-surface parity** — models, companies, agents, APIs, pricing and benchmarks each show 0 discrepancy between the four surfaces.

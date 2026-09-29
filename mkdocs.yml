@@ -100,13 +100,21 @@ nav:
   - zhipu-ai: pricing/zhipu-ai.md
 - Benchmarks:
   - Overview: benchmarks/index.md
+  - AIME: benchmarks/aime.md
+  - ARC-AGI: benchmarks/arc-agi.md
   - AutomationBench: benchmarks/automationbench.md
   - BrowseComp: benchmarks/browsecomp.md
+  - C-Eval: benchmarks/c-eval.md
+  - CMMLU: benchmarks/cmmlu.md
   - CyberGym: benchmarks/cybergym.md
   - DeepSWE: benchmarks/deepswe.md
+  - GAIA: benchmarks/gaia.md
   - GPQA Diamond: benchmarks/gpqa-diamond.md
   - HLE: benchmarks/hle.md
+  - IFEval: benchmarks/ifeval.md
+  - LiveCodeBench: benchmarks/livecodebench.md
   - MMMU-Pro: benchmarks/mmmu-pro.md
+  - SuperCLUE: benchmarks/superclue.md
   - SWE-bench: benchmarks/swe-bench.md
   - Terminal-Bench: benchmarks/terminal-bench.md
   - Video-MME: benchmarks/video-mme.md
