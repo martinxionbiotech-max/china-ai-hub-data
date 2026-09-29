@@ -50,6 +50,10 @@
 
 [minimax](../companies/minimax.md)
 
+## API Platform
+
+- [minimax](../apis/minimax.md)
+
 ## Description
 
 MiniMax's cloud agent platform at agent.minimax.io ('Minimize Effort, Maximize Intelligence'). Web app with Skills, Schedules, Websites, Research and AI PPT capability areas, persistent memory and evolving skills; includes always-on cloud agents MaxClaw ('Your 24/7 personal assistant', accessible in daily apps incl. Telegram) and MaxHermes (Beta, 'An Agent That Grows With You', self-evolution via unlocked skills). Billed via MiniMax Token Plan.
@@ -60,8 +64,8 @@ platform
 
 ## Underlying Models
 
-- minimax-m3
-- minimax-m2.7
+- [MiniMax-M3](../models/minimax-m3.md)
+- [MiniMax-M2.7](../models/minimax-m2.7.md)
 
 ## Tool Calling
 

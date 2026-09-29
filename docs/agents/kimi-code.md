@@ -50,6 +50,10 @@
 
 [moonshot-ai](../companies/moonshot-ai.md)
 
+## API Platform
+
+- [moonshot](../apis/moonshot.md)
+
 ## Description
 
 Moonshot AI's terminal AI coding agent ('The Starting Point for Next-Gen Agents'), successor to the deprecated kimi-cli. CLI (TypeScript, MIT), VS Code extension and Desktop app; reads/edits code, runs shell commands, searches files, fetches web pages, plans and adjusts actions autonomously. Includes subagents, MCP, Kimi Computer Use, browser control (WebBridge/Browser Extension) and multimodal input (text, images, video). Billed under Kimi membership.
@@ -60,9 +64,9 @@ coding
 
 ## Underlying Models
 
-- kimi-k3
-- kimi-k2.7-code
-- kimi-k2.7-code-highspeed
+- [Kimi K3](../models/kimi-k3.md)
+- [Kimi K2.7 Code](../models/kimi-k2.7-code.md)
+- [Kimi K2.7 Code Highspeed](../models/kimi-k2.7-code-highspeed.md)
 
 ## Tool Calling
 

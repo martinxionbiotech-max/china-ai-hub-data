@@ -50,6 +50,10 @@
 
 [bytedance](../companies/bytedance.md)
 
+## API Platform
+
+- [ark](../apis/ark.md)
+
 ## Description
 
 ByteDance's consumer AI assistant app (豆包) for life and work: Q&A and explanations, study help, office automation (documents, spreadsheets, PPT, data analysis, code), image and video creation (Seedream/Seedance models), voice calls, photo recognition and web search. 'Doubao Work' mode runs an autonomous planning/executing agent that operates a virtual desktop on the local computer to complete complex tasks, with real-time watching, pause and takeover; integrates with Feishu for enterprise context. Mainland-China-focused; overseas users are redirected to Dola.

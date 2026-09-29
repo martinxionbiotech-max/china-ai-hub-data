@@ -50,6 +50,10 @@
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
 
+## API Platform
+
+- [model-studio](../apis/model-studio.md)
+
 ## Description
 
 Alibaba Qwen team's open-source Python framework for developing LLM applications based on Qwen's instruction following, tool usage, planning and memory capabilities (Apache-2.0). Serves as the backend of Qwen Chat (chat.qwen.ai). Ships example applications including BrowserQwen browser assistant, Docker-isolated Code Interpreter, RAG over 1M-token documents, MCP integration and Gradio GUI.

@@ -50,6 +50,10 @@
 
 [deepseek](../companies/deepseek.md)
 
+## API Platform
+
+- [deepseek](../apis/deepseek.md)
+
 ## Description
 
 Open-source agent harness from DeepSeek ('Everything is a Plugin') that powers its coding agent. All capabilities - models, tools, skills, sessions, sandbox, storage, loops, scheduling and UI - are composed from replaceable plugins. Developer preview; ships as CLI (dsh), Web UI, Electron Desktop app, Python SDK and ACP server.
@@ -60,8 +64,8 @@ framework
 
 ## Underlying Models
 
-- deepseek-v4-1-flash
-- deepseek-v4-pro
+- [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md)
+- [DeepSeek-V4-Pro](../models/deepseek-v4-pro.md)
 
 ## Framework
 

@@ -50,6 +50,10 @@
 
 [zhipu-ai](../companies/zhipu-ai.md)
 
+## API Platform
+
+- [zai](../apis/zai.md)
+
 ## Description
 
 Zhipu AI's open-source phone-use autonomous agent (repo Open-AutoGLM). The VLM sees the phone screen, plans a chain-of-thought action sequence, and executes it via ADB (Android), HDC (HarmonyOS NEXT) or WebDriverAgent (iOS). First phone agent with true Phone Use capabilities (2024-10-25); AutoGLM 2.0 commercial product runs agents in cloud virtual phones. Research/learning use.

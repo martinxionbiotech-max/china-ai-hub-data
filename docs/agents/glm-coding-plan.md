@@ -50,6 +50,10 @@
 
 [zhipu-ai](../companies/zhipu-ai.md)
 
+## API Platform
+
+- [zai](../apis/zai.md)
+
 ## Description
 
 Zhipu AI's coding-agent subscription (bigmodel.cn/glm-coding): one plan that powers ZCode (Zhipu's own coding client), AutoClaw (office agent) and 20+ third-party coding tools including Claude Code, Codex, Cursor and OpenClaw. Runs on GLM-5.3 / GLM-5.3-Flash with 1M-token context; credits refresh per 5-hour window and weekly. International counterpart on Z.AI from $18/month.
@@ -60,8 +64,8 @@ coding
 
 ## Underlying Models
 
-- glm-5.3
-- glm-5.3-flash
+- [GLM-5.3](../models/glm-5.3.md)
+- [GLM-5.3-Flash](../models/glm-5.3-flash.md)
 
 ## Tool Calling
 

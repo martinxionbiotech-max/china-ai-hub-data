@@ -50,6 +50,10 @@
 
 [alibaba-cloud](../companies/alibaba-cloud.md)
 
+## API Platform
+
+- [model-studio](../apis/model-studio.md)
+
 ## Description
 
 Commercial agentic coding platform ('Qoder - The Agentic Platform') with desktop app (Qoder IDE / Qoder), CLI (qodercli), JetBrains plugin, Cloud Agents API, and work agents (QoderWork, QoderWake). Agentic loop of understand-plan-execute-verify-iterate with plan- or goal-driven workflows, Expert team multi-agent mode, built-in browser, Memory and Knowledge Base, scheduled automations and enterprise governance. Closed-source; presented under the Alibaba Cloud Model Studio ecosystem.
@@ -60,14 +64,14 @@ platform
 
 ## Underlying Models
 
-- qwen3.8-max
-- qwen3.8-flash
-- deepseek-v4-pro
-- deepseek-v4-1-flash
-- glm-5.3
-- glm-5.3-flash
-- kimi-k3
-- minimax-m3
+- [Qwen3.8-Max](../models/qwen3.8-max.md)
+- [Qwen3.8-Flash](../models/qwen3.8-flash.md)
+- [DeepSeek-V4-Pro](../models/deepseek-v4-pro.md)
+- [DeepSeek-V4.1-Flash](../models/deepseek-v4-1-flash.md)
+- [GLM-5.3](../models/glm-5.3.md)
+- [GLM-5.3-Flash](../models/glm-5.3-flash.md)
+- [Kimi K3](../models/kimi-k3.md)
+- [MiniMax-M3](../models/minimax-m3.md)
 
 ## Framework
 

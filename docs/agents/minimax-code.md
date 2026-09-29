@@ -50,6 +50,10 @@
 
 [minimax](../companies/minimax.md)
 
+## API Platform
+
+- [minimax](../apis/minimax.md)
+
 ## Description
 
 MiniMax's desktop AI agent app and CLI (mcode) for software development, everyday workflows, automation and remote collaboration. Desktop (macOS/Windows) features Coding and Work modes, built-in browser, Agent Team, memory, MCP servers, scheduled tasks, Remote Control from phone and messaging integrations. CLI is a terminal coding agent with interactive TUI, headless mode and ACP server; open source (MIT).
@@ -60,9 +64,9 @@ coding
 
 ## Underlying Models
 
-- minimax-m3
-- minimax-m2.7
-- minimax-m2.7-highspeed
+- [MiniMax-M3](../models/minimax-m3.md)
+- [MiniMax-M2.7](../models/minimax-m2.7.md)
+- [MiniMax-M2.7-Highspeed](../models/minimax-m2.7-highspeed.md)
 
 ## Tool Calling
 
