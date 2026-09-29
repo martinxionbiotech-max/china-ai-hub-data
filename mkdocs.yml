@@ -51,23 +51,37 @@ nav:
 - Companies:
   - Overview: companies/index.md
   - Alibaba Cloud (Qwen): companies/alibaba-cloud.md
+  - Baidu: companies/baidu.md
+  - Butterfly Effect (Manus): companies/butterfly-effect.md
   - ByteDance: companies/bytedance.md
   - DeepSeek: companies/deepseek.md
+  - DeepWisdom (FoundationAgents): companies/deepwisdom.md
+  - Labring (环界云计算): companies/labring.md
+  - LangGenius (Dify): companies/langgenius.md
   - MiniMax: companies/minimax.md
   - Moonshot AI: companies/moonshot-ai.md
+  - Tencent: companies/tencent.md
   - Zhipu AI: companies/zhipu-ai.md
 - Agents:
   - Overview: agents/index.md
   - AutoGLM: agents/autoglm.md
+  - Baidu Qianfan AppBuilder (千帆 AppBuilder): agents/baidu-appbuilder.md
+  - Coze (扣子): agents/coze.md
   - DeepSeek Harness: agents/deepseek-harness.md
+  - Dify: agents/dify.md
   - Doubao: agents/doubao-app.md
+  - FastGPT: agents/fastgpt.md
   - GLM Coding Plan: agents/glm-coding-plan.md
   - Kimi Code: agents/kimi-code.md
+  - Manus: agents/manus.md
+  - MetaGPT: agents/metagpt.md
   - MiniMax Agent: agents/minimax-agent.md
   - MiniMax Code: agents/minimax-code.md
   - Qoder: agents/qoder.md
   - Qwen-Agent: agents/qwen-agent.md
   - Qwen Code: agents/qwen-code.md
+  - Tencent Yuanqi (腾讯元器): agents/yuanqi.md
+  - Trae: agents/trae.md
 - APIs:
   - Overview: apis/index.md
   - ark: apis/ark.md

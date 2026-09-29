@@ -99,6 +99,8 @@ Privately held; funding rounds not officially disclosed as of 2026-09-22.
 ## Agents
 
 - [doubao-app](../agents/doubao-app.md)
+- [coze](../agents/coze.md)
+- [trae](../agents/trae.md)
 
 ## API
 
