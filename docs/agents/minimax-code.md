@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/minimax-code](https://sinoaihub.com/agents/minimax-code)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** MiniMax
@@ -155,6 +160,10 @@ TypeScript terminal coding agent (open-source, verified via GitHub repo descript
 - GitHub repo has no release tags; first release date not publicly disclosed (repo created 2026-06-01)
 - Desktop app is proprietary (repo only hosts issue tracking); external PRs accepted only from collaborators
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -165,9 +174,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax Code GitHub repository | https://github.com/MiniMax-AI/minimax-code | official | 2026-09-20 | high |
-| MiniMax Code docs - welcome | https://agent.minimax.io/docs/code/welcome.md | official | 2026-09-20 | high |
-| MiniMax Code CLI docs - features | https://agent.minimax.io/docs/cli/features.md | official | 2026-09-20 | high |
-| MiniMax Token Plan pricing guide | https://platform.minimax.io/docs/guides/pricing-token-plan | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-minimax-code-1 | MiniMax Code GitHub repository | https://github.com/MiniMax-AI/minimax-code | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-minimax-code-2 | MiniMax Code docs - welcome | https://agent.minimax.io/docs/code/welcome.md | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-minimax-code-3 | MiniMax Code CLI docs - features | https://agent.minimax.io/docs/cli/features.md | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-minimax-code-4 | MiniMax Token Plan pricing guide | https://platform.minimax.io/docs/guides/pricing-token-plan | Official documentation | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/deepseek](https://sinoaihub.com/api/deepseek)
 
+## Type
+
+api
+
+
 ## Definition
 
 DeepSeek API is DeepSeek's official API platform (endpoint https://api.deepseek.com).
@@ -120,6 +125,18 @@ https://api-docs.deepseek.com/
 
 - Official docs publish concurrency limits only; no regional deployment breakdown as of 2026-09-27
 
+## Verification Status
+
+verified
+
+## API Changes
+
+| date | change | source | verification_date |
+|---|---|---|---|
+| 2026-08-13 | DeepSeek-V4-Pro GA (0813) shipped on the API | https://api-docs.deepseek.com/updates | 2026-09-29 |
+| 2026-08-16 | Peak/off-peak pricing introduced (peak = 2x off-peak) | https://api-docs.deepseek.com/updates | 2026-09-29 |
+| 2026-09-10 | V4-Pro deprecation announced then reversed the same day; V4.1-Flash released | https://api-docs.deepseek.com/updates | 2026-09-29 |
+
 ## Last Verified
 
 2026-09-20
@@ -130,7 +147,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| DeepSeek API docs | https://api-docs.deepseek.com/ | official | 2026-09-20 | high |
-| DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-apis-deepseek-1 | DeepSeek API docs | https://api-docs.deepseek.com/ | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-deepseek-2 | DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |

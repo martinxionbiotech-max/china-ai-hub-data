@@ -41,6 +41,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/hle](https://sinoaihub.com/benchmarks/hle)
 
+## Type
+
+benchmark
+
+
 ## Key facts
 
 - **Task type:** Expert-level academic Q&A across mathematics, humanities and natural sciences
@@ -87,6 +92,14 @@ Humanity's Last Exam - a frontier benchmark of expert-level questions across dis
 
 All scores are vendor-reported and not independently verified. With-tools and without-tools results are not directly comparable; the setting is recorded per score.
 
+## Verification Status
+
+verified
+
+## Benchmark Changes
+
+No documented benchmark changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -97,8 +110,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high |
-| Qwen3.8-2.4T-A95B model card | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | official | 2026-09-20 | high |
-| Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-benchmarks-hle-1 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | — |
+| src-benchmarks-hle-2 | Qwen3.8-2.4T-A95B model card | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | Model card | — | 2026-09-20 | high | — |
+| src-benchmarks-hle-3 | Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | Official documentation | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/kimi-code](https://sinoaihub.com/agents/kimi-code)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** Moonshot AI
@@ -153,6 +158,10 @@ https://moonshotai.github.io/kimi-code/en/
 - Windows install requires Git for Windows
 - API keys shown only once (max 5); quota shared across devices; devices inactive >30 days unbound
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -163,9 +172,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi Code GitHub repository | https://github.com/MoonshotAI/kimi-code | official | 2026-09-20 | high |
-| Kimi Code CLI documentation | https://moonshotai.github.io/kimi-code/en/ | official | 2026-09-20 | high |
-| Kimi Code product docs | https://www.kimi.com/code/docs/en/ | official | 2026-09-20 | high |
-| Kimi membership pricing | https://www.kimi.ai/membership/pricing | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-kimi-code-1 | Kimi Code GitHub repository | https://github.com/MoonshotAI/kimi-code | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-kimi-code-2 | Kimi Code CLI documentation | https://moonshotai.github.io/kimi-code/en/ | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-kimi-code-3 | Kimi Code product docs | https://www.kimi.com/code/docs/en/ | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-kimi-code-4 | Kimi membership pricing | https://www.kimi.ai/membership/pricing | Official documentation | — | 2026-09-20 | high | — |

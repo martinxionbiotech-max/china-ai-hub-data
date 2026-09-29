@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/doubao-seed-2-1-pro](https://sinoaihub.com/models/doubao-seed-2-1-pro)
 
+## Type
+
+model
+
+
 ## Definition
 
 Doubao Seed 2.1 Pro is a ByteDance model in the Doubao Seed family: 1,048,576-token context window; 262,144 max output; closed-weight; proprietary license; released 2026-09.
@@ -160,15 +165,30 @@ Yes
 - No open-weight release; no self-hosting
 - Exact release day for the 260915 version not officially stated (month 2026-09 only)
 
+## Verification Status
+
+partially_verified
+
+## Model Versions
+
+| version | date | source | verification_date |
+|---|---|---|---|
+| 260628 | — | https://docs.volcengine.com/docs/ark/model-list?lang=zh | 2026-09-29 |
+| 260915 | 2026-09 | https://docs.volcengine.com/docs/ark/model-release-announcement | 2026-09-29 |
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence | published_date |
-|---|---|---|---|---|---|
-| Ark official model list | https://docs.volcengine.com/docs/ark/model-list?lang=zh | official | 2026-09-20 | high | — |
-| Ark official model pricing | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh | official | 2026-09-20 | high | — |
-| Ark model release announcements | https://docs.volcengine.com/docs/ark/model-release-announcement | official | 2026-09-20 | high | — |
-| ByteDance Seed official blog — Seed 2.1 release | https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity | official | 2026-09-20 | high | 2026-06-23 |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-doubao-seed-2-1-pro-1 | Ark official model list | https://docs.volcengine.com/docs/ark/model-list?lang=zh | Official documentation | — | 2026-09-20 | high | — |
+| src-models-doubao-seed-2-1-pro-2 | Ark official model pricing | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh | Official documentation | — | 2026-09-20 | high | — |
+| src-models-doubao-seed-2-1-pro-3 | Ark model release announcements | https://docs.volcengine.com/docs/ark/model-release-announcement | Official documentation | — | 2026-09-20 | high | — |
+| src-models-doubao-seed-2-1-pro-4 | ByteDance Seed official blog — Seed 2.1 release | https://seed.bytedance.com/en/blog/seed2-1-officially-released-advancing-ai-productivity | Official | 2026-06-23 | 2026-09-20 | high | — |

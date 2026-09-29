@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/glm-53](https://sinoaihub.com/models/glm-53)
 
+## Type
+
+model
+
+
 ## Definition
 
 GLM-5.3 is a Zhipu AI model in the GLM-5 family: 744B total / 40B active (open-weight FP8); same base model as GLM-5.2 with post-training gains; 1,048,576-token context window; 131,072 max output; open-weight; Apache-2.0 (per GitHub repo metadata; README has no separate weights-license section - verify per-model HF cards before reuse) license; released 2026-08-18.
@@ -152,6 +157,14 @@ Yes
 - Z.ai Code Bench is a private in-house benchmark
 - Benchmarks vendor-reported; not independently verified
 
+## Verification Status
+
+verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -162,8 +175,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | official | 2026-09-20 | high |
-| Z.ai pricing | https://docs.z.ai/guides/overview/pricing | official | 2026-09-20 | high |
-| GLM-5 GitHub repository | https://github.com/zai-org/GLM-5 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-glm-5.3-1 | Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | Official documentation | — | 2026-09-20 | high | — |
+| src-models-glm-5.3-2 | Z.ai pricing | https://docs.z.ai/guides/overview/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-models-glm-5.3-3 | GLM-5 GitHub repository | https://github.com/zai-org/GLM-5 | Official documentation | — | 2026-09-20 | high | — |

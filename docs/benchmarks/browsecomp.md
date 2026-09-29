@@ -41,6 +41,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/browsecomp](https://sinoaihub.com/benchmarks/browsecomp)
 
+## Type
+
+benchmark
+
+
 ## Key facts
 
 - **Task type:** Browsing agent benchmark (locate hard-to-find, entangled information on the internet)
@@ -79,6 +84,14 @@ Benchmark of browsing and retrieval ability: locating obscure information using 
 
 All scores are vendor-reported and not independently verified. Evaluation setups (context management, agent scaffolding) differ between vendors.
 
+## Verification Status
+
+verified
+
+## Benchmark Changes
+
+No documented benchmark changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -89,7 +102,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | official | 2026-09-20 | high |
-| MiniMax official M3 model page | https://www.minimax.cn/models/text/m3 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-benchmarks-browsecomp-1 | Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | Official documentation | — | 2026-09-20 | high | — |
+| src-benchmarks-browsecomp-2 | MiniMax official M3 model page | https://www.minimax.cn/models/text/m3 | Official documentation | — | 2026-09-20 | high | — |

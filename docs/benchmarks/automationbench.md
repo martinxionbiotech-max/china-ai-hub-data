@@ -41,6 +41,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/automationbench](https://sinoaihub.com/benchmarks/automationbench)
 
+## Type
+
+benchmark
+
+
 ## Key facts
 
 - **Task type:** End-to-end business workflow automation in simulated SaaS environments
@@ -80,6 +85,14 @@ Benchmark of computer-use automation tasks.
 
 All scores are vendor-reported and not independently verified. Pass@1 vs other sampling settings differ between vendors.
 
+## Verification Status
+
+verified
+
+## Benchmark Changes
+
+No documented benchmark changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -90,7 +103,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high |
-| Z.ai docs — GLM-5.3-Flash model page | https://docs.z.ai/guides/vlm/glm-5.3-flash | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-benchmarks-automationbench-1 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | — |
+| src-benchmarks-automationbench-2 | Z.ai docs — GLM-5.3-Flash model page | https://docs.z.ai/guides/vlm/glm-5.3-flash | Official documentation | — | 2026-09-20 | high | — |

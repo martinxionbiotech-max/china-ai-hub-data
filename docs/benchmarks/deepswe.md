@@ -41,6 +41,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/deepswe](https://sinoaihub.com/benchmarks/deepswe)
 
+## Type
+
+benchmark
+
+
 ## Key facts
 
 - **Task type:** Long-horizon software engineering tasks on active open-source repositories
@@ -86,6 +91,14 @@ Software engineering benchmark built from real-world issues and pull requests.
 
 All scores are vendor-reported and not independently verified. Some vendors do not state the benchmark version; unversioned scores should not be compared with versioned ones.
 
+## Verification Status
+
+verified
+
+## Benchmark Changes
+
+No documented benchmark changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -96,8 +109,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high |
-| Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | official | 2026-09-20 | high |
-| Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-benchmarks-deepswe-1 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | — |
+| src-benchmarks-deepswe-2 | Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | Official documentation | — | 2026-09-20 | high | — |
+| src-benchmarks-deepswe-3 | Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | Official documentation | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/moonshot](https://sinoaihub.com/api/moonshot)
 
+## Type
+
+api
+
+
 ## Definition
 
 Moonshot AI API is Moonshot AI's official API platform (endpoint https://api.moonshot.ai/v1).
@@ -117,6 +122,14 @@ https://platform.kimi.ai/docs
 
 - Rate limits and regions are published behind a JS-rendered docs page; not extractable into structured data as of 2026-09-27
 
+## Verification Status
+
+verified
+
+## API Changes
+
+No documented API changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -127,7 +140,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi API overview | https://platform.kimi.ai/docs/api/overview.md | official | 2026-09-20 | high |
-| Kimi API — Chat Completions spec | https://platform.kimi.ai/docs/api/chat.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-apis-moonshot-1 | Kimi API overview | https://platform.kimi.ai/docs/api/overview.md | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-moonshot-2 | Kimi API — Chat Completions spec | https://platform.kimi.ai/docs/api/chat.md | Official documentation | — | 2026-09-20 | high | — |

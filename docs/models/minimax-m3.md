@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/minimax-m3](https://sinoaihub.com/models/minimax-m3)
 
+## Type
+
+model
+
+
 ## Definition
 
 MiniMax-M3 is a MiniMax model in the MiniMax M-series family: Mixture-of-Experts: ~428B total / ~23B activated; MiniMax Sparse Attention (MSA) with claimed 9x prefill and 15x decode speedup vs M2 at 1M context; 1,048,576-token context window; 131,072 max output; open-weight; MiniMax Community License (custom): free for non-commercial use; commercial use requires prominent attribution 'Built with MiniMax M3' plus written authorization from MiniMax if yearly revenue exceeds US$20M (otherwise a one-time notice to api@minimax.io) license; released 2026-06-01.
@@ -167,6 +172,14 @@ Yes
 - Thinking is disabled by default (thinking=adaptive enables it)
 - Benchmarks vendor-reported; not independently verified
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -177,9 +190,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence | published_date |
-|---|---|---|---|---|---|
-| MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | official | 2026-09-20 | high | — |
-| MiniMax official M3 model page | https://www.minimax.cn/models/text/m3 | official | 2026-09-20 | high | — |
-| MiniMax M3 official blog post | https://www.minimax.cn/blog/minimax-m3 | official | 2026-09-20 | high | 2026-06-01 |
-| Hugging Face model card — MiniMax-M3 | https://huggingface.co/MiniMaxAI/MiniMax-M3 | official | 2026-09-20 | high | — |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-minimax-m3-1 | MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | Official documentation | — | 2026-09-20 | high | — |
+| src-models-minimax-m3-2 | MiniMax official M3 model page | https://www.minimax.cn/models/text/m3 | Official documentation | — | 2026-09-20 | high | — |
+| src-models-minimax-m3-3 | MiniMax M3 official blog post | https://www.minimax.cn/blog/minimax-m3 | Official | 2026-06-01 | 2026-09-20 | high | — |
+| src-models-minimax-m3-4 | Hugging Face model card — MiniMax-M3 | https://huggingface.co/MiniMaxAI/MiniMax-M3 | Model card | — | 2026-09-20 | high | — |

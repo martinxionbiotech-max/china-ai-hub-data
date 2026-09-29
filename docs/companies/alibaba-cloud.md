@@ -48,6 +48,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/alibaba-cloud](https://sinoaihub.com/companies/alibaba-cloud)
 
+## Type
+
+company
+
+
 ## Definition
 
 Alibaba Cloud (Qwen) is a Chinese AI company (also Qwen, 千问) developing 3 foundation models and operating the Model Studio API.
@@ -132,14 +137,18 @@ https://www.alibabacloud.com/help/en/model-studio/
 
 https://qwen.ai/
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Alibaba Cloud Model Studio — text generation model list | https://www.alibabacloud.com/help/en/model-studio/text-generation-model | official | 2026-09-20 | high |
-| Qwen3.8 open-model repository README | https://github.com/QwenLM/Qwen3.8 | official | 2026-09-20 | high |
-| Hugging Face model card — Qwen3.8-2.4T-A95B | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-companies-alibaba-cloud-1 | Alibaba Cloud Model Studio — text generation model list | https://www.alibabacloud.com/help/en/model-studio/text-generation-model | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-alibaba-cloud-2 | Qwen3.8 open-model repository README | https://github.com/QwenLM/Qwen3.8 | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-alibaba-cloud-3 | Hugging Face model card — Qwen3.8-2.4T-A95B | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | Model card | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/minimax-m27](https://sinoaihub.com/models/minimax-m27)
 
+## Type
+
+model
+
+
 ## Definition
 
 MiniMax-M2.7 is a MiniMax model in the MiniMax M2.7 family: 204,800-token context window; open-weight; Custom NON-COMMERCIAL license (MIT-style terms for non-commercial use only; any commercial use requires prior written authorization from MiniMax at api@minimax.io; attribution 'Built with MiniMax M2.7' required) license; released 2026-03-18.
@@ -134,6 +139,14 @@ Yes
 - Must echo full assistant content (thinking blocks) back in multi-turn history
 - Benchmarks vendor-reported; not independently verified
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -144,8 +157,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | official | 2026-09-20 | high |
-| MiniMax official release notes | https://platform.minimaxi.com/docs/release-notes/models.md | official | 2026-09-20 | high |
-| Hugging Face model card — MiniMax-M2.7 | https://huggingface.co/MiniMaxAI/MiniMax-M2.7 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-minimax-m2.7-1 | MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | Official documentation | — | 2026-09-20 | high | — |
+| src-models-minimax-m2.7-2 | MiniMax official release notes | https://platform.minimaxi.com/docs/release-notes/models.md | Official documentation | — | 2026-09-20 | high | — |
+| src-models-minimax-m2.7-3 | Hugging Face model card — MiniMax-M2.7 | https://huggingface.co/MiniMaxAI/MiniMax-M2.7 | Model card | — | 2026-09-20 | high | — |

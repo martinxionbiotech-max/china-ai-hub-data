@@ -104,6 +104,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/moonshot-ai](https://sinoaihub.com/pricing/moonshot-ai)
 
+## Type
+
+pricing
+
+
 ## Definition
 
 moonshot-ai pricing in USD, pay as you go.
@@ -136,12 +141,16 @@ pay_as_you_go
 
 No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi API — pricing (chat) | https://platform.kimi.ai/docs/pricing/chat | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-pricing-moonshot-ai-1 | Kimi API — pricing (chat) | https://platform.kimi.ai/docs/pricing/chat | Official documentation | — | 2026-09-20 | high | — |

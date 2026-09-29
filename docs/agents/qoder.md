@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/qoder](https://sinoaihub.com/agents/qoder)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** Alibaba Cloud (Qwen)
@@ -150,6 +155,10 @@ https://docs.qoder.com/qoder/overview.md
 
 - No public GitHub repository located as of 2026-09-27 (checked XGenerationLab and Qoder-AI orgs)
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -160,9 +169,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Qoder official site | https://qoder.com/ | official | 2026-09-20 | high |
-| Qoder docs - overview | https://docs.qoder.com/qoder/overview.md | official | 2026-09-20 | high |
-| Qoder pricing | https://qoder.com/pricing | official | 2026-09-20 | high |
-| Alibaba Cloud Model Studio Qoder integration guide | https://www.alibabacloud.com/help/en/model-studio/qoder-agent | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-qoder-1 | Qoder official site | https://qoder.com/ | Official | — | 2026-09-20 | high | — |
+| src-agents-qoder-2 | Qoder docs - overview | https://docs.qoder.com/qoder/overview.md | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-qoder-3 | Qoder pricing | https://qoder.com/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-qoder-4 | Alibaba Cloud Model Studio Qoder integration guide | https://www.alibabacloud.com/help/en/model-studio/qoder-agent | Official documentation | — | 2026-09-20 | high | — |

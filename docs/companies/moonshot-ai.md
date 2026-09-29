@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/moonshot-ai](https://sinoaihub.com/companies/moonshot-ai)
 
+## Type
+
+company
+
+
 ## Definition
 
 Moonshot AI is a Chinese AI company (also 月之暗面, Kimi) developing 4 foundation models and operating the Moonshot AI API.
@@ -134,15 +139,19 @@ https://platform.kimi.ai/docs
 
 https://www.moonshot.ai/
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Moonshot AI official site (EN) | https://www.moonshot.ai/ | official | 2026-09-20 | high |
-| Moonshot AI company profile (CN) | https://www.moonshot.cn/about | official | 2026-09-20 | high |
-| Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | official | 2026-09-20 | high |
-| Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-companies-moonshot-ai-1 | Moonshot AI official site (EN) | https://www.moonshot.ai/ | Official | — | 2026-09-20 | high | — |
+| src-companies-moonshot-ai-2 | Moonshot AI company profile (CN) | https://www.moonshot.cn/about | Official | — | 2026-09-20 | high | — |
+| src-companies-moonshot-ai-3 | Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-moonshot-ai-4 | Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | Official documentation | — | 2026-09-20 | high | — |

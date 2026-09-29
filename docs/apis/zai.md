@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/zai](https://sinoaihub.com/api/zai)
 
+## Type
+
+api
+
+
 ## Definition
 
 Z.ai API is Zhipu AI's official API platform (endpoint https://api.z.ai/api/paas/v4/chat/completions).
@@ -117,6 +122,14 @@ https://docs.z.ai/
 
 - Rate limit documentation page not located (docs.z.ai paths 404) as of 2026-09-27
 
+## Verification Status
+
+verified
+
+## API Changes
+
+No documented API changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -127,7 +140,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Z.ai docs — Quick Start | https://docs.z.ai/ | official | 2026-09-20 | high |
-| Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-apis-zai-1 | Z.ai docs — Quick Start | https://docs.z.ai/ | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-zai-2 | Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | Official documentation | — | 2026-09-20 | high | — |

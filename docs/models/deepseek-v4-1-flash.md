@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/deepseek-v4-1-flash](https://sinoaihub.com/models/deepseek-v4-1-flash)
 
+## Type
+
+model
+
+
 ## Definition
 
 DeepSeek-V4.1-Flash is a DeepSeek model in the DeepSeek-V4.1 family: 552B-parameter MoE; Causal Encoder-Decoder; 8B active parameters on input, 16B on output; 1,048,576-token context window; 393,216 max output; open-weight; MIT license; released 2026-09-10.
@@ -172,15 +177,23 @@ Yes
 - HLE score is on the pure-text subset (39.1 on that subset; 36.8 full)
 - Legacy API names deepseek-v4-flash and deepseek-v4-flash-vision-exp route to V4.1-Flash
 
+## Verification Status
+
+verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence | published_date |
-|---|---|---|---|---|---|
-| DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | official | 2026-09-20 | high | — |
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high | — |
-| DeepSeek-V4.1-Flash release announcement | https://www.deepseek.com/en/news/deepseek-v4-1-flash/ | official | 2026-09-20 | high | 2026-09-10 |
-| Hugging Face model card — DeepSeek-V4.1-Flash | https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash | official | 2026-09-20 | high | — |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-deepseek-v4-1-flash-1 | DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-models-deepseek-v4-1-flash-2 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | — |
+| src-models-deepseek-v4-1-flash-3 | DeepSeek-V4.1-Flash release announcement | https://www.deepseek.com/en/news/deepseek-v4-1-flash/ | Official | 2026-09-10 | 2026-09-20 | high | — |
+| src-models-deepseek-v4-1-flash-4 | Hugging Face model card — DeepSeek-V4.1-Flash | https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash | Model card | — | 2026-09-20 | high | — |

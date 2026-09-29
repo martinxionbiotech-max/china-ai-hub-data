@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/deepseek-v4-pro](https://sinoaihub.com/models/deepseek-v4-pro)
 
+## Type
+
+model
+
+
 ## Definition
 
 DeepSeek-V4-Pro is a DeepSeek model in the DeepSeek-V4 family: MoE: 1.6T total / 49B active parameters; 1,048,576-token context window; 393,216 max output; open-weight; MIT license; released 2026-04-24 (V4 Preview) / 2026-08-13 (GA); status deprecated.
@@ -181,15 +186,30 @@ Yes
 - Open-weight HF checkpoint last modified 2026-06-22; unclear whether it matches the 0813 GA checkpoint
 - Pricing is peak/off-peak: listed prices are off-peak; peak is 2x
 
+## Verification Status
+
+verified
+
+## Model Versions
+
+| version | date | source | verification_date |
+|---|---|---|---|
+| V4 Preview | 2026-04-24 | https://www.deepseek.com/en/news/v4-preview/ | 2026-09-29 |
+| 0813 (GA) | 2026-08-13 | https://api-docs.deepseek.com/updates | 2026-09-29 |
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence | published_date |
-|---|---|---|---|---|---|
-| DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | official | 2026-09-20 | high | — |
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high | — |
-| DeepSeek-V4 Preview release | https://www.deepseek.com/en/news/v4-preview/ | official | 2026-09-20 | high | 2026-04-24 |
-| Hugging Face model card — DeepSeek-V4-Pro | https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro | official | 2026-09-20 | high | — |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-deepseek-v4-pro-1 | DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-models-deepseek-v4-pro-2 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | Conflicts with the same-day deprecation announcement (V4-Pro → V4.1-Flash routing) |
+| src-models-deepseek-v4-pro-3 | DeepSeek-V4 Preview release | https://www.deepseek.com/en/news/v4-preview/ | Official | 2026-04-24 | 2026-09-20 | high | — |
+| src-models-deepseek-v4-pro-4 | Hugging Face model card — DeepSeek-V4-Pro | https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro | Model card | — | 2026-09-20 | high | — |

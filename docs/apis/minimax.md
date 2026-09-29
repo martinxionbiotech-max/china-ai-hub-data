@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/minimax](https://sinoaihub.com/api/minimax)
 
+## Type
+
+api
+
+
 ## Definition
 
 MiniMax API is MiniMax's official API platform (endpoint https://api.minimax.io/anthropic).
@@ -117,6 +122,14 @@ https://platform.minimax.io/docs
 
 - Rate limits published on a JS-rendered docs page; structured_output not publicly documented as of 2026-09-27
 
+## Verification Status
+
+partially_verified
+
+## API Changes
+
+No documented API changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -127,7 +140,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax API — Anthropic-compatible API (intl) | https://platform.minimax.io/docs/api-reference/text-anthropic-api.md | official | 2026-09-20 | high |
-| MiniMax API platform — pay-as-you-go pricing (intl) | https://platform.minimax.io/docs/guides/pricing-paygo.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-apis-minimax-1 | MiniMax API — Anthropic-compatible API (intl) | https://platform.minimax.io/docs/api-reference/text-anthropic-api.md | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-minimax-2 | MiniMax API platform — pay-as-you-go pricing (intl) | https://platform.minimax.io/docs/guides/pricing-paygo.md | Official documentation | — | 2026-09-20 | high | — |

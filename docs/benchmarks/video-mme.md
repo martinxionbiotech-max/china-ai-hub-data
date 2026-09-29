@@ -41,6 +41,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/video-mme](https://sinoaihub.com/benchmarks/video-mme)
 
+## Type
+
+benchmark
+
+
 ## Key facts
 
 - **Task type:** Video understanding (multimodal video analysis)
@@ -78,6 +83,14 @@ Video understanding benchmark spanning various video durations and domains.
 
 All scores are vendor-reported and not independently verified. Subtitle usage differs between evaluations.
 
+## Verification Status
+
+verified
+
+## Benchmark Changes
+
+No documented benchmark changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -88,7 +101,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | official | 2026-09-20 | high |
-| Kimi K2.5 GitHub README | https://github.com/MoonshotAI/Kimi-K2.5 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-benchmarks-video-mme-1 | Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | Official documentation | — | 2026-09-20 | high | — |
+| src-benchmarks-video-mme-2 | Kimi K2.5 GitHub README | https://github.com/MoonshotAI/Kimi-K2.5 | Official documentation | — | 2026-09-20 | high | — |

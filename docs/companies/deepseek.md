@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/deepseek](https://sinoaihub.com/companies/deepseek)
 
+## Type
+
+company
+
+
 ## Definition
 
 DeepSeek is a Chinese AI company (also 深度求索) developing 2 foundation models and operating the DeepSeek API.
@@ -134,15 +139,19 @@ https://api-docs.deepseek.com/
 
 https://www.deepseek.com/
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | official | 2026-09-20 | high |
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high |
-| DeepSeek official site (EN) | https://www.deepseek.com/en/ | official | 2026-09-20 | high |
-| DeepSeek Transparency Center | https://www.deepseek.com/en/transparency/ | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-companies-deepseek-1 | DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-deepseek-2 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-deepseek-3 | DeepSeek official site (EN) | https://www.deepseek.com/en/ | Official | — | 2026-09-20 | high | — |
+| src-companies-deepseek-4 | DeepSeek Transparency Center | https://www.deepseek.com/en/transparency/ | Official | — | 2026-09-20 | high | — |

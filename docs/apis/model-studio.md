@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/model-studio](https://sinoaihub.com/api/model-studio)
 
+## Type
+
+api
+
+
 ## Definition
 
 Model Studio API is Alibaba Cloud (Qwen)'s official API platform (endpoint https://dashscope-us.aliyuncs.com/compatible-mode/v1).
@@ -125,6 +130,14 @@ Global regions (Frankfurt / US / Tokyo / Hong Kong): 30,000 RPM, 5,000,000 TPM f
 
 https://www.alibabacloud.com/help/en/model-studio/
 
+## Verification Status
+
+verified
+
+## API Changes
+
+No documented API changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -135,8 +148,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Model Studio — OpenAI-compatible API | https://www.alibabacloud.com/help/en/model-studio/compatibility-of-openai-with-dashscope | official | 2026-09-20 | high |
-| Model Studio — qwen3.8-max model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-max | official | 2026-09-20 | high |
-| Model Studio — qwen3.8-flash model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-flash | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-apis-model-studio-1 | Model Studio — OpenAI-compatible API | https://www.alibabacloud.com/help/en/model-studio/compatibility-of-openai-with-dashscope | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-model-studio-2 | Model Studio — qwen3.8-max model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-max | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-model-studio-3 | Model Studio — qwen3.8-flash model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-flash | Official documentation | — | 2026-09-20 | high | — |

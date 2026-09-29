@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/doubao-app](https://sinoaihub.com/agents/doubao-app)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** ByteDance
@@ -115,6 +120,10 @@ https://www.doubao.com/
 
 - No public GitHub repository located as of 2026-09-27 (checked ByteDance org)
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -125,10 +134,10 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Doubao official website | https://www.doubao.com/ | official | 2026-09-20 | high |
-| Doubao desktop download & features page | https://www.doubao.com/download/desktop | official | 2026-09-20 | high |
-| Apple App Store CN listing (Doubao) | https://itunes.apple.com/search?term=%E8%B1%86%E5%8C%85&country=cn&entity=software | official | 2026-09-20 | high |
-| Doubao paid-service agreement | https://www.doubao.com/legal/ey01 | official | 2026-09-20 | high |
-| Volcengine Doubao LLM platform page | https://www.volcengine.com/product/doubao | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-doubao-app-1 | Doubao official website | https://www.doubao.com/ | Official | — | 2026-09-20 | high | — |
+| src-agents-doubao-app-2 | Doubao desktop download & features page | https://www.doubao.com/download/desktop | Official | — | 2026-09-20 | high | — |
+| src-agents-doubao-app-3 | Apple App Store CN listing (Doubao) | https://itunes.apple.com/search?term=%E8%B1%86%E5%8C%85&country=cn&entity=software | Official | — | 2026-09-20 | high | — |
+| src-agents-doubao-app-4 | Doubao paid-service agreement | https://www.doubao.com/legal/ey01 | Official | — | 2026-09-20 | high | — |
+| src-agents-doubao-app-5 | Volcengine Doubao LLM platform page | https://www.volcengine.com/product/doubao | Official | — | 2026-09-20 | high | — |

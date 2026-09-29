@@ -76,6 +76,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/deepseek](https://sinoaihub.com/pricing/deepseek)
 
+## Type
+
+pricing
+
+
 ## Definition
 
 DeepSeek API pricing in USD, pay as you go.
@@ -109,14 +114,18 @@ pay_as_you_go
 | deepseek-v4-pro | billing_structure | Flat pricing | Peak/off-peak pricing; off-peak = 50% of peak | 2026-08-16 | https://api-docs.deepseek.com/updates | 2026-09-20 |
 | deepseek-v4-1-flash | api_pricing | V4-Flash list pricing (model retired) | Reduced V4.1-Flash pricing | 2026-09-10 | https://api-docs.deepseek.com/updates | 2026-09-20 |
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence | published_date |
-|---|---|---|---|---|---|
-| DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | official | 2026-09-20 | high | — |
-| DeepSeek API Change Log | https://api-docs.deepseek.com/updates | official | 2026-09-20 | high | — |
-| DeepSeek-V4.1-Flash release announcement | https://www.deepseek.com/en/news/deepseek-v4-1-flash/ | official | 2026-09-20 | high | 2026-09-10 |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-pricing-deepseek-1 | DeepSeek API docs — Models & Pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-pricing-deepseek-2 | DeepSeek API Change Log | https://api-docs.deepseek.com/updates | Official documentation | — | 2026-09-20 | high | — |
+| src-pricing-deepseek-3 | DeepSeek-V4.1-Flash release announcement | https://www.deepseek.com/en/news/deepseek-v4-1-flash/ | Official | 2026-09-10 | 2026-09-20 | high | — |

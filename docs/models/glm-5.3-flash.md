@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/glm-53-flash](https://sinoaihub.com/models/glm-53-flash)
 
+## Type
+
+model
+
+
 ## Definition
 
 GLM-5.3-Flash is a Zhipu AI model in the GLM-5.3-Flash family: 320B total / 18B active; first open-source frontier model combining sparse + linear attention; mHC hyper-connections; 30T-token multimodal pre-training corpus; 1,048,576-token context window; 131,072 max output; open-weight; Apache-2.0 (per GitHub repo metadata; README has no separate weights-license section - verify per-model HF cards before reuse) license; released 2026-08-26.
@@ -156,6 +161,14 @@ Yes
 - Z.ai Code Bench is a private in-house benchmark
 - Benchmarks vendor-reported; not independently verified
 
+## Verification Status
+
+verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -166,8 +179,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Z.ai docs — GLM-5.3-Flash model page | https://docs.z.ai/guides/vlm/glm-5.3-flash | official | 2026-09-20 | high |
-| Z.ai pricing | https://docs.z.ai/guides/overview/pricing | official | 2026-09-20 | high |
-| GLM-5 GitHub repository | https://github.com/zai-org/GLM-5 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-glm-5.3-flash-1 | Z.ai docs — GLM-5.3-Flash model page | https://docs.z.ai/guides/vlm/glm-5.3-flash | Official documentation | — | 2026-09-20 | high | — |
+| src-models-glm-5.3-flash-2 | Z.ai pricing | https://docs.z.ai/guides/overview/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-models-glm-5.3-flash-3 | GLM-5 GitHub repository | https://github.com/zai-org/GLM-5 | Official documentation | — | 2026-09-20 | high | — |

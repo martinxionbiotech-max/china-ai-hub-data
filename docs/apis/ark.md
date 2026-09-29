@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/api/ark](https://sinoaihub.com/api/ark)
 
+## Type
+
+api
+
+
 ## Definition
 
 Ark API is ByteDance's official API platform (endpoint https://ark.cn-beijing.volces.com/api/v3).
@@ -121,6 +126,14 @@ https://docs.volcengine.com/docs/ark
 
 - Function calling support for Ark-hosted models is documented per-model, not platform-wide; not extracted as of 2026-09-27
 
+## Verification Status
+
+verified
+
+## API Changes
+
+No documented API changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -131,8 +144,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Ark product overview (base URL, auth) | https://docs.volcengine.com/docs/ark/product-overview?lang=zh | official | 2026-09-20 | high |
-| Ark Responses API reference | https://docs.volcengine.com/docs/ark/responses-api-text-generation?lang=zh | official | 2026-09-20 | high |
-| Ark Chat API reference | https://docs.volcengine.com/docs/ark/chat-api?lang=zh | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-apis-ark-1 | Ark product overview (base URL, auth) | https://docs.volcengine.com/docs/ark/product-overview?lang=zh | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-ark-2 | Ark Responses API reference | https://docs.volcengine.com/docs/ark/responses-api-text-generation?lang=zh | Official documentation | — | 2026-09-20 | high | — |
+| src-apis-ark-3 | Ark Chat API reference | https://docs.volcengine.com/docs/ark/chat-api?lang=zh | Official documentation | — | 2026-09-20 | high | — |

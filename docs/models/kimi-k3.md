@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/kimi-k3](https://sinoaihub.com/models/kimi-k3)
 
+## Type
+
+model
+
+
 ## Definition
 
 Kimi K3 is a Moonshot AI model in the Kimi K-series family: MoE: 2.8T total / 104B activated; 93 layers (1 dense); 896 experts (16 selected + 2 shared per token); 69 KDA + 24 Gated MLA layers; hidden dim 7168; SiTU-GLU; MoonViT-V2 vision encoder (401M); MXFP4 weights / MXFP8 activations; 1,048,576-token context window; 1,048,576 max output; open-weight; Kimi K3 License (permissive MIT-style, but Model-as-a-Service operators with >$20M aggregate revenue over any 12 months must sign a separate agreement; products with >100M MAU or >$20M monthly revenue must display 'Kimi K3' in the UI) license; released 2026-07-16.
@@ -165,6 +170,14 @@ Yes
 - Modality documentation inconsistent: architecture table says Text+Image, while the README, launch blog and API guide also show video input
 - Benchmarks vendor-reported; some comparison scores cited from Artificial Analysis
 
+## Verification Status
+
+verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -175,9 +188,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence | published_date |
-|---|---|---|---|---|---|
-| Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | official | 2026-09-20 | high | — |
-| Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | official | 2026-09-20 | high | — |
-| Kimi API — Chat Completions spec | https://platform.kimi.ai/docs/api/chat.md | official | 2026-09-20 | high | — |
-| Kimi K3 launch blog | https://www.kimi.com/blog/kimi-k3 | official | 2026-09-20 | high | 2026-07-16 |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-kimi-k3-1 | Kimi K3 GitHub README | https://github.com/MoonshotAI/Kimi-K3 | Official documentation | — | 2026-09-20 | high | — |
+| src-models-kimi-k3-2 | Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | Official documentation | — | 2026-09-20 | high | — |
+| src-models-kimi-k3-3 | Kimi API — Chat Completions spec | https://platform.kimi.ai/docs/api/chat.md | Official documentation | — | 2026-09-20 | high | — |
+| src-models-kimi-k3-4 | Kimi K3 launch blog | https://www.kimi.com/blog/kimi-k3 | Official | 2026-07-16 | 2026-09-20 | high | — |

@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/qwen38-max](https://sinoaihub.com/models/qwen38-max)
 
+## Type
+
+model
+
+
 ## Definition
 
 Qwen3.8-Max is a Alibaba Cloud (Qwen) model in the Qwen3.8 family: 2.4T-parameter MoE, 95B activated, 512 experts (10 routed + 1 shared per token), 92 layers, Gated DeltaNet + Gated Attention hybrid; 1,048,576-token context window; 131,072 max output; closed-weight; proprietary license; released 2026-08.
@@ -173,14 +178,29 @@ Yes
 - Prices differ by region: Singapore $2/$6; Beijing and Global regions $1.65/$4.951 per 1M tokens
 - Benchmarks are from the vendor model card (Qwen3.8-Max column); not independently verified
 
+## Verification Status
+
+partially_verified
+
+## Model Versions
+
+| version | date | source | verification_date |
+|---|---|---|---|
+| initial | 2026-08 | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-max | 2026-09-29 |
+| 0902 | 2026-09-02 | https://www.qwencloud.com/models/qwen3.8-max-0902 | 2026-09-29 |
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Model Studio — qwen3.8-max model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-max | official | 2026-09-20 | high |
-| Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | official | 2026-09-20 | high |
-| Hugging Face model card — Qwen3.8-2.4T-A95B | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-qwen3.8-max-1 | Model Studio — qwen3.8-max model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-max | Official documentation | — | 2026-09-20 | high | — |
+| src-models-qwen3.8-max-2 | Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-models-qwen3.8-max-3 | Hugging Face model card — Qwen3.8-2.4T-A95B | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | Model card | — | 2026-09-20 | high | — |

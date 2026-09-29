@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/qwen38-flash](https://sinoaihub.com/models/qwen38-flash)
 
+## Type
+
+model
+
+
 ## Definition
 
 Qwen3.8-Flash is a Alibaba Cloud (Qwen) model in the Qwen3.8 family: 1,048,576-token context window; 131,072 max output; closed-weight; proprietary license; released 2026-08.
@@ -134,6 +139,14 @@ Yes
 - Prices differ by region: Singapore $0.15/$0.47; Beijing and Global regions $0.113/$0.382 per 1M tokens
 - Architecture details not published on the fetched official pages
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -144,7 +157,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Model Studio — qwen3.8-flash model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-flash | official | 2026-09-20 | high |
-| Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-qwen3.8-flash-1 | Model Studio — qwen3.8-flash model detail | https://www.alibabacloud.com/help/en/model-studio/qwen3-8-flash | Official documentation | — | 2026-09-20 | high | — |
+| src-models-qwen3.8-flash-2 | Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | Official documentation | — | 2026-09-20 | high | — |

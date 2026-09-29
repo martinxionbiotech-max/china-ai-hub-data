@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/doubao-seed-2-1-turbo](https://sinoaihub.com/models/doubao-seed-2-1-turbo)
 
+## Type
+
+model
+
+
 ## Definition
 
 Doubao Seed 2.1 Turbo is a ByteDance model in the Doubao Seed family: 262,144-token context window; 262,144 max output; closed-weight; proprietary license; released 2026-06.
@@ -139,6 +144,20 @@ Yes
 - API served from cn-beijing region only; no international endpoint verified as of 2026-09-20
 - No open-weight release; no self-hosting
 
+## Verification Status
+
+partially_verified
+
+## Model Versions
+
+| version | date | source | verification_date |
+|---|---|---|---|
+| 260628 | — | https://docs.volcengine.com/docs/ark/model-list?lang=zh | 2026-09-29 |
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -149,7 +168,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Ark official model list | https://docs.volcengine.com/docs/ark/model-list?lang=zh | official | 2026-09-20 | high |
-| Ark official model pricing | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-doubao-seed-2-1-turbo-1 | Ark official model list | https://docs.volcengine.com/docs/ark/model-list?lang=zh | Official documentation | — | 2026-09-20 | high | — |
+| src-models-doubao-seed-2-1-turbo-2 | Ark official model pricing | https://docs.volcengine.com/docs/ark/model-pricing?lang=zh | Official documentation | — | 2026-09-20 | high | — |

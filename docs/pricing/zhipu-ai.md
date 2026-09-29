@@ -102,6 +102,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/zhipu-ai](https://sinoaihub.com/pricing/zhipu-ai)
 
+## Type
+
+pricing
+
+
 ## Definition
 
 zhipu-ai pricing in USD, pay as you go.
@@ -139,13 +144,17 @@ pay_as_you_go
 
 No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Z.ai pricing | https://docs.z.ai/guides/overview/pricing | official | 2026-09-20 | high |
-| BigModel pricing docs (CNY) | https://docs.bigmodel.cn/cn/guide/start/pricing | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-pricing-zhipu-ai-1 | Z.ai pricing | https://docs.z.ai/guides/overview/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-pricing-zhipu-ai-2 | BigModel pricing docs (CNY) | https://docs.bigmodel.cn/cn/guide/start/pricing | Official documentation | — | 2026-09-20 | high | — |

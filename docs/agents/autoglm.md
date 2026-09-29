@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/autoglm](https://sinoaihub.com/agents/autoglm)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** Zhipu AI
@@ -136,6 +141,10 @@ https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone.md
 - Local deployment needs ~24GB+ VRAM GPU
 - No persistent-memory feature documented in the README
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -146,9 +155,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Open-AutoGLM GitHub repository | https://github.com/zai-org/Open-AutoGLM | official | 2026-09-20 | high |
-| AutoGLM Goes Open Source blog | https://autoglm.z.ai/blog | official | 2026-09-20 | high |
-| AutoGLM-Phone model card (Hugging Face) | https://huggingface.co/zai-org/AutoGLM-Phone-9B | official | 2026-09-20 | high |
-| BigModel AutoGLM-Phone API docs | https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-autoglm-1 | Open-AutoGLM GitHub repository | https://github.com/zai-org/Open-AutoGLM | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-autoglm-2 | AutoGLM Goes Open Source blog | https://autoglm.z.ai/blog | Official | — | 2026-09-20 | high | — |
+| src-agents-autoglm-3 | AutoGLM-Phone model card (Hugging Face) | https://huggingface.co/zai-org/AutoGLM-Phone-9B | Model card | — | 2026-09-20 | high | — |
+| src-agents-autoglm-4 | BigModel AutoGLM-Phone API docs | https://docs.bigmodel.cn/cn/guide/models/vlm/autoglm-phone.md | Official documentation | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/minimax-agent](https://sinoaihub.com/agents/minimax-agent)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** MiniMax
@@ -124,6 +129,10 @@ https://agent.minimax.io/docs/llms.txt
 
 - No public GitHub repository located as of 2026-09-27 (checked MiniMax-AI org)
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -134,8 +143,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax Agent homepage | https://agent.minimax.io/ | official | 2026-09-20 | high |
-| MiniMax Agent docs index (llms.txt) | https://agent.minimax.io/docs/llms.txt | official | 2026-09-20 | high |
-| MiniMax Token Plan pricing guide | https://platform.minimax.io/docs/guides/pricing-token-plan | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-minimax-agent-1 | MiniMax Agent homepage | https://agent.minimax.io/ | Official | — | 2026-09-20 | high | — |
+| src-agents-minimax-agent-2 | MiniMax Agent docs index (llms.txt) | https://agent.minimax.io/docs/llms.txt | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-minimax-agent-3 | MiniMax Token Plan pricing guide | https://platform.minimax.io/docs/guides/pricing-token-plan | Official documentation | — | 2026-09-20 | high | — |

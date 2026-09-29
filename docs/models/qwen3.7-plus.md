@@ -22,6 +22,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/qwen37-plus](https://sinoaihub.com/models/qwen37-plus)
 
+## Type
+
+model
+
+
 ## Definition
 
 Qwen3.7-Plus is a Alibaba Cloud (Qwen) model in the Qwen3.7 family: closed-weight; proprietary license; released 2026-05-26.
@@ -73,6 +78,14 @@ Yes
 
 - Context window, capabilities and benchmark results are not published on the official pricing page; not publicly documented as of 2026-09-27
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-27
@@ -83,6 +96,6 @@ No documented source-change events located as of 2026-09-27.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Alibaba Cloud Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | official | 2026-09-27 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-qwen3.7-plus-1 | Alibaba Cloud Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | Official documentation | — | 2026-09-27 | high | — |

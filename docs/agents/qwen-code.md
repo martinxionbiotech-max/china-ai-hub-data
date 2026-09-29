@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/qwen-code](https://sinoaihub.com/agents/qwen-code)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** Alibaba Cloud (Qwen)
@@ -147,6 +152,10 @@ https://qwenlm.github.io/qwen-code-docs/en/users/overview/
 - Auto Mode classifier biased toward blocking and fails closed on classifier outage
 - Auto-memory is best-effort; QWEN.md is the guaranteed instruction file
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -157,9 +166,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Qwen Code GitHub repository | https://github.com/QwenLM/qwen-code | official | 2026-09-20 | high |
-| Qwen Code docs - overview | https://qwenlm.github.io/qwen-code-docs/en/users/overview/ | official | 2026-09-20 | high |
-| Alibaba Cloud Model Studio Coding Plan | https://www.alibabacloud.com/help/en/model-studio/coding-plan | official | 2026-09-20 | high |
-| Alibaba Cloud Token Plan overview | https://help.aliyun.com/en/model-studio/token-plan-overview | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-qwen-code-1 | Qwen Code GitHub repository | https://github.com/QwenLM/qwen-code | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-qwen-code-2 | Qwen Code docs - overview | https://qwenlm.github.io/qwen-code-docs/en/users/overview/ | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-qwen-code-3 | Alibaba Cloud Model Studio Coding Plan | https://www.alibabacloud.com/help/en/model-studio/coding-plan | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-qwen-code-4 | Alibaba Cloud Token Plan overview | https://help.aliyun.com/en/model-studio/token-plan-overview | Official documentation | — | 2026-09-20 | high | — |

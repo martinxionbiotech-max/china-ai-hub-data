@@ -48,6 +48,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/zhipu-ai](https://sinoaihub.com/companies/zhipu-ai)
 
+## Type
+
+company
+
+
 ## Definition
 
 Zhipu AI is a Chinese AI company (also 智谱, Z.ai) developing 4 foundation models and operating the Z.ai API.
@@ -141,15 +146,19 @@ https://docs.z.ai/
 
 https://z.ai/
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | official | 2026-09-20 | high |
-| Z.ai docs — GLM-5.3-Flash model page | https://docs.z.ai/guides/vlm/glm-5.3-flash | official | 2026-09-20 | high |
-| Z.ai release notes | https://docs.z.ai/release-notes/new-released | official | 2026-09-20 | high |
-| GLM-5 GitHub repository | https://github.com/zai-org/GLM-5 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-companies-zhipu-ai-1 | Z.ai docs — GLM-5.3 model page | https://docs.z.ai/guides/llm/glm-5.3 | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-zhipu-ai-2 | Z.ai docs — GLM-5.3-Flash model page | https://docs.z.ai/guides/vlm/glm-5.3-flash | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-zhipu-ai-3 | Z.ai release notes | https://docs.z.ai/release-notes/new-released | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-zhipu-ai-4 | GLM-5 GitHub repository | https://github.com/zai-org/GLM-5 | Official documentation | — | 2026-09-20 | high | — |

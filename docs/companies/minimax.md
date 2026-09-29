@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/companies/minimax](https://sinoaihub.com/companies/minimax)
 
+## Type
+
+company
+
+
 ## Definition
 
 MiniMax is a Chinese AI company (also MiniMax AI, 上海稀宇科技有限公司) developing 3 foundation models and operating the MiniMax API.
@@ -139,15 +144,19 @@ https://platform.minimax.io/docs
 
 https://www.minimax.io/
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax official site (international) | https://www.minimax.io/ | official | 2026-09-20 | high |
-| MiniMax official site (China) | https://www.minimax.cn/about | official | 2026-09-20 | high |
-| MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | official | 2026-09-20 | high |
-| MiniMax official release notes | https://platform.minimaxi.com/docs/release-notes/models.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-companies-minimax-1 | MiniMax official site (international) | https://www.minimax.io/ | Official | — | 2026-09-20 | high | — |
+| src-companies-minimax-2 | MiniMax official site (China) | https://www.minimax.cn/about | Official | — | 2026-09-20 | high | — |
+| src-companies-minimax-3 | MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | Official documentation | — | 2026-09-20 | high | — |
+| src-companies-minimax-4 | MiniMax official release notes | https://platform.minimaxi.com/docs/release-notes/models.md | Official documentation | — | 2026-09-20 | high | — |

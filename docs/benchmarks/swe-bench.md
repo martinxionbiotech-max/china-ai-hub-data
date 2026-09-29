@@ -41,6 +41,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/benchmarks/swe-bench](https://sinoaihub.com/benchmarks/swe-bench)
 
+## Type
+
+benchmark
+
+
 ## Key facts
 
 - **Task type:** Software engineering (resolve real GitHub issues by generating code patches)
@@ -82,6 +87,14 @@ Software engineering benchmark family built from real GitHub issues, with Pro, V
 
 Pro, Verified and Multilingual variants are different test sets and are not comparable to each other; the variant is recorded per evaluation. All scores are vendor-reported and not independently verified.
 
+## Verification Status
+
+verified
+
+## Benchmark Changes
+
+No documented benchmark changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -92,8 +105,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Qwen3.8-2.4T-A95B model card | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | official | 2026-09-20 | high |
-| MiniMax M3 official blog post | https://www.minimax.cn/blog/minimax-m3 | official | 2026-09-20 | high |
-| Kimi K2.5 GitHub README | https://github.com/MoonshotAI/Kimi-K2.5 | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-benchmarks-swe-bench-1 | Qwen3.8-2.4T-A95B model card | https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B | Model card | — | 2026-09-20 | high | — |
+| src-benchmarks-swe-bench-2 | MiniMax M3 official blog post | https://www.minimax.cn/blog/minimax-m3 | Official | — | 2026-09-20 | high | — |
+| src-benchmarks-swe-bench-3 | Kimi K2.5 GitHub README | https://github.com/MoonshotAI/Kimi-K2.5 | Official documentation | — | 2026-09-20 | high | — |

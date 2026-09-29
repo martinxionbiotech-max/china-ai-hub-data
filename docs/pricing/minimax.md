@@ -90,6 +90,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/minimax](https://sinoaihub.com/pricing/minimax)
 
+## Type
+
+pricing
+
+
 ## Definition
 
 MiniMax API pricing in USD, pay as you go.
@@ -130,13 +135,17 @@ pay_as_you_go
 | minimax-m3 | output_price_per_1m | 2.4 | 1.2 | — | https://platform.minimax.io/docs/guides/pricing-paygo | 2026-09-20 |
 | minimax-m3 | cached_input_price_per_1m | 0.12 | 0.06 | — | https://platform.minimax.io/docs/guides/pricing-paygo | 2026-09-20 |
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax API platform — pay-as-you-go pricing (intl) | https://platform.minimax.io/docs/guides/pricing-paygo.md | official | 2026-09-20 | high |
-| MiniMax API platform — pay-as-you-go pricing (CN) | https://platform.minimaxi.com/docs/guides/pricing-paygo.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-pricing-minimax-1 | MiniMax API platform — pay-as-you-go pricing (intl) | https://platform.minimax.io/docs/guides/pricing-paygo.md | Official documentation | — | 2026-09-20 | high | — |
+| src-pricing-minimax-2 | MiniMax API platform — pay-as-you-go pricing (CN) | https://platform.minimaxi.com/docs/guides/pricing-paygo.md | Official documentation | — | 2026-09-20 | high | — |

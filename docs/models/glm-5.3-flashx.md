@@ -21,6 +21,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/glm-53-flashx](https://sinoaihub.com/models/glm-53-flashx)
 
+## Type
+
+model
+
+
 ## Definition
 
 GLM-5.3-FlashX is a Zhipu AI model in the GLM-5.3-Flash family: closed-weight; proprietary license.
@@ -66,6 +71,14 @@ Yes
 
 - Context window, capabilities and benchmark results are not published on the official Z.ai pricing page; not publicly documented as of 2026-09-27
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-27
@@ -76,6 +89,6 @@ No documented source-change events located as of 2026-09-27.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Z.ai — API pricing | https://docs.z.ai/guides/overview/pricing | official | 2026-09-27 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-glm-5.3-flashx-1 | Z.ai — API pricing | https://docs.z.ai/guides/overview/pricing | Official documentation | — | 2026-09-27 | high | — |

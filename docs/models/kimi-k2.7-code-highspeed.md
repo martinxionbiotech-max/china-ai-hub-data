@@ -45,6 +45,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/kimi-k27-code-highspeed](https://sinoaihub.com/models/kimi-k27-code-highspeed)
 
+## Type
+
+model
+
+
 ## Definition
 
 Kimi K2.7 Code Highspeed is a Moonshot AI model in the Kimi K2.7 family: 262,144-token context window.
@@ -102,6 +107,14 @@ Yes
 - Thinking is always on; temperature/top_p/n/penalties are fixed and must not be passed
 - Max output ceiling not stated in the fetched docs (256K context)
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -112,7 +125,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | official | 2026-09-20 | high |
-| Kimi API — pricing (chat) | https://platform.kimi.ai/docs/pricing/chat | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-kimi-k2.7-code-highspeed-1 | Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | Official documentation | — | 2026-09-20 | high | — |
+| src-models-kimi-k2.7-code-highspeed-2 | Kimi API — pricing (chat) | https://platform.kimi.ai/docs/pricing/chat | Official documentation | — | 2026-09-20 | high | — |

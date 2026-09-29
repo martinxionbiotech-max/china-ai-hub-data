@@ -88,6 +88,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/pricing/alibaba-cloud](https://sinoaihub.com/pricing/alibaba-cloud)
 
+## Type
+
+pricing
+
+
 ## Definition
 
 alibaba-cloud pricing in USD, pay as you go.
@@ -124,12 +129,16 @@ pay_as_you_go
 
 No officially documented price-change events located as of 2026-09-22. Historical pricing is only recorded when an official page (pricing page, change log or announcement) documents the change.
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-pricing-alibaba-cloud-1 | Model Studio — model pricing | https://www.alibabacloud.com/help/en/model-studio/model-pricing | Official documentation | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/kimi-k26](https://sinoaihub.com/models/kimi-k26)
 
+## Type
+
+model
+
+
 ## Definition
 
 Kimi K2.6 is a Moonshot AI model in the Kimi K2.6 family: Mixture-of-Experts (MoE): 1T total / 32B activated; 384 routed experts (8 selected + 1 shared); MLA attention, SwiGLU activation; 61 layers (1 dense); MoonViT vision encoder (400M); 262,144-token context window; 98,304 max output; open-weight; Modified MIT license; released 2026-04-20.
@@ -133,6 +138,14 @@ Yes
 
 - Maximum output of 98,304 tokens is the documented max generation length in the official model card's evaluation configuration
 
+## Verification Status
+
+verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -143,7 +156,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | official | 2026-09-20 | high |
-| Kimi API — pricing (chat) | https://platform.kimi.ai/docs/pricing/chat | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-kimi-k2.6-1 | Kimi API platform — model list | https://platform.kimi.ai/docs/models.md | Official documentation | — | 2026-09-20 | high | — |
+| src-models-kimi-k2.6-2 | Kimi API — pricing (chat) | https://platform.kimi.ai/docs/pricing/chat | Official documentation | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/deepseek-harness](https://sinoaihub.com/agents/deepseek-harness)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** DeepSeek
@@ -156,6 +161,10 @@ https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart
 - No built-in memory; third-party memory MCP servers are interoperability examples only
 - sdk-minimal profile pins danger-full-access permissions by default
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -166,9 +175,9 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| DeepSeek Harness GitHub repository | https://github.com/deepseek-ai/deepseek-harness | official | 2026-09-20 | high |
-| DeepSeek Harness product page | https://deepseek.com/harness | official | 2026-09-20 | high |
-| DeepSeek Harness documentation | https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart | official | 2026-09-20 | high |
-| DeepSeek API pricing | https://api-docs.deepseek.com/quick_start/pricing | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-deepseek-harness-1 | DeepSeek Harness GitHub repository | https://github.com/deepseek-ai/deepseek-harness | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-deepseek-harness-2 | DeepSeek Harness product page | https://deepseek.com/harness | Official | — | 2026-09-20 | high | — |
+| src-agents-deepseek-harness-3 | DeepSeek Harness documentation | https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-deepseek-harness-4 | DeepSeek API pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |

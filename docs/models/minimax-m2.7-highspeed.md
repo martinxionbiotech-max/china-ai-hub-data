@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/minimax-m27-highspeed](https://sinoaihub.com/models/minimax-m27-highspeed)
 
+## Type
+
+model
+
+
 ## Definition
 
 MiniMax-M2.7-Highspeed is a MiniMax model in the MiniMax M2.7 family: 204,800-token context window; open-weight; Custom NON-COMMERCIAL license (MIT-style terms for non-commercial use only; any commercial use requires prior written authorization from MiniMax at api@minimax.io; attribution 'Built with MiniMax M2.7' required) license; released 2026-03-18.
@@ -126,6 +131,14 @@ Yes
 - Text-only input; interleaved thinking always on (cannot be disabled via API)
 - Must echo full assistant content (thinking blocks) back in multi-turn history
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -136,7 +149,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | official | 2026-09-20 | high |
-| MiniMax API platform — pay-as-you-go pricing (intl) | https://platform.minimax.io/docs/guides/pricing-paygo.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-minimax-m2.7-highspeed-1 | MiniMax API platform — model overview (CN) | https://platform.minimaxi.com/docs/guides/models-intro | Official documentation | — | 2026-09-20 | high | — |
+| src-models-minimax-m2.7-highspeed-2 | MiniMax API platform — pay-as-you-go pricing (intl) | https://platform.minimax.io/docs/guides/pricing-paygo.md | Official documentation | — | 2026-09-20 | high | — |

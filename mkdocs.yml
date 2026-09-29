@@ -21,6 +21,10 @@ plugins:
     fallback_to_build_date: true
 nav:
 - Home: index.md
+- Data Schemas:
+  - Entity Template: entity-template.md
+  - Evidence Layer: evidence-layer.md
+  - History Data: history-data.md
 - Models:
   - Overview: models/index.md
   - DeepSeek-V3.2: models/deepseek-v3-2.md

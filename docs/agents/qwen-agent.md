@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/qwen-agent](https://sinoaihub.com/agents/qwen-agent)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** Alibaba Cloud (Qwen)
@@ -137,6 +142,10 @@ https://qwenlm.github.io/Qwen-Agent/en/guide/
 - GUI requires Python 3.10+
 - Last GitHub release v0.0.26 on 2025-05-29; repo development cadence has slowed since
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -147,7 +156,7 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| Qwen-Agent GitHub repository | https://github.com/QwenLM/Qwen-Agent | official | 2026-09-20 | high |
-| Qwen-Agent docs guide | https://qwenlm.github.io/Qwen-Agent/en/guide/ | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-qwen-agent-1 | Qwen-Agent GitHub repository | https://github.com/QwenLM/Qwen-Agent | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-qwen-agent-2 | Qwen-Agent docs guide | https://qwenlm.github.io/Qwen-Agent/en/guide/ | Official documentation | — | 2026-09-20 | high | — |

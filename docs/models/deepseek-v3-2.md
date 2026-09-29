@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/models/deepseek-v3-2](https://sinoaihub.com/models/deepseek-v3-2)
 
+## Type
+
+model
+
+
 ## Definition
 
 DeepSeek-V3.2 is a DeepSeek model in the DeepSeek-V3 family: DeepSeek Sparse Attention (DSA) MoE — 61 layers, hidden size 7168, MoE intermediate 2048, 256 routed experts (8 selected + 1 shared expert), vocab 129,280 (from config.json); open-weight; MIT license; released 2025-12-01; status discontinued.
@@ -107,6 +112,14 @@ DeepSeek Sparse Attention (DSA) MoE — 61 layers, hidden size 7168, MoE interme
 - Context window not stated on the official release pages fetched
 - Vendor performance claims are qualitative ('GPT-5 level performance'); no numeric scores on the release page
 
+## Verification Status
+
+partially_verified
+
+## License Changes
+
+No documented license changes on record as of 2026-09-29.
+
 ## Last Verified
 
 2026-09-20
@@ -117,8 +130,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | published_date | last_verified | confidence |
-|---|---|---|---|---|---|
-| DeepSeek-V3.2 release | https://www.deepseek.com/en/news/deepseek-v3-2/ | official | 2025-12-01 | 2026-09-20 | high |
-| DeepSeek Transparency Center | https://www.deepseek.com/en/transparency/ | official | — | 2026-09-20 | high |
-| Hugging Face model card — DeepSeek-V3.2 | https://huggingface.co/deepseek-ai/DeepSeek-V3.2 | official | — | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-models-deepseek-v3-2-1 | DeepSeek-V3.2 release | https://www.deepseek.com/en/news/deepseek-v3-2/ | Official | 2025-12-01 | 2026-09-20 | high | — |
+| src-models-deepseek-v3-2-2 | DeepSeek Transparency Center | https://www.deepseek.com/en/transparency/ | Official | — | 2026-09-20 | high | — |
+| src-models-deepseek-v3-2-3 | Hugging Face model card — DeepSeek-V3.2 | https://huggingface.co/deepseek-ai/DeepSeek-V3.2 | Model card | — | 2026-09-20 | high | — |

@@ -46,6 +46,11 @@
 </script>
 > Canonical page on the main site: [sinoaihub.com/agents/glm-coding-plan](https://sinoaihub.com/agents/glm-coding-plan)
 
+## Type
+
+agent
+
+
 ## Key facts
 
 - **Company:** Zhipu AI
@@ -129,6 +134,10 @@ https://docs.bigmodel.cn/cn/coding-plan/overview.md
 
 - No public GitHub repository located as of 2026-09-27 (checked THUDM org)
 
+## Verification Status
+
+verified
+
 ## Last Verified
 
 2026-09-20
@@ -139,8 +148,8 @@ No documented source-change events located as of 2026-09-20.
 
 ## Sources
 
-| source_name | source_url | source_type | last_verified | confidence |
-|---|---|---|---|---|
-| GLM Coding Plan landing page | https://bigmodel.cn/glm-coding | official | 2026-09-20 | high |
-| BigModel Coding Plan docs - overview | https://docs.bigmodel.cn/cn/coding-plan/overview.md | official | 2026-09-20 | high |
-| Z.AI Coding Plan international docs | https://docs.z.ai/devpack/overview.md | official | 2026-09-20 | high |
+| evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
+|---|---|---|---|---|---|---|---|
+| src-agents-glm-coding-plan-1 | GLM Coding Plan landing page | https://bigmodel.cn/glm-coding | Official | — | 2026-09-20 | high | — |
+| src-agents-glm-coding-plan-2 | BigModel Coding Plan docs - overview | https://docs.bigmodel.cn/cn/coding-plan/overview.md | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-glm-coding-plan-3 | Z.AI Coding Plan international docs | https://docs.z.ai/devpack/overview.md | Official documentation | — | 2026-09-20 | high | — |

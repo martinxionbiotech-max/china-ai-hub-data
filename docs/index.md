@@ -15,6 +15,12 @@ While the main site hosts editorial content, comparisons and original research, 
 | [Pricing](pricing/index.md) | Time-stamped pricing snapshots with effective dates, plus documented `price_history` |
 | [Benchmarks](benchmarks/index.md) | Benchmark methodologies and vendor-reported results |
 
+### Data schemas
+
+- [Entity Template](entity-template.md) — unified field structure for every collection
+- [Evidence Layer](evidence-layer.md) — unified `sources` schema (`evidence_id`, `source_type`, `published`, `verified`, `confidence`, `conflict`)
+- [History Data](history-data.md) — structured historical dimensions (`model_versions`, `license_changes`, `api_changes`, `company_milestones`, `benchmark_changes`)
+
 ### Historical dimensions
 
 Beyond current-value fields, each collection carries sourced history where documented: models expose a `release_history` timeline; pricing exposes `price_history` change events; companies expose a `timeline` of founding, release and pricing milestones. Every history entry includes a `source` and `verification_date`. `benchmark_history` is intentionally not built — no sourced before/after benchmark values exist for any model+benchmark pair.
