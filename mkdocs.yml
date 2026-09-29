@@ -31,6 +31,7 @@ nav:
   - Doubao Seed Evolving: models/doubao-seed-evolving.md
   - GLM-5.2: models/glm-5.2.md
   - GLM-5.3-Flash: models/glm-5.3-flash.md
+  - GLM-5.3-FlashX: models/glm-5.3-flashx.md
   - GLM-5.3: models/glm-5.3.md
   - Kimi K2.6: models/kimi-k2.6.md
   - Kimi K2.7 Code Highspeed: models/kimi-k2.7-code-highspeed.md
@@ -39,6 +40,7 @@ nav:
   - MiniMax-M2.7-Highspeed: models/minimax-m2.7-highspeed.md
   - MiniMax-M2.7: models/minimax-m2.7.md
   - MiniMax-M3: models/minimax-m3.md
+  - Qwen3.7-Plus: models/qwen3.7-plus.md
   - Qwen3.8-2.4T-A95B: models/qwen3.8-2.4t-a95b.md
   - Qwen3.8-Flash: models/qwen3.8-flash.md
   - Qwen3.8-Max: models/qwen3.8-max.md

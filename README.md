@@ -1,11 +1,11 @@
 # china-ai-hub-data
 
-Data layer for **China AI Hub** — future subdomain `data.chinaaihub.com`.
+Data layer for **China AI Hub** — live at `data.sinoaihub.com`.
 
-- **Main site repo:** [martinxionbiotech-max/china-ai-hub](https://github.com/martinxionbiotech-max/china-ai-hub) (chinaaihub.com)
+- **Main site repo:** [martinxionbiotech-max/china-ai-hub](https://github.com/martinxionbiotech-max/china-ai-hub) (sinoaihub.com)
 - **This repo:** structured data layer for China AI Hub
 - **Created:** 2026-09-21
-- **Status:** live — structured fact + evidence + history layer
+- **Status:** live — structured fact + evidence + history layer; fully migrated from the main site's structured collections
 
 ## Schema & historical dimensions
 
@@ -18,4 +18,4 @@ Each entity record carries a `last_verified` date and a `sources` table (source_
 
 ## Relationship to main site
 
-The main site hosts the three information layers (structured data, knowledge, original research). This repo is the planned data layer at `data.chinaaihub.com`, to be introduced after the main site's information architecture and authority are established (see main repo `docs/MASTER_PROMPT.md`, section 4).
+The main site hosts the editorial, comparison and research layers; this repo is the structured reference layer at `data.sinoaihub.com`. Every entity record links back to its canonical main-site page.

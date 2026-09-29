@@ -14,6 +14,7 @@ Chinese foundation and coding models tracked by China AI Hub.
 | [Doubao Seed Evolving](doubao-seed-evolving.md) | [sinoaihub.com](https://sinoaihub.com/models/doubao-seed-evolving) |
 | [GLM-5.2](glm-5.2.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-52) |
 | [GLM-5.3-Flash](glm-5.3-flash.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-53-flash) |
+| [GLM-5.3-FlashX](glm-5.3-flashx.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-53-flashx) |
 | [GLM-5.3](glm-5.3.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-53) |
 | [Kimi K2.6](kimi-k2.6.md) | [sinoaihub.com](https://sinoaihub.com/models/kimi-k26) |
 | [Kimi K2.7 Code Highspeed](kimi-k2.7-code-highspeed.md) | [sinoaihub.com](https://sinoaihub.com/models/kimi-k27-code-highspeed) |
@@ -22,6 +23,7 @@ Chinese foundation and coding models tracked by China AI Hub.
 | [MiniMax-M2.7-Highspeed](minimax-m2.7-highspeed.md) | [sinoaihub.com](https://sinoaihub.com/models/minimax-m27-highspeed) |
 | [MiniMax-M2.7](minimax-m2.7.md) | [sinoaihub.com](https://sinoaihub.com/models/minimax-m27) |
 | [MiniMax-M3](minimax-m3.md) | [sinoaihub.com](https://sinoaihub.com/models/minimax-m3) |
+| [Qwen3.7-Plus](qwen3.7-plus.md) | [sinoaihub.com](https://sinoaihub.com/models/qwen37-plus) |
 | [Qwen3.8-2.4T-A95B](qwen3.8-2.4t-a95b.md) | [sinoaihub.com](https://sinoaihub.com/models/qwen38-24t-a95b) |
 | [Qwen3.8-Flash](qwen3.8-flash.md) | [sinoaihub.com](https://sinoaihub.com/models/qwen38-flash) |
 | [Qwen3.8-Max](qwen3.8-max.md) | [sinoaihub.com](https://sinoaihub.com/models/qwen38-max) |

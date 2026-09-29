@@ -28,11 +28,19 @@ Every entity here links back to its canonical page on the main site. All data fo
 
 ## Status
 
-**Skeleton (2026-09-21).** Section structures are in place; full entity pages are being migrated from the main site's structured collections.
+The data hub is **fully migrated** from the main site's structured collections and is maintained as the canonical structured-fact + evidence + history layer. Every entity page carries the complete eight-element block (definition, key facts, relationships, evidence, source history, update date, related entities, and a canonical main-site link), with sources and `last_verified` dates on every record.
 
-- Models: 19 tracked
+- Models: 21 tracked
 - Companies: 6 tracked
 - Agents: 10 tracked
 - APIs: 6 tracked
 - Pricing: 6 providers tracked
 - Benchmarks: 10 tracked
+
+### Completeness self-check
+
+Entity counts are verified across four surfaces by `scripts/check-entity-counts.py` in the main-site repo: main-site content files, data-hub records, the main-site sitemap, and the data hub's declared entities (nav + index tables) must all agree. Any drift fails the check. See the main repo's `docs/data-integrity-check.md` for the current comparison table and the mechanics of the check.
+
+- **Eight-element coverage** — all 59 entity pages (21 models + 6 companies + 10 agents + 6 APIs + 6 pricing + 10 benchmarks) carry Definition/Description, Key facts, Sources, and a canonical main-site link; source-history notes are present where applicable.
+- **Canonical links** — every record links to its main-site page; dangling canonicals are fixed as part of migration.
+- **Cross-surface parity** — models, companies, agents, APIs, pricing and benchmarks each show 0 discrepancy between the four surfaces.
