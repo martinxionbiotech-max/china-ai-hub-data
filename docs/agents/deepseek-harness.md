@@ -167,17 +167,23 @@ verified
 
 ## Last Verified
 
-2026-09-20
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-20.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-deepseek-harness-1 | DeepSeek Harness GitHub repository | https://github.com/deepseek-ai/deepseek-harness | Official documentation | — | 2026-09-20 | high | — |
-| src-agents-deepseek-harness-2 | DeepSeek Harness product page | https://deepseek.com/harness | Official | — | 2026-09-20 | high | — |
-| src-agents-deepseek-harness-3 | DeepSeek Harness documentation | https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart | Official documentation | — | 2026-09-20 | high | — |
-| src-agents-deepseek-harness-4 | DeepSeek API pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-20 | high | — |
+| src-agents-deepseek-harness-1 | DeepSeek Harness GitHub repository | https://github.com/deepseek-ai/deepseek-harness | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-2 | DeepSeek Harness product page | https://deepseek.com/harness | Official | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-3 | DeepSeek Harness documentation | https://deepseek-harness.github.io/deepseek-harness/en/guide/quickstart | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-4 | DeepSeek API pricing | https://api-docs.deepseek.com/quick_start/pricing | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-5 | DeepSeek Harness architecture documentation | https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/architecture.md | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-6 | Cordis meta-framework repository | https://github.com/cordiverse/cordis | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-7 | Cordis paper (A Programming Paradigm for Spatiotemporal Composability) | https://arxiv.org/abs/2608.25512 | Literature | 2026-08-26 | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-8 | DeepSeek Harness releases | https://github.com/deepseek-ai/deepseek-harness/releases | Official | 2026-09-29 | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-9 | DeepSeek Harness Python SDK guide | https://deepseek-harness.github.io/deepseek-harness/en/guide/python-sdk | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-deepseek-harness-10 | DeepSeek Harness Cordis primer | https://deepseek-harness.github.io/deepseek-harness/reference/cordis-primer | Official documentation | — | 2026-09-30 | high | — |
