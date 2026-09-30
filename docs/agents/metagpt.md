@@ -117,16 +117,17 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-metagpt-1 | MetaGPT GitHub repository (FoundationAgents) | https://github.com/FoundationAgents/MetaGPT | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-metagpt-2 | MetaGPT documentation (DeepWisdom) | https://docs.deepwisdom.ai/ | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-metagpt-3 | MGX (MetaGPT X) product site | https://mgx.dev/ | Official | — | 2026-09-29 | high | — |
+| src-agents-metagpt-1 | MetaGPT GitHub repository (FoundationAgents) | https://github.com/FoundationAgents/MetaGPT | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-metagpt-2 | MetaGPT documentation (DeepWisdom) | https://docs.deepwisdom.ai/ | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-metagpt-3 | MGX (MetaGPT X) product site | https://mgx.dev/ | Official | — | 2026-09-30 | high | — |
+| src-agents-metagpt-4 | MetaGPT project page (Foundation Agents) | https://foundationagents.deepwisdom.ai/projects/metagpt/ | Official | — | 2026-09-30 | high | — |

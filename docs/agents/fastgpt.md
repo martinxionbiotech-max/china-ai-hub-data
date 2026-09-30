@@ -113,17 +113,18 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-fastgpt-1 | FastGPT GitHub repository | https://github.com/labring/FastGPT | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-fastgpt-2 | FastGPT documentation | https://doc.fastgpt.io/ | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-fastgpt-3 | FastGPT cloud service | https://fastgpt.io/ | Official | — | 2026-09-29 | high | — |
-| src-agents-fastgpt-4 | FastGPT Open Source License | https://github.com/labring/FastGPT/blob/main/LICENSE | Official documentation | — | 2026-09-29 | high | — |
+| src-agents-fastgpt-1 | FastGPT GitHub repository | https://github.com/labring/FastGPT | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-fastgpt-2 | FastGPT documentation | https://doc.fastgpt.io/ | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-fastgpt-3 | FastGPT cloud service | https://fastgpt.io/ | Official | — | 2026-09-30 | high | — |
+| src-agents-fastgpt-4 | FastGPT Open Source License | https://github.com/labring/FastGPT/blob/main/LICENSE | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-fastgpt-5 | FastGPT home (labring.github.io) | https://labring.github.io/fastgpt-home/ | Official | — | 2026-09-30 | high | — |

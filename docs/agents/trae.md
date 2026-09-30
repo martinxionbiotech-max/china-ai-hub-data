@@ -94,15 +94,16 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-trae-1 | Trae official site | https://www.trae.ai/ | Official | — | 2026-09-29 | high | — |
-| src-agents-trae-2 | TraeWork web edition | https://work.trae.ai/ | Official | — | 2026-09-29 | high | — |
+| src-agents-trae-1 | Trae official site | https://www.trae.ai/ | Official | — | 2026-09-30 | high | — |
+| src-agents-trae-2 | TraeWork web edition | https://work.trae.ai/ | Official | — | 2026-09-30 | high | — |
+| src-agents-trae-3 | TraeCode IDE page | https://www.trae.ai/ide/ | Official | — | 2026-09-30 | high | — |

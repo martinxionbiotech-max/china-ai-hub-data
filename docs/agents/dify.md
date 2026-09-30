@@ -113,18 +113,19 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-dify-1 | Dify GitHub repository | https://github.com/langgenius/dify | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-dify-2 | Dify official website | https://dify.ai/ | Official | — | 2026-09-29 | high | — |
-| src-agents-dify-3 | Dify documentation | https://docs.dify.ai/ | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-dify-4 | Dify LICENSE | https://github.com/langgenius/dify/blob/main/LICENSE | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-dify-5 | Dify MCP Server documentation | https://docs.dify.ai/en/cloud/use-dify/publish/publish-mcp | Official documentation | — | 2026-09-29 | high | — |
+| src-agents-dify-1 | Dify GitHub repository | https://github.com/langgenius/dify | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-dify-2 | Dify official website | https://dify.ai/ | Official | — | 2026-09-30 | high | — |
+| src-agents-dify-3 | Dify documentation | https://docs.dify.ai/ | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-dify-4 | Dify LICENSE | https://github.com/langgenius/dify/blob/main/LICENSE | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-dify-5 | Dify MCP Server documentation | https://docs.dify.ai/en/cloud/use-dify/publish/publish-mcp | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-dify-6 | Dify pricing | https://dify.ai/pricing | Official | — | 2026-09-30 | high | — |

@@ -105,16 +105,17 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-yuanqi-1 | Tencent Yuanqi official platform | https://yuanqi.tencent.com/ | Official | — | 2026-09-29 | high | — |
-| src-agents-yuanqi-2 | Tencent Hunyuan model product page (Tencent Cloud) | https://cloud.tencent.com/product/tclm | Official | — | 2026-09-29 | high | — |
-| src-agents-yuanqi-3 | Tencent Hunyuan official site | https://hunyuan.tencent.com/ | Official | — | 2026-09-29 | high | — |
+| src-agents-yuanqi-1 | Tencent Yuanqi official platform | https://yuanqi.tencent.com/ | Official | — | 2026-09-30 | high | — |
+| src-agents-yuanqi-2 | Tencent Hunyuan model product page (Tencent Cloud) | https://cloud.tencent.com/product/tclm | Official | — | 2026-09-30 | high | — |
+| src-agents-yuanqi-3 | Tencent Hunyuan official site | https://hunyuan.tencent.com/ | Official | — | 2026-09-30 | high | — |
+| src-agents-yuanqi-4 | Tencent Hunyuan open platform | https://open.hunyuan.tencent.com/ | Official | — | 2026-09-30 | high | — |

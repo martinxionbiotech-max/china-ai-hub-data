@@ -109,16 +109,17 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-baidu-appbuilder-1 | Baidu Qianfan AppBuilder documentation | https://cloud.baidu.com/doc/AppBuilder/index.html | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-baidu-appbuilder-2 | Baidu Qianfan model service and agent development platform | https://cloud.baidu.com/doc/WENXINWORKSHOP/s/7ltgucw50 | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-baidu-appbuilder-3 | Baidu ERNIE (文心) model product page | https://cloud.baidu.com/product/model.html | Official | — | 2026-09-29 | high | — |
+| src-agents-baidu-appbuilder-1 | Baidu Qianfan AppBuilder documentation | https://cloud.baidu.com/doc/AppBuilder/index.html | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-baidu-appbuilder-2 | Baidu Qianfan model service and agent development platform | https://cloud.baidu.com/doc/WENXINWORKSHOP/s/7ltgucw50 | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-baidu-appbuilder-3 | Baidu ERNIE (文心) model product page | https://cloud.baidu.com/product/model.html | Official | — | 2026-09-30 | high | — |
+| src-agents-baidu-appbuilder-4 | Baidu Qianfan AI application developer center pricing | https://cloud.baidu.com/doc/qianfan-docs/s/Jm8r1826a | Official documentation | — | 2026-09-30 | high | — |

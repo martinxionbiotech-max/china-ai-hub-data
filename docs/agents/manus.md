@@ -109,17 +109,17 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-manus-1 | Manus official site | https://manus.im/ | Official | — | 2026-09-29 | high | — |
-| src-agents-manus-2 | Manus pricing | https://manus.im/pricing | Official | — | 2026-09-29 | high | — |
-| src-agents-manus-3 | Manus API documentation | https://open.manus.ai/docs | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-manus-4 | Manus (AI agent) — Wikipedia | https://en.wikipedia.org/wiki/Manus_(AI_agent) | Literature | — | 2026-09-29 | medium | — |
+| src-agents-manus-1 | Manus official site | https://manus.im/ | Official | — | 2026-09-30 | high | — |
+| src-agents-manus-2 | Manus pricing | https://manus.im/pricing | Official | — | 2026-09-30 | high | — |
+| src-agents-manus-3 | Manus API documentation | https://open.manus.ai/docs | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-manus-4 | Manus (AI agent) — Wikipedia | https://en.wikipedia.org/wiki/Manus_(AI_agent) | Literature | — | 2026-09-30 | medium | — |

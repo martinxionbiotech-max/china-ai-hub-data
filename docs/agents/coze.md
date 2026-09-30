@@ -117,18 +117,18 @@ verified
 
 ## Last Verified
 
-2026-09-29
+2026-09-30
 
 ## Source history
 
-No documented source-change events located as of 2026-09-29.
+No documented source-change events located as of 2026-09-30.
 
 ## Sources
 
 | evidence_id | source_name | source_url | source_type | published | verified | confidence | conflict |
 |---|---|---|---|---|---|---|---|
-| src-agents-coze-1 | Coze China official site | https://www.coze.cn/ | Official | — | 2026-09-29 | high | — |
-| src-agents-coze-2 | Coze China documentation | https://docs.coze.cn/ | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-coze-3 | Coze Pro (Volcengine enterprise product page) | https://www.volcengine.com/product/coze-pro | Official | — | 2026-09-29 | high | — |
-| src-agents-coze-4 | Coze MCP documentation | https://docs.coze.cn/mcp | Official documentation | — | 2026-09-29 | high | — |
-| src-agents-coze-5 | Coze international site | https://www.coze.com/ | Official | — | 2026-09-29 | high | — |
+| src-agents-coze-1 | Coze China official site | https://www.coze.cn/ | Official | — | 2026-09-30 | high | — |
+| src-agents-coze-2 | Coze China documentation | https://docs.coze.cn/ | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-coze-3 | Coze Pro (Volcengine enterprise product page) | https://www.volcengine.com/product/coze-pro | Official | — | 2026-09-30 | high | — |
+| src-agents-coze-4 | Coze MCP documentation | https://docs.coze.cn/mcp | Official documentation | — | 2026-09-30 | high | — |
+| src-agents-coze-5 | Coze international site | https://www.coze.com/ | Official | — | 2026-09-30 | high | — |
