@@ -5,8 +5,8 @@ site_url: https://data.sinoaihub.com
 site_author: China AI Hub
 copyright: © 2026 China AI Hub
 theme:
-  custom_dir: overrides
   name: material
+  custom_dir: overrides
   palette:
     primary: indigo
     accent: indigo
@@ -15,6 +15,8 @@ theme:
   - navigation.indexes
   - navigation.top
   - git-revision-date-localized
+hooks:
+  - hooks.py
 plugins:
 - search
 - git-revision-date-localized:
