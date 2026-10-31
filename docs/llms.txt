@@ -13,44 +13,59 @@
 
 ## Models
 - [DeepSeek-V3.2](https://data.sinoaihub.com/models/deepseek-v3-2/): Model entity records (canonical pages on sinoaihub.com).
-- [DeepSeek-V4.1-Flash](https://data.sinoaihub.com/models/deepseek-v4-1-flash/): Model entity records (canonical pages on sinoaihub.com).
 - [DeepSeek-V4-Pro](https://data.sinoaihub.com/models/deepseek-v4-pro/): Model entity records (canonical pages on sinoaihub.com).
+- [DeepSeek-V4.1-Flash](https://data.sinoaihub.com/models/deepseek-v4-1-flash/): Model entity records (canonical pages on sinoaihub.com).
 - [Doubao Seed 2.1 Pro](https://data.sinoaihub.com/models/doubao-seed-2-1-pro/): Model entity records (canonical pages on sinoaihub.com).
 - [Doubao Seed 2.1 Turbo](https://data.sinoaihub.com/models/doubao-seed-2-1-turbo/): Model entity records (canonical pages on sinoaihub.com).
 - [Doubao Seed Evolving](https://data.sinoaihub.com/models/doubao-seed-evolving/): Model entity records (canonical pages on sinoaihub.com).
 - [GLM-5.2](https://data.sinoaihub.com/models/glm-5.2/): Model entity records (canonical pages on sinoaihub.com).
-- [GLM-5.3-Flash](https://data.sinoaihub.com/models/glm-5.3-flash/): Model entity records (canonical pages on sinoaihub.com).
 - [GLM-5.3](https://data.sinoaihub.com/models/glm-5.3/): Model entity records (canonical pages on sinoaihub.com).
+- [GLM-5.3-Flash](https://data.sinoaihub.com/models/glm-5.3-flash/): Model entity records (canonical pages on sinoaihub.com).
+- [GLM-5.3-FlashX](https://data.sinoaihub.com/models/glm-5.3-flashx/): Model entity records (canonical pages on sinoaihub.com).
+- [Hunyuan Hy4 preview](https://data.sinoaihub.com/models/hunyuan-hy4-preview/): Model entity records (canonical pages on sinoaihub.com).
 - [Kimi K2.6](https://data.sinoaihub.com/models/kimi-k2.6/): Model entity records (canonical pages on sinoaihub.com).
-- [Kimi K2.7 Code Highspeed](https://data.sinoaihub.com/models/kimi-k2.7-code-highspeed/): Model entity records (canonical pages on sinoaihub.com).
 - [Kimi K2.7 Code](https://data.sinoaihub.com/models/kimi-k2.7-code/): Model entity records (canonical pages on sinoaihub.com).
+- [Kimi K2.7 Code Highspeed](https://data.sinoaihub.com/models/kimi-k2.7-code-highspeed/): Model entity records (canonical pages on sinoaihub.com).
 - [Kimi K3](https://data.sinoaihub.com/models/kimi-k3/): Model entity records (canonical pages on sinoaihub.com).
-- [MiniMax-M2.7-Highspeed](https://data.sinoaihub.com/models/minimax-m2.7-highspeed/): Model entity records (canonical pages on sinoaihub.com).
 - [MiniMax-M2.7](https://data.sinoaihub.com/models/minimax-m2.7/): Model entity records (canonical pages on sinoaihub.com).
+- [MiniMax-M2.7-Highspeed](https://data.sinoaihub.com/models/minimax-m2.7-highspeed/): Model entity records (canonical pages on sinoaihub.com).
 - [MiniMax-M3](https://data.sinoaihub.com/models/minimax-m3/): Model entity records (canonical pages on sinoaihub.com).
+- [Qwen3.7-Plus](https://data.sinoaihub.com/models/qwen3.7-plus/): Model entity records (canonical pages on sinoaihub.com).
 - [Qwen3.8-2.4T-A95B](https://data.sinoaihub.com/models/qwen3.8-2.4t-a95b/): Model entity records (canonical pages on sinoaihub.com).
 - [Qwen3.8-Flash](https://data.sinoaihub.com/models/qwen3.8-flash/): Model entity records (canonical pages on sinoaihub.com).
 - [Qwen3.8-Max](https://data.sinoaihub.com/models/qwen3.8-max/): Model entity records (canonical pages on sinoaihub.com).
-
 ## Companies
 - [Alibaba Cloud (Qwen)](https://data.sinoaihub.com/companies/alibaba-cloud/): Company entity records.
+- [Baidu](https://data.sinoaihub.com/companies/baidu/): Company entity records.
+- [Butterfly Effect (Manus)](https://data.sinoaihub.com/companies/butterfly-effect/): Company entity records.
 - [ByteDance](https://data.sinoaihub.com/companies/bytedance/): Company entity records.
 - [DeepSeek](https://data.sinoaihub.com/companies/deepseek/): Company entity records.
+- [DeepWisdom (FoundationAgents)](https://data.sinoaihub.com/companies/deepwisdom/): Company entity records.
+- [Labring (环界云计算)](https://data.sinoaihub.com/companies/labring/): Company entity records.
+- [LangGenius (Dify)](https://data.sinoaihub.com/companies/langgenius/): Company entity records.
 - [MiniMax](https://data.sinoaihub.com/companies/minimax/): Company entity records.
 - [Moonshot AI](https://data.sinoaihub.com/companies/moonshot-ai/): Company entity records.
+- [Tencent](https://data.sinoaihub.com/companies/tencent/): Company entity records.
 - [Zhipu AI](https://data.sinoaihub.com/companies/zhipu-ai/): Company entity records.
-
 ## Agents
 - [AutoGLM](https://data.sinoaihub.com/agents/autoglm/): Agent entity records.
+- [Baidu Qianfan AppBuilder (千帆 AppBuilder)](https://data.sinoaihub.com/agents/baidu-appbuilder/): Agent entity records.
+- [Coze (扣子)](https://data.sinoaihub.com/agents/coze/): Agent entity records.
 - [DeepSeek Harness](https://data.sinoaihub.com/agents/deepseek-harness/): Agent entity records.
+- [Dify](https://data.sinoaihub.com/agents/dify/): Agent entity records.
 - [Doubao](https://data.sinoaihub.com/agents/doubao-app/): Agent entity records.
+- [FastGPT](https://data.sinoaihub.com/agents/fastgpt/): Agent entity records.
 - [GLM Coding Plan](https://data.sinoaihub.com/agents/glm-coding-plan/): Agent entity records.
 - [Kimi Code](https://data.sinoaihub.com/agents/kimi-code/): Agent entity records.
+- [Manus](https://data.sinoaihub.com/agents/manus/): Agent entity records.
+- [MetaGPT](https://data.sinoaihub.com/agents/metagpt/): Agent entity records.
 - [MiniMax Agent](https://data.sinoaihub.com/agents/minimax-agent/): Agent entity records.
 - [MiniMax Code](https://data.sinoaihub.com/agents/minimax-code/): Agent entity records.
 - [Qoder](https://data.sinoaihub.com/agents/qoder/): Agent entity records.
 - [Qwen-Agent](https://data.sinoaihub.com/agents/qwen-agent/): Agent entity records.
 - [Qwen Code](https://data.sinoaihub.com/agents/qwen-code/): Agent entity records.
+- [Tencent Yuanqi (腾讯元器)](https://data.sinoaihub.com/agents/yuanqi/): Agent entity records.
+- [Trae](https://data.sinoaihub.com/agents/trae/): Agent entity records.
 - [WorkBuddy](https://data.sinoaihub.com/agents/workbuddy/): Agent entity records.
 
 ## Apis
@@ -70,17 +85,24 @@
 - [zhipu-ai](https://data.sinoaihub.com/pricing/zhipu-ai/): Pricing entity records.
 
 ## Benchmarks
+- [AIME](https://data.sinoaihub.com/benchmarks/aime/): Benchmark entity records.
+- [ARC-AGI](https://data.sinoaihub.com/benchmarks/arc-agi/): Benchmark entity records.
 - [AutomationBench](https://data.sinoaihub.com/benchmarks/automationbench/): Benchmark entity records.
 - [BrowseComp](https://data.sinoaihub.com/benchmarks/browsecomp/): Benchmark entity records.
+- [C-Eval](https://data.sinoaihub.com/benchmarks/c-eval/): Benchmark entity records.
+- [CMMLU](https://data.sinoaihub.com/benchmarks/cmmlu/): Benchmark entity records.
 - [CyberGym](https://data.sinoaihub.com/benchmarks/cybergym/): Benchmark entity records.
 - [DeepSWE](https://data.sinoaihub.com/benchmarks/deepswe/): Benchmark entity records.
+- [GAIA](https://data.sinoaihub.com/benchmarks/gaia/): Benchmark entity records.
 - [GPQA Diamond](https://data.sinoaihub.com/benchmarks/gpqa-diamond/): Benchmark entity records.
 - [HLE](https://data.sinoaihub.com/benchmarks/hle/): Benchmark entity records.
+- [IFEval](https://data.sinoaihub.com/benchmarks/ifeval/): Benchmark entity records.
+- [LiveCodeBench](https://data.sinoaihub.com/benchmarks/livecodebench/): Benchmark entity records.
 - [MMMU-Pro](https://data.sinoaihub.com/benchmarks/mmmu-pro/): Benchmark entity records.
+- [SuperCLUE](https://data.sinoaihub.com/benchmarks/superclue/): Benchmark entity records.
 - [SWE-bench](https://data.sinoaihub.com/benchmarks/swe-bench/): Benchmark entity records.
 - [Terminal-Bench](https://data.sinoaihub.com/benchmarks/terminal-bench/): Benchmark entity records.
 - [Video-MME](https://data.sinoaihub.com/benchmarks/video-mme/): Benchmark entity records.
-
 ## Optional
 - [Sitemap](https://data.sinoaihub.com/sitemap.xml): Full sitemap of the Data Hub.
 - [Main site](https://sinoaihub.com/): Editorial and canonical entity pages.

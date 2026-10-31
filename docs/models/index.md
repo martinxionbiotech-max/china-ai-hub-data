@@ -16,6 +16,7 @@ Chinese foundation and coding models tracked by China AI Hub.
 | [GLM-5.3-Flash](glm-5.3-flash.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-53-flash) |
 | [GLM-5.3-FlashX](glm-5.3-flashx.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-53-flashx) |
 | [GLM-5.3](glm-5.3.md) | [sinoaihub.com](https://sinoaihub.com/models/glm-53) |
+| [Hunyuan Hy4 preview](hunyuan-hy4-preview.md) | [sinoaihub.com](https://sinoaihub.com/models/hunyuan-hy4-preview) |
 | [Kimi K2.6](kimi-k2.6.md) | [sinoaihub.com](https://sinoaihub.com/models/kimi-k26) |
 | [Kimi K2.7 Code Highspeed](kimi-k2.7-code-highspeed.md) | [sinoaihub.com](https://sinoaihub.com/models/kimi-k27-code-highspeed) |
 | [Kimi K2.7 Code](kimi-k2.7-code.md) | [sinoaihub.com](https://sinoaihub.com/models/kimi-k27-code) |
