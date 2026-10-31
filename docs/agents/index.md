@@ -24,6 +24,7 @@ Consumer and developer agent products from Chinese AI companies.
 | [Qwen Code](qwen-code.md) | [sinoaihub.com](https://sinoaihub.com/agents/qwen-code) |
 | [Tencent Yuanqi (腾讯元器)](yuanqi.md) | [sinoaihub.com](https://sinoaihub.com/agents/yuanqi) |
 | [Trae](trae.md) | [sinoaihub.com](https://sinoaihub.com/agents/trae) |
+| [WorkBuddy](workbuddy.md) | [sinoaihub.com](https://sinoaihub.com/agents/workbuddy) |
 
 ## Data policy
 

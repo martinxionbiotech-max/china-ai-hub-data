@@ -84,6 +84,7 @@ nav:
   - Qwen Code: agents/qwen-code.md
   - Tencent Yuanqi (腾讯元器): agents/yuanqi.md
   - Trae: agents/trae.md
+  - WorkBuddy: agents/workbuddy.md
 - APIs:
   - Overview: apis/index.md
   - ark: apis/ark.md

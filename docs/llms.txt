@@ -51,6 +51,7 @@
 - [Qoder](https://data.sinoaihub.com/agents/qoder/): Agent entity records.
 - [Qwen-Agent](https://data.sinoaihub.com/agents/qwen-agent/): Agent entity records.
 - [Qwen Code](https://data.sinoaihub.com/agents/qwen-code/): Agent entity records.
+- [WorkBuddy](https://data.sinoaihub.com/agents/workbuddy/): Agent entity records.
 
 ## Apis
 - [Ark API](https://data.sinoaihub.com/apis/ark/): API entity records.
